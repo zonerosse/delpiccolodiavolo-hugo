@@ -2,7 +2,7 @@
 title: "Welpen: Erster Spaziergang"
 date: 2025-09-17
 titleSeo: "Der erste Spaziergang des Welpen: wann und wie"
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 translationKey: "passeggiata"
 articolo: true
 image: "/images/blog/cuccioli-5.webp"
@@ -94,6 +94,8 @@ custom_content: |
   <p><strong>Halsband oder Geschirr?</strong> Geschirr zum Führen, Halsband zur Kennzeichnung. Ein Y-Geschirr, das die Schulter frei lässt, mit Brustring, ist für eine kräftige Rasse die beste Kombination.</p>
   <p><strong>Darf mein Welpe fremde Hunde treffen?</strong> Nur ruhige, gesunde, geimpfte Erwachsene, deren Halter Sie vorher fragen können. Eine unkontrollierte Begegnung mit einem reaktiven Hund kann einen Welpen ein Jahr Arbeit kosten, um es wieder gutzumachen.</p>
   <p><strong>Ab wann sind richtige Spaziergänge möglich?</strong> Steigern Sie langsam und rechnen Sie mit voller Länge ab etwa 18 Monaten, wenn die Wachstumsfugen geschlossen sind.</p>
+
+  <p>Viele Züchter stellen ihre Welpen als «nach der Bio-Sensor-Methode aufgezogen» vor, mit Stimulationsübungen in den ersten Lebenstagen. Die Belege, dass sie helfen, sind schwach: die Dinge des Alltags, wie die in diesem Ratgeber, zählen mehr. Wir erklären es in <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor: was die Forschung wirklich sagt">Bio Sensor: was die Forschung wirklich sagt</a>.</p>
 
   <div class="related-articles">
   <h3>Verwandte Artikel</h3>

@@ -1,7 +1,7 @@
 ---
 title: "Quanto costa un cucciolo di Staffordshire Bull Terrier nel 2026"
 date: 2026-01-25
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 articolo: true
 translationKey: "quanto-costa"
 image: "/images/blog/scontrino-farmaci-cucciolata.webp"
@@ -234,6 +234,8 @@ Il prezzo di un cucciolo non paga solo vaccinazioni e pedigree. Paga un modo com
 </tr>
 </tbody>
 </table>
+
+Fra le cose che fanno salire il prezzo c'è spesso la scritta «cuccioli cresciuti con il metodo Bio Sensor». È una promessa che le prove non sostengono: lo spieghiamo in [Bio Sensor: cosa dice davvero la ricerca](/bio-sensor-stimolazione-precoce-cuccioli/ "Bio Sensor: cosa dice davvero la ricerca").
 
 <!--/BLOCCO:5-->
 

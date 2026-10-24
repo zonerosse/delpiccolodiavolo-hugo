@@ -2,7 +2,7 @@
 title: "Welpen: Entwurmung und Kotuntersuchung"
 date: 2026-09-27
 titleSeo: "Entwurmung der Welpen: Plan und Kotuntersuchung"
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 translationKey: "sverminazione"
 articolo: true
 image: "/images/blog/esame-feci-microscopio-hero.webp"
@@ -156,6 +156,8 @@ custom_content: |
   <div class="alert">
   <p><strong>⚠️ Eine Sache, nach der man immer fragen sollte</strong>, bei uns wie bei jedem anderen: <strong>die Befunde</strong>. Wer sauber arbeitet, hat keinen Grund, sie nicht zu zeigen.</p>
   </div>
+
+  <p>Viele Züchter stellen ihre Welpen als «nach der Bio-Sensor-Methode aufgezogen» vor, mit Stimulationsübungen in den ersten Lebenstagen. Die Belege, dass sie helfen, sind schwach: die Dinge des Alltags, wie die in diesem Ratgeber, zählen mehr. Wir erklären es in <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor: was die Forschung wirklich sagt">Bio Sensor: was die Forschung wirklich sagt</a>.</p>
 
   <div class="related-articles">
   <h3>Verwandte Artikel</h3>

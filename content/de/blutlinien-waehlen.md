@@ -2,7 +2,7 @@
 title: "Wie man Staffy-Blutlinien wählt"
 date: 2025-03-05
 titleSeo: "Staffordshire Bull Terrier Blutlinien richtig wählen"
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 translationKey: "scelta-linee"
 articolo: true
 image: "/images/blog/standard-2.webp"
@@ -91,8 +91,9 @@ custom_content: |
   <h2>Worauf Sie bei den Welpen selbst achten</h2>
   <p>Mit zwei Monaten beurteilen Sie Tendenzen, keine Ergebnisse. Achten Sie auf Welpen, die sich von einer Überraschung schnell erholen, die nach kurzem Zögern auf einen Fremden zugehen statt zurückzuweichen, und die es einige Sekunden ohne Panik aushalten, auf dem Rücken gehalten zu werden.</p>
   <p>Wählen Sie nicht den forschesten Welpen, nur weil er als Erster zu Ihnen kommt: das ist der häufigste Fehler. Das selbstsichere Mittelfeld eines Wurfes passt zur überwiegenden Mehrheit der Familien weit besser als beide Extreme, und ein guter Züchter lenkt Sie dorthin. Tatsächlich wählt ein guter Züchter den Welpen für Sie aus, statt Sie wählen zu lassen, und das sollte beruhigen statt zu ärgern.</p>
-  <!--/BLOCCO:8-->
 
+  <p>Viele Züchter stellen ihre Welpen als «nach der Bio-Sensor-Methode aufgezogen» vor. Die Belege, dass das hilft, sind schwach, und über die Blutlinie sagt es nichts: wir erklären es in <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor: was die Forschung wirklich sagt">Bio Sensor: was die Forschung wirklich sagt</a>.</p>
+  <!--/BLOCCO:8-->
   <!--BLOCCO:9-->
   <h2>Warnzeichen beim Vergleich von Zwingern</h2>
   <p>Mehrere Würfe gleichzeitig verfügbar oder ständig Welpen vorrätig. Preise, die sich nach Fellfarbe richten. Gesundheitszeugnisse, die erst für nach dem Einzug versprochen werden. Welpen, die ihre Mutter vor 60 Tagen verlassen, in Italien ohnehin unzulässig. Seltene Farben als Verkaufsargument. Und ein Züchter, der Ihnen keine einzige Frage stellt: gerade diejenigen, die Sie ausfragen, nehmen den Hund zurück, wenn Sie es brauchen.</p>

@@ -1,6 +1,6 @@
 ---
 title: "How much does a Staffordshire Bull Terrier puppy cost in 2026"
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 articolo: true
 image: "/images/blog/scontrino-farmaci-cucciolata.webp"
 og_image: "/images/og/schede/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost.jpg"
@@ -234,6 +234,8 @@ The price of a puppy does not just pay for vaccinations and a pedigree. It pays 
 </tr>
 </tbody>
 </table>
+
+Among the things that push the price up there is often the line «puppies raised with the Bio Sensor method». It is a promise the evidence does not support: we explain why in [Bio Sensor: what the research actually says](/en/bio-sensor-early-stimulation-puppies/ "Bio Sensor: what the research actually says").
 
 <!--/BLOCCO:5-->
 

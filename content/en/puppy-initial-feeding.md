@@ -2,7 +2,7 @@
 title: "Puppies: initial feeding"
 date: 2025-04-15
 titleSeo: "Feeding a Staffordshire Bull Terrier puppy: first months"
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 translationKey: "alimentazione"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -107,6 +107,8 @@ custom_content: |
   <h2>Weight: the thing to watch most closely</h2>
   <p>An overweight puppy is not a healthy puppy, and in this breed excess weight is easy to miss under muscle. Growing joints carry the load for a year, and the damage from excess weight during growth does not reverse.</p>
   <p>Weigh the puppy weekly on the same scales and write it down. Steady, moderate growth is the goal; rapid growth is not an achievement. If in doubt, ask your veterinarian to body-condition score the puppy at each vaccination visit, which takes 10 seconds and is more useful than any chart.</p>
+
+  <p>Many breeders present their puppies as «raised with the Bio Sensor method», the stimulation exercises of the first days of life. The evidence that they help is weak: everyday things, like the ones in this guide, count for more. We explain it in <a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor: what the research actually says">Bio Sensor: what the research actually says</a>.</p>
 
   <div class="related-articles">
   <h3>Related articles</h3>

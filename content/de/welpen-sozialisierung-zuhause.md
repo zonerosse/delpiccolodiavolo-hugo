@@ -2,7 +2,7 @@
 title: "Welpen zu Hause sozialisieren: die Liste für die Familie"
 date: 2025-03-18
 titleSeo: "Welpen zu Hause sozialisieren: die Liste für die Familie"
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 translationKey: "socializzazione"
 articolo: true
 image: "/images/blog/cuccioli-1.webp"
@@ -98,6 +98,8 @@ custom_content: |
   <p><strong>Wie viel Neues pro Tag ist richtig?</strong> Zwei oder drei Dinge in Ruhe schlagen zehn in Hast. Führen Sie eine schriftliche Liste und arbeiten Sie sie über 8 Wochen ab.</p>
   <p><strong>Mein Welpe hat Angst vor dem Staubsauger.</strong> Erst ausgeschaltet im Raum, belohnt. Dann eingeschaltet im Nebenraum bei geschlossener Tür. Dann an, aus Entfernung, 10 Sekunden.</p>
   <p><strong>Lohnt sich eine Welpenstunde?</strong> Eine gut geführte ja, besonders wenn sie ruhiges Handling und strukturierte Gewöhnung enthält statt 20 Minuten freies Getümmel. Schauen Sie vorher einmal zu.</p>
+
+  <p>Viele Züchter stellen ihre Welpen als «nach der Bio-Sensor-Methode aufgezogen» vor, mit Stimulationsübungen in den ersten Lebenstagen. Die Belege, dass sie helfen, sind schwach: die Dinge des Alltags, wie die in diesem Ratgeber, zählen mehr. Wir erklären es in <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor: was die Forschung wirklich sagt">Bio Sensor: was die Forschung wirklich sagt</a>.</p>
 
   <div class="related-articles">
   <h3>Verwandte Artikel</h3>

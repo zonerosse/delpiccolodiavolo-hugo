@@ -2,7 +2,7 @@
 title: "Socializzare il cucciolo in casa: la lista per la famiglia"
 date: 2025-03-18
 titleSeo: "Socializzare il cucciolo in casa: la lista per la famiglia"
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 translationKey: "socializzazione"
 articolo: true
 image: "/images/blog/cucciolo-in-mano-hero.webp"
@@ -105,6 +105,8 @@ custom_content: |
   <p><strong>Il mio cucciolo ha paura dell'aspirapolvere.</strong> Si comincia con l'aspirapolvere spento nella stanza, con un premio. Poi acceso in un'altra stanza con la porta chiusa. Poi acceso, a distanza, per dieci secondi. Avere fretta qui crea un cane che va nel panico con gli elettrodomestici per tutta la vita.</p>
   <p><strong>Vale la pena fare una puppy class?</strong> Una ben condotta sì, soprattutto se comprende manipolazioni tranquille ed esposizioni strutturate invece di venti minuti di gioco libero. Si chiede di assistere a una lezione prima di iscriversi.</p>
   <p><strong>E se ho adottato un adulto poco socializzato?</strong> Il progresso è più lento ma reale. L'approccio è lo stesso (distanza, pazienza, cibo), con l'aspettativa di mesi invece che settimane, e di solito con un aiuto professionale.</p>
+
+  <p>Molti allevamenti presentano i cuccioli come «cresciuti con il metodo Bio Sensor», gli esercizi di stimolazione dei primi giorni di vita. Le prove che servano sono deboli: contano di più le cose di tutti i giorni, come quelle di questa guida. Lo spieghiamo in <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor: cosa dice davvero la ricerca">Bio Sensor: cosa dice davvero la ricerca</a>.</p>
 
   <div class="related-articles">
   <h3>Articoli correlati</h3>

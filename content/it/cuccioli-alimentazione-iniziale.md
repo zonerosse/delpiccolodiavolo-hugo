@@ -2,7 +2,7 @@
 title: "Cuccioli: alimentazione iniziale"
 date: 2025-04-15
 titleSeo: "Alimentazione del cucciolo Staffy nei primi mesi"
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 translationKey: "alimentazione"
 articolo: true
 image: "/images/blog/cuccioli-4.webp"
@@ -105,6 +105,8 @@ custom_content: |
   <h2>Il peso: la cosa da tenere d'occhio di più</h2>
   <p>Un cucciolo sovrappeso non è un cucciolo sano, e in questa razza il peso in eccesso si nasconde facilmente sotto il muscolo. Le articolazioni in crescita portano il carico per un anno, e il danno del sovrappeso durante la crescita non torna indietro: la <a href="/salute-esercizio-sicuro/" title="Esercizio sicuro">guida all'esercizio sicuro</a> spiega perché le cartilagini di accrescimento vanno rispettate fino ai dodici-diciotto mesi.</p>
   <p>Il cucciolo si pesa una volta alla settimana, sulla stessa bilancia, e il peso si scrive. L'obiettivo è una crescita regolare e moderata; una crescita rapida non è un traguardo. Nel dubbio si chiede al veterinario di valutare la condizione corporea a ogni visita per i vaccini: dieci secondi, e valgono più di qualsiasi tabella.</p>
+
+  <p>Molti allevamenti presentano i cuccioli come «cresciuti con il metodo Bio Sensor», gli esercizi di stimolazione dei primi giorni di vita. Le prove che servano sono deboli: contano di più le cose di tutti i giorni, come quelle di questa guida. Lo spieghiamo in <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor: cosa dice davvero la ricerca">Bio Sensor: cosa dice davvero la ricerca</a>.</p>
 
   <div class="related-articles">
   <h3>Articoli correlati</h3>

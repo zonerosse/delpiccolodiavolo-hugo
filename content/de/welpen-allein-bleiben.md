@@ -2,7 +2,7 @@
 title: "Welpen: Allein Bleiben Lernen"
 date: 2025-07-08
 titleSeo: "Welpen lernen allein zu bleiben, ohne Stress"
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 translationKey: "solitudine"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -100,6 +100,8 @@ custom_content: |
   <h2>Wie lange ist zumutbar</h2>
   <p>Ein Welpe von zwei bis drei Monaten sollte nicht länger als ein bis 2 Stunden allein sein. Mit 6 Monaten drei bis vier. Ein erwachsener Hund schafft 4 bis 6 Stunden, wenn er vorher bewegt wurde und etwas zu tun hat, aber 8 Stunden täglich allein sind mit dieser Rasse nicht vereinbar, und das sagen wir Interessenten offen.</p>
   <p>Wo der Arbeitstag lang ist, lautet die Lösung: eine Mittagsrunde durch eine bezahlte Betreuung, eine Nachbarin, oder zwei- bis dreimal wöchentlich eine Hundetagesstätte. Das sind gewöhnliche Kosten dieser Rasse und kein Luxus.</p>
+
+  <p>Viele Züchter stellen ihre Welpen als «nach der Bio-Sensor-Methode aufgezogen» vor, mit Stimulationsübungen in den ersten Lebenstagen. Die Belege, dass sie helfen, sind schwach: die Dinge des Alltags, wie die in diesem Ratgeber, zählen mehr. Wir erklären es in <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor: was die Forschung wirklich sagt">Bio Sensor: was die Forschung wirklich sagt</a>.</p>
 
   <div class="related-articles">
   <h3>Verwandte Artikel</h3>

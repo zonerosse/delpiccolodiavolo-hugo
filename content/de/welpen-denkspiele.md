@@ -2,7 +2,7 @@
 title: "Welpen: Denkspiele"
 date: 2025-08-03
 titleSeo: "Denkspiele für Staffordshire Bull Terrier Welpen"
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 translationKey: "giochi-mentali"
 articolo: true
 image: "/images/blog/cuccioli-3.webp"
@@ -97,6 +97,8 @@ custom_content: |
   <p><strong>Mein Welpe zerlegt das Puzzle, statt es zu lösen.</strong> Das ist ein Staffordshire Bull Terrier, der ein Staffordshire Bull Terrier ist. Verwenden Sie in dieser Phase Karton, beaufsichtigen Sie, und steigen Sie auf stabilere Puzzles um, sobald der Welpe arbeitet statt zerlegt.</p>
   <p><strong>Ist Nasenarbeit für einen sehr jungen Welpen geeignet?</strong> Ja, ab 8 Wochen auf einfachster Stufe. Es ist die sicherste Beschäftigung für einen wachsenden Hund: keine Stöße, keine Wiederholung, keine Gelenkbelastung.</p>
   <p><strong>Wie oft soll ich das Spielzeug wechseln?</strong> Wöchentlich reicht. Neuheit ist ein großer Teil dessen, was Kopfarbeit ermüdend macht; ein fünfzigmal gelöstes Rätsel ist kein Rätsel mehr.</p>
+
+  <p>Viele Züchter stellen ihre Welpen als «nach der Bio-Sensor-Methode aufgezogen» vor, mit Stimulationsübungen in den ersten Lebenstagen. Die Belege, dass sie helfen, sind schwach: die Dinge des Alltags, wie die in diesem Ratgeber, zählen mehr. Wir erklären es in <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor: was die Forschung wirklich sagt">Bio Sensor: was die Forschung wirklich sagt</a>.</p>
 
   <div class="related-articles">
   <h3>Verwandte Artikel</h3>

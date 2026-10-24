@@ -2,7 +2,7 @@
 title: "How to choose Staffy bloodlines"
 date: 2025-03-05
 titleSeo: "Choosing Staffordshire Bull Terrier bloodlines"
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 translationKey: "scelta-linee"
 articolo: true
 image: "/images/blog/standard-2.webp"
@@ -91,8 +91,9 @@ custom_content: |
   <h2>What to look for in the puppies themselves</h2>
   <p>At two months you are assessing tendency rather than outcome. Look for puppies that recover quickly from a surprise, that approach a stranger after a moment of hesitation rather than retreating, and that tolerate being held on their back for a few seconds without panic.</p>
   <p>Avoid choosing the boldest puppy in the litter because it comes to you first, which is the commonest mistake. The confident middle of a litter suits the vast majority of homes far better than either extreme, and a good breeder will steer you there; indeed, a good breeder chooses the puppy for you rather than letting you choose it, and that should be reassuring rather than annoying.</p>
-  <!--/BLOCCO:8-->
 
+  <p>Many breeders present their puppies as «raised with the Bio Sensor method». The evidence that it helps is weak, and it tells you nothing about the bloodline: we explain it in <a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor: what the research actually says">Bio Sensor: what the research actually says</a>.</p>
+  <!--/BLOCCO:8-->
   <!--BLOCCO:9-->
   <h2>Warning signs when comparing kennels</h2>
   <p>Several litters available at once, or puppies always in stock. Prices that vary by coat colour. Health certificates promised for after the puppy goes home. Puppies leaving their mother before 60 days, which is illegal in Italy. Rare colours advertised as a selling point. And a breeder who asks you no questions at all: the ones who interrogate you are the ones who will take the dog back if you need them to.</p>

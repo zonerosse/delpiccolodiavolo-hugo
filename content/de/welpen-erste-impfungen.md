@@ -2,7 +2,7 @@
 title: "Welpen: Erste Impfungen"
 date: 2025-06-10
 titleSeo: "Erste Impfungen des Welpen: Plan und Auffrischung"
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 translationKey: "vaccinazioni"
 articolo: true
 image: "/images/blog/salute.webp"
@@ -106,6 +106,8 @@ custom_content: |
   <h2>Das Impfbuch</h2>
   <p>Jede Injektion muss mit Datum, Präparatename, Chargennummer und Praxisstempel eingetragen sein. Bewahren Sie das Heft sicher auf: es wird für Pension, Reisen, Ausstellungen und jede spätere Behandlung gebraucht, und es lässt sich nachträglich nicht rekonstruieren.</p>
   <p>Bei einem Welpen von uns sind die erste Impfung und der Entwurmungsplan bereits eingetragen, und wir gehen die verbleibenden Termine vor der Abgabe gemeinsam durch.</p>
+
+  <p>Viele Züchter stellen ihre Welpen als «nach der Bio-Sensor-Methode aufgezogen» vor, mit Stimulationsübungen in den ersten Lebenstagen. Die Belege, dass sie helfen, sind schwach: die Dinge des Alltags, wie die in diesem Ratgeber, zählen mehr. Wir erklären es in <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor: was die Forschung wirklich sagt">Bio Sensor: was die Forschung wirklich sagt</a>.</p>
 
   <div class="related-articles">
   <h3>Verwandte Artikel</h3>

@@ -2,7 +2,7 @@
 title: "Puppies: mental games"
 date: 2025-08-03
 titleSeo: "Mental games for Staffordshire Bull Terrier puppies"
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 translationKey: "giochi-mentali"
 articolo: true
 image: "/images/blog/cuccioli-3.webp"
@@ -104,6 +104,8 @@ custom_content: |
   <p><strong>How long should a session be?</strong> 3 to 5 minutes for a young puppy, up to fifteen for nose work by 5 or 6 months. Several short sessions beat one long one.</p>
   <p><strong>My puppy destroys the puzzle instead of solving it.</strong> That is a Staffordshire Bull Terrier being a Staffordshire Bull Terrier. Use cardboard for the destructive phase, supervise, and choose sturdier puzzles as the puppy learns to work rather than dismantle.</p>
   <p><strong>Is nose work suitable for a very young puppy?</strong> Yes, from 8 weeks, at the simplest level. It is the safest activity there is for a growing dog: no impact, no repetition, no load on joints.</p>
+
+  <p>Many breeders present their puppies as «raised with the Bio Sensor method», the stimulation exercises of the first days of life. The evidence that they help is weak: everyday things, like the ones in this guide, count for more. We explain it in <a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor: what the research actually says">Bio Sensor: what the research actually says</a>.</p>
 
   <div class="related-articles">
   <h3>Related articles</h3>

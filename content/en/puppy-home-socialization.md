@@ -2,7 +2,7 @@
 title: "Socialising the puppy at home: the family checklist"
 date: 2025-03-18
 titleSeo: "Socialising the puppy at home: the family checklist"
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 translationKey: "socializzazione"
 articolo: true
 image: "/images/blog/cuccioli-1.webp"
@@ -107,6 +107,8 @@ custom_content: |
   <p><strong>My puppy is frightened of the vacuum cleaner.</strong> Start with it switched off in the room, rewarded. Then switched on in another room with the door closed. Then on, at a distance, for 10 seconds. Rushing this creates a dog that panics at appliances for life.</p>
   <p><strong>Is puppy class worthwhile?</strong> A well-run one, yes, particularly if it includes calm handling and structured exposure rather than 20 minutes of free-for-all play. Ask to observe a session before enrolling.</p>
   <p><strong>What if I adopted an under-socialised adult?</strong> Progress is slower but real. The approach is the same (distance, patience, food), with the expectation of months rather than weeks, and usually with professional help.</p>
+
+  <p>Many breeders present their puppies as «raised with the Bio Sensor method», the stimulation exercises of the first days of life. The evidence that they help is weak: everyday things, like the ones in this guide, count for more. We explain it in <a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor: what the research actually says">Bio Sensor: what the research actually says</a>.</p>
 
   <div class="related-articles">
   <h3>Related articles</h3>

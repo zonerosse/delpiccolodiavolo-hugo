@@ -1,6 +1,6 @@
 ---
 title: "Was kostet ein Staffordshire Bull Terrier Welpe 2026"
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 articolo: true
 image: "/images/blog/scontrino-farmaci-cucciolata.webp"
 og_image: "/images/og/schede/de/was-kostet-ein-staffordshire-bull-terrier-welpe.jpg"
@@ -234,6 +234,8 @@ Der Preis eines Welpen bezahlt nicht nur Impfungen und Ahnentafel. Er bezahlt ei
 </tr>
 </tbody>
 </table>
+
+Zu den Dingen, die den Preis erhöhen, gehört oft der Satz «Welpen nach der Bio-Sensor-Methode aufgezogen». Ein Versprechen, das die Belege nicht stützen: warum, erklären wir in [Bio Sensor: was die Forschung wirklich sagt](/de/bio-sensor-fruehstimulation-welpen/ "Bio Sensor: was die Forschung wirklich sagt").
 
 <!--/BLOCCO:5-->
 

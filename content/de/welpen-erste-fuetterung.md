@@ -2,7 +2,7 @@
 title: "Welpen: Erste Fütterung"
 date: 2025-04-15
 titleSeo: "Ernährung des Welpen in den ersten Monaten"
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 translationKey: "alimentazione"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -106,6 +106,8 @@ custom_content: |
   <h2>Gewicht: der wichtigste Punkt</h2>
   <p>Ein übergewichtiger Welpe ist kein gesunder Welpe, und bei dieser Rasse verschwindet der Überschuss leicht unter der Muskulatur. Wachsende Gelenke tragen die Last ein Jahr lang, und der Schaden aus dieser Zeit bildet sich nicht zurück.</p>
   <p>Wiegen Sie den Welpen wöchentlich auf derselben Waage und notieren Sie es. Ziel ist gleichmäßiges, maßvolles Wachstum; schnelles Wachstum ist kein Erfolg. Lassen Sie im Zweifel bei jedem Impftermin den Ernährungszustand beurteilen: Das dauert 10 Sekunden und nützt mehr als jede Tabelle.</p>
+
+  <p>Viele Züchter stellen ihre Welpen als «nach der Bio-Sensor-Methode aufgezogen» vor, mit Stimulationsübungen in den ersten Lebenstagen. Die Belege, dass sie helfen, sind schwach: die Dinge des Alltags, wie die in diesem Ratgeber, zählen mehr. Wir erklären es in <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor: was die Forschung wirklich sagt">Bio Sensor: was die Forschung wirklich sagt</a>.</p>
 
   <div class="related-articles">
   <h3>Verwandte Artikel</h3>

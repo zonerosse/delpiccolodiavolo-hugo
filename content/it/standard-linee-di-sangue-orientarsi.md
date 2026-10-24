@@ -2,7 +2,7 @@
 title: "Come scegliere la linea di sangue di un cucciolo di Staffy"
 date: 2025-03-05
 titleSeo: "Come scegliere la linea di sangue di un cucciolo di Staffy"
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 translationKey: "scelta-linee"
 articolo: true
 image: "/images/blog/standard-2.webp"
@@ -97,8 +97,9 @@ custom_content: |
   <h2>Cosa guardare nei cuccioli</h2>
   <p>A due mesi si valuta una tendenza, non un risultato. Cerca cuccioli che si riprendono in fretta da una sorpresa, che si avvicinano a un estraneo dopo un attimo di esitazione invece di ritirarsi, e che tollerano di essere tenuti a pancia in su per qualche secondo senza andare nel panico.</p>
   <p>Non scegliere il cucciolo più sfacciato della cucciolata perché viene da te per primo: è l'errore più comune. La fascia sicura di sé ma non estrema va bene per la grande maggioranza delle case, molto più dei due estremi, e un buon allevatore ti ci porterà; anzi, un buon allevatore il cucciolo lo sceglie lui per te invece di lasciartelo scegliere, e questo dovrebbe rassicurarti, non infastidirti.</p>
-  <!--/BLOCCO:8-->
 
+  <p>Molti allevamenti presentano i cuccioli come «cresciuti con il metodo Bio Sensor». Le prove che serva sono deboli, e non dicono niente della linea di sangue: lo spieghiamo in <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor: cosa dice davvero la ricerca">Bio Sensor: cosa dice davvero la ricerca</a>.</p>
+  <!--/BLOCCO:8-->
   <!--BLOCCO:9-->
   <h2>I segnali d'allarme quando confronti gli allevamenti</h2>
   <p>Diverse cucciolate disponibili insieme, o cuccioli sempre pronti. Prezzi che cambiano secondo il colore del mantello. Certificati di salute promessi per quando il cucciolo sarà già a casa. Cuccioli che lasciano la madre prima dei 60 giorni, cosa vietata in Italia. Colori rari usati come argomento di vendita. E un allevatore che non ti fa nessuna domanda: quelli che ti fanno l'interrogatorio sono quelli che si riprenderanno il cane se ne avrai bisogno.</p>

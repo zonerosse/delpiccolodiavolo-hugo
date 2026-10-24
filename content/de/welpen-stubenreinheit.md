@@ -2,7 +2,7 @@
 title: "Welpen: Stubenreinheit"
 date: 2025-05-22
 titleSeo: "Welpen stubenrein machen: Methode und Zeitrahmen"
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 translationKey: "bisogni"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -102,6 +102,8 @@ custom_content: |
   <p>Erst drinnen belohnen, was dem Welpen beibringt, dass sich das Hereinkommen lohnt.</p>
   <p>Zu früh zu viel Freiheit: ein Welpe, der frei im ganzen Haus ist, findet eine stille Ecke. Beschränken Sie den Raum, bis Zuverlässigkeit steht, und erweitern Sie ihn schrittweise.</p>
   <p>Und mit 3 Monaten aufzugeben, weil es noch nicht sitzt. Mit 3 Monaten soll es noch nicht sitzen.</p>
+
+  <p>Viele Züchter stellen ihre Welpen als «nach der Bio-Sensor-Methode aufgezogen» vor, mit Stimulationsübungen in den ersten Lebenstagen. Die Belege, dass sie helfen, sind schwach: die Dinge des Alltags, wie die in diesem Ratgeber, zählen mehr. Wir erklären es in <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor: was die Forschung wirklich sagt">Bio Sensor: was die Forschung wirklich sagt</a>.</p>
 
   <div class="related-articles">
   <h3>Verwandte Artikel</h3>

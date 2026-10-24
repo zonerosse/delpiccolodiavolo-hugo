@@ -2,7 +2,7 @@
 title: "Cuccioli: educazione ai bisogni"
 date: 2025-05-22
 titleSeo: "Educare il cucciolo ai bisogni: metodo e tempi reali"
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 translationKey: "bisogni"
 articolo: true
 image: "/images/blog/cucciolo-ritratto-hero.webp"
@@ -101,6 +101,8 @@ custom_content: |
   <p>Premiare una volta rientrati in casa, che insegna al cucciolo che è il rientro a pagare.</p>
   <p>Troppa libertà troppo presto: un cucciolo libero in tutta la casa trova un angolo tranquillo. Si limita lo spazio disponibile finché non è affidabile, e lo si allarga poco alla volta. Vale lo stesso principio della <a href="/cuccioli-gestione-solitudine/" title="Gestione della solitudine">gestione della solitudine</a>: una stanza sicura prima, il resto della casa dopo.</p>
   <p>E arrendersi a tre mesi perché non ha ancora finito. Non deve aver finito a tre mesi.</p>
+
+  <p>Molti allevamenti presentano i cuccioli come «cresciuti con il metodo Bio Sensor», gli esercizi di stimolazione dei primi giorni di vita. Le prove che servano sono deboli: contano di più le cose di tutti i giorni, come quelle di questa guida. Lo spieghiamo in <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor: cosa dice davvero la ricerca">Bio Sensor: cosa dice davvero la ricerca</a>.</p>
 
   <div class="related-articles">
   <h3>Articoli correlati</h3>

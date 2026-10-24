@@ -4,7 +4,7 @@ og_image: "/images/og/schede/it/cucciolo-staffordshire-bull-terrier-all-estero.j
 og_image_alt: "Cucciolo Staffy all'estero: tempi e documenti — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/cucciolo-staffordshire-bull-terrier-all-estero.webp"
 date: 2026-09-12
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 articolo: true
 translationKey: "cucciolo-estero"
 description: "Un cucciolo destinato a un altro paese europeo parte a quattro mesi, non a due. Antirabbica, passaporto, certificato TRACES ed export pedigree ENCI."
@@ -111,6 +111,7 @@ custom_content: |
 
   <p>Se una cucciolata vi interessa, parlatene con noi quando i cuccioli sono ancora piccoli. Servono settimane per organizzare le vaccinazioni nei tempi giusti, fissare la visita per il certificato ufficiale e mettere d'accordo due calendari.</p>
 
+  <p>Confrontando allevamenti di paesi diversi troverai spesso cuccioli «cresciuti con il metodo Bio Sensor». Prima di farne un criterio di scelta, leggi <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor: cosa dice davvero la ricerca">Bio Sensor: cosa dice davvero la ricerca</a>.</p>
   <h2>Una premessa onesta</h2>
 
   <p>Le regole cambiano. Il quadro europeo è stato aggiornato ad aprile 2026 e i singoli paesi applicano condizioni proprie, soprattutto sui cuccioli giovani.</p>

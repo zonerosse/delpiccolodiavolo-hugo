@@ -2,7 +2,7 @@
 title: "Cuccioli: sverminazione ed esami delle feci"
 date: 2026-09-27
 titleSeo: "Sverminazione cuccioli: protocollo ed esami delle feci"
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 translationKey: "sverminazione"
 articolo: true
 image: "/images/blog/esame-feci-microscopio-hero.webp"
@@ -158,6 +158,8 @@ custom_content: |
   <div class="alert">
   <p><strong>⚠️ Una cosa da chiedere sempre</strong>, a noi come a chiunque altro: <strong>i referti</strong>. Chi fa le cose per bene non ha alcun motivo per non mostrarli.</p>
   </div>
+
+  <p>Molti allevamenti presentano i cuccioli come «cresciuti con il metodo Bio Sensor», gli esercizi di stimolazione dei primi giorni di vita. Le prove che servano sono deboli: contano di più le cose di tutti i giorni, come quelle di questa guida. Lo spieghiamo in <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor: cosa dice davvero la ricerca">Bio Sensor: cosa dice davvero la ricerca</a>.</p>
 
   <div class="related-articles">
   <h3>Articoli correlati</h3>

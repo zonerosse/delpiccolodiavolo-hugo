@@ -2,7 +2,7 @@
 title: "Cuccioli: giochi mentali"
 date: 2025-08-03
 titleSeo: "Giochi mentali per cuccioli di Staffordshire Bull Terrier"
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 translationKey: "giochi-mentali"
 articolo: true
 image: "/images/blog/cuccioli-6.webp"
@@ -102,6 +102,8 @@ custom_content: |
   <p><strong>Quanto deve durare una sessione?</strong> Tre-cinque minuti per un cucciolo giovane, fino a quindici per la ricerca olfattiva verso i cinque-sei mesi. Diverse sessioni brevi battono una lunga.</p>
   <p><strong>Il mio cucciolo distrugge il puzzle invece di risolverlo.</strong> È uno Staffordshire Bull Terrier che fa lo Staffordshire Bull Terrier. Si usa il cartone per la fase distruttiva, si sorveglia, e si scelgono puzzle più robusti man mano che il cucciolo impara a lavorare invece di smontare.</p>
   <p><strong>La ricerca olfattiva va bene per un cucciolo molto giovane?</strong> Sì, dalle otto settimane, al livello più semplice. È l'attività più sicura che esista per un cane in crescita: niente impatti, niente ripetizioni, nessun carico sulle articolazioni.</p>
+
+  <p>Molti allevamenti presentano i cuccioli come «cresciuti con il metodo Bio Sensor», gli esercizi di stimolazione dei primi giorni di vita. Le prove che servano sono deboli: contano di più le cose di tutti i giorni, come quelle di questa guida. Lo spieghiamo in <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor: cosa dice davvero la ricerca">Bio Sensor: cosa dice davvero la ricerca</a>.</p>
 
   <div class="related-articles">
   <h3>Articoli correlati</h3>

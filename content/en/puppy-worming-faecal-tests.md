@@ -2,7 +2,7 @@
 title: "Puppies: worming and faecal tests"
 date: 2026-09-27
 titleSeo: "Puppy worming: protocol and faecal test results"
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 translationKey: "sverminazione"
 articolo: true
 image: "/images/blog/esame-feci-microscopio-hero.webp"
@@ -158,6 +158,8 @@ custom_content: |
   <div class="alert">
   <p><strong>⚠️ One thing to always ask for</strong>, from us as from anyone else: <strong>the reports</strong>. Breeders who do things properly have no reason not to show them.</p>
   </div>
+
+  <p>Many breeders present their puppies as «raised with the Bio Sensor method», the stimulation exercises of the first days of life. The evidence that they help is weak: everyday things, like the ones in this guide, count for more. We explain it in <a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor: what the research actually says">Bio Sensor: what the research actually says</a>.</p>
 
   <div class="related-articles">
   <h3>Related articles</h3>

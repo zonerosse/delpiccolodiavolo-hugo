@@ -2,7 +2,7 @@
 title: "Puppies: first vaccinations"
 date: 2025-06-10
 titleSeo: "Puppy first vaccinations: schedule and boosters"
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 translationKey: "vaccinazioni"
 articolo: true
 image: "/images/blog/salute.webp"
@@ -113,6 +113,8 @@ custom_content: |
   <h2>The health record</h2>
   <p>Every injection must be recorded with the date, the product name, the batch number and the veterinarian's stamp. Keep the booklet safe: it is required for boarding, for travel, for competition and for any future veterinary care, and reconstructing it later is impossible.</p>
   <p>When you collect a puppy from us, the first vaccination and the worming schedule are already recorded, and we go through the remaining dates with you before you leave.</p>
+
+  <p>Many breeders present their puppies as «raised with the Bio Sensor method», the stimulation exercises of the first days of life. The evidence that they help is weak: everyday things, like the ones in this guide, count for more. We explain it in <a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor: what the research actually says">Bio Sensor: what the research actually says</a>.</p>
 
   <div class="related-articles">
   <h3>Related articles</h3>

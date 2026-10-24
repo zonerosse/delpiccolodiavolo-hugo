@@ -4,7 +4,7 @@ og_image: "/images/og/schede/de/staffordshire-bull-terrier-welpe-ins-ausland.jpg
 og_image_alt: "Staffordshire Bull Terrier Welpe ins Ausland: so läuft es ab — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/cucciolo-staffordshire-bull-terrier-all-estero.webp"
 date: 2026-09-12
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 articolo: true
 translationKey: "cucciolo-estero"
 description: "Ein Welpe für ein anderes europäisches Land reist mit vier Monaten, nicht mit zwei. Tollwutimpfung, Heimtierausweis, TRACES-Zeugnis und ENCI-Exportstammbaum."
@@ -110,6 +110,7 @@ custom_content: |
 
     <p>Wenn Sie ein Wurf interessiert, sprechen Sie mit uns, solange die Welpen noch klein sind. Es braucht Wochen, um die Impfungen zeitlich richtig zu legen, den Termin für das amtliche Zeugnis zu bekommen und zwei Kalender in Einklang zu bringen.</p>
 
+    <p>Wer Züchter in verschiedenen Ländern vergleicht, findet oft Welpen «nach der Bio-Sensor-Methode aufgezogen». Bevor Sie das zum Auswahlkriterium machen, lesen Sie <a href="/de/bio-sensor-fruehstimulation-welpen/" title="Bio Sensor: was die Forschung wirklich sagt">Bio Sensor: was die Forschung wirklich sagt</a>.</p>
     <h2>Eine ehrliche Vorbemerkung</h2>
 
     <p>Regeln ändern sich. Der europäische Rahmen wurde im April 2026 aktualisiert, und die einzelnen Länder wenden eigene Bedingungen an, besonders bei jungen Welpen.</p>

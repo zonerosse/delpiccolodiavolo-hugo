@@ -2,7 +2,7 @@
 title: "Puppies: managing alone time"
 date: 2025-07-08
 titleSeo: "Teaching a puppy to stay alone without stress"
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 translationKey: "solitudine"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -100,6 +100,8 @@ custom_content: |
   <h2>How long is reasonable</h2>
   <p>A puppy of two to three months should not be alone for more than 1 or 2 hours. By 6 months, 3 to four. An adult dog can manage 4 to 6 hours if it has been walked beforehand and has something to do, but a routine of 8 hours a day alone is not compatible with this breed, and we say so plainly to prospective owners.</p>
   <p>Where the working day is long, the answer is a midday walker, a neighbour, or a dog daycare 2 or 3 times a week. It is an ordinary cost of owning this breed rather than an indulgence.</p>
+
+  <p>Many breeders present their puppies as «raised with the Bio Sensor method», the stimulation exercises of the first days of life. The evidence that they help is weak: everyday things, like the ones in this guide, count for more. We explain it in <a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor: what the research actually says">Bio Sensor: what the research actually says</a>.</p>
 
   <div class="related-articles">
   <h3>Related articles</h3>

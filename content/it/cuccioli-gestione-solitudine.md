@@ -2,7 +2,7 @@
 title: "Cuccioli: gestione della solitudine"
 date: 2025-07-08
 titleSeo: "Insegnare al cucciolo a restare solo, senza stress"
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 translationKey: "solitudine"
 articolo: true
 image: "/images/blog/neonati-2-hero.webp"
@@ -88,6 +88,8 @@ custom_content: |
   <h2>Quanto è ragionevole</h2>
   <p>Un cucciolo di due-tre mesi non dovrebbe restare solo più di una o due ore. A sei mesi, tre o quattro. Un cane adulto regge quattro-sei ore se prima ha fatto la sua passeggiata e ha qualcosa da fare, ma una routine di otto ore al giorno da solo non è compatibile con questa razza, e lo diciamo chiaramente a chi ci chiede un cucciolo.</p>
   <p>Dove la giornata di lavoro è lunga, la risposta è un dog sitter a metà giornata, un vicino, o un asilo per cani due o tre volte a settimana. È un costo normale del possedere questa razza, non un lusso.</p>
+
+  <p>Molti allevamenti presentano i cuccioli come «cresciuti con il metodo Bio Sensor», gli esercizi di stimolazione dei primi giorni di vita. Le prove che servano sono deboli: contano di più le cose di tutti i giorni, come quelle di questa guida. Lo spieghiamo in <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor: cosa dice davvero la ricerca">Bio Sensor: cosa dice davvero la ricerca</a>.</p>
 
   <div class="related-articles">
   <h3>Articoli correlati</h3>

@@ -2,7 +2,7 @@
 title: "Cuccioli: prima passeggiata"
 date: 2025-09-17
 titleSeo: "La prima passeggiata del cucciolo: quando e come iniziare"
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 translationKey: "passeggiata"
 articolo: true
 image: "/images/blog/cuccioli-7.webp"
@@ -99,6 +99,8 @@ custom_content: |
   <p><strong>Collare o pettorina?</strong> Pettorina per camminare, collare per la medaglietta. Una pettorina a Y che lascia libere le spalle, con l'anello di aggancio sul petto, è la combinazione migliore per una razza forte.</p>
   <p><strong>Il mio cucciolo può incontrare altri cani per strada?</strong> Solo adulti calmi, sani e vaccinati, i cui proprietari si possono interpellare prima. Un incontro non controllato con un cane reattivo a quattro mesi può costare a un cucciolo un anno di lavoro per rimediare.</p>
   <p><strong>Quando si può fare una passeggiata vera?</strong> Si aumenta gradualmente e ci si aspettano passeggiate di lunghezza piena dai diciotto mesi circa, quando le cartilagini di accrescimento si sono chiuse. Fino ad allora la pazienza è un investimento sulle articolazioni del cane.</p>
+
+  <p>Molti allevamenti presentano i cuccioli come «cresciuti con il metodo Bio Sensor», gli esercizi di stimolazione dei primi giorni di vita. Le prove che servano sono deboli: contano di più le cose di tutti i giorni, come quelle di questa guida. Lo spieghiamo in <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor: cosa dice davvero la ricerca">Bio Sensor: cosa dice davvero la ricerca</a>.</p>
 
   <div class="related-articles">
   <h3>Articoli correlati</h3>

@@ -4,7 +4,7 @@ og_image: "/images/og/schede/en/staffordshire-bull-terrier-puppy-abroad.jpg"
 og_image_alt: "Staffy puppy abroad: timing and paperwork — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/cucciolo-staffordshire-bull-terrier-all-estero.webp"
 date: 2026-09-12
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 articolo: true
 translationKey: "cucciolo-estero"
 description: "A puppy going to another European country leaves at four months, not two. Rabies vaccination, pet passport, TRACES certificate and ENCI export pedigree."
@@ -110,6 +110,7 @@ custom_content: |
 
     <p>If a litter interests you, talk to us while the puppies are still small. It takes weeks to schedule the vaccinations at the right time, book the visit for the official certificate, and reconcile two calendars.</p>
 
+    <p>Comparing breeders in different countries you will often find puppies «raised with the Bio Sensor method». Before you make it a reason to choose, read <a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor: what the research actually says">Bio Sensor: what the research actually says</a>.</p>
     <h2>An honest note</h2>
 
     <p>Rules change. The European framework was updated in April 2026 and individual countries apply their own conditions, particularly for young puppies.</p>

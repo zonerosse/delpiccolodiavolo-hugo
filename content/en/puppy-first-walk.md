@@ -2,7 +2,7 @@
 title: "Puppies: first walk"
 date: 2025-09-17
 titleSeo: "A puppy's first walk: when to start and how"
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 translationKey: "passeggiata"
 articolo: true
 image: "/images/blog/cuccioli-5.webp"
@@ -101,6 +101,8 @@ custom_content: |
   <p><strong>Collar or harness?</strong> Harness for walking, collar for identification. A Y-shaped harness that leaves the shoulders free, with a front attachment ring, is the best combination for a strong breed.</p>
   <p><strong>Can my puppy meet other dogs in the street?</strong> Only calm, healthy, vaccinated adults whose owners you can ask first. An uncontrolled encounter with a reactive dog at 4 months can cost a puppy a year of work to undo.</p>
   <p><strong>When can we go for proper walks?</strong> Build gradually and expect full-length walks from around 18 months, when the growth plates have closed. Until then, patience is an investment in the dog's joints.</p>
+
+  <p>Many breeders present their puppies as «raised with the Bio Sensor method», the stimulation exercises of the first days of life. The evidence that they help is weak: everyday things, like the ones in this guide, count for more. We explain it in <a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor: what the research actually says">Bio Sensor: what the research actually says</a>.</p>
 
   <div class="related-articles">
   <h3>Related articles</h3>

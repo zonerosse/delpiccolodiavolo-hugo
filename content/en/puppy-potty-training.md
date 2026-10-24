@@ -2,7 +2,7 @@
 title: "Puppies: potty training"
 date: 2025-05-22
 titleSeo: "Puppy potty training: method, timing and setbacks"
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 translationKey: "bisogni"
 articolo: true
 image: "/images/blog/hero-default.webp"
@@ -103,6 +103,8 @@ custom_content: |
   <p>Rewarding once back indoors, which teaches the puppy that coming inside is what pays.</p>
   <p>Too much freedom too early: a puppy loose in a whole house will find a quiet corner. Restrict the available space until reliability is established, and expand it gradually.</p>
   <p>And giving up at 3 months because it is not finished. It is not supposed to be finished at 3 months.</p>
+
+  <p>Many breeders present their puppies as «raised with the Bio Sensor method», the stimulation exercises of the first days of life. The evidence that they help is weak: everyday things, like the ones in this guide, count for more. We explain it in <a href="/en/bio-sensor-early-stimulation-puppies/" title="Bio Sensor: what the research actually says">Bio Sensor: what the research actually says</a>.</p>
 
   <div class="related-articles">
   <h3>Related articles</h3>

@@ -2,7 +2,7 @@
 title: "Cuccioli: prime vaccinazioni"
 date: 2025-06-10
 titleSeo: "Prime vaccinazioni del cucciolo: calendario e richiami"
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 translationKey: "vaccinazioni"
 articolo: true
 image: "/images/blog/cuccioli-2.webp"
@@ -111,6 +111,8 @@ custom_content: |
   <h2>Il libretto sanitario</h2>
   <p>Ogni iniezione va registrata con la data, il nome del prodotto, il numero di lotto e il timbro del veterinario. Il libretto va conservato con cura: serve per la pensione, per i viaggi, per le esposizioni e per qualsiasi cura futura, e ricostruirlo a posteriori è impossibile.</p>
   <p>Quando un cucciolo lascia l'allevamento Del Piccolo Diavolo, la prima vaccinazione e le sverminazioni sono già registrate, e le date che restano da fare le ripassiamo insieme prima della partenza.</p>
+
+  <p>Molti allevamenti presentano i cuccioli come «cresciuti con il metodo Bio Sensor», gli esercizi di stimolazione dei primi giorni di vita. Le prove che servano sono deboli: contano di più le cose di tutti i giorni, come quelle di questa guida. Lo spieghiamo in <a href="/bio-sensor-stimolazione-precoce-cuccioli/" title="Bio Sensor: cosa dice davvero la ricerca">Bio Sensor: cosa dice davvero la ricerca</a>.</p>
 
   <div class="related-articles">
   <h3>Articoli correlati</h3>
