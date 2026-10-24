@@ -98,8 +98,7 @@ custom_content: |
   <p>L'allevamento Del Piccolo Diavolo è a Ostellato, in provincia di Ferrara. Qui i <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli di Staffordshire Bull Terrier</a> nascono poche volte, escono con il pedigree ENCI dopo i 60 giorni di legge e partono solo da qui. Queste sono le quattro cose che non facciamo.</p>
 
   <div class="n-percorso"><div class="n-passo"><h3>Non abbiamo cuccioli tutto l'anno.</h3><div><p>Una cucciolata, occasionalmente due, a volte nessuna. Se ci scrivi in un momento in cui non ce ne sono, la risposta è che non ce ne sono: non ti proponiamo il cucciolo di un conoscente né ti mettiamo fretta su una cucciolata futura.</p></div></div><div class="n-passo"><h3>Non spediamo cani.</h3><div><p>Nessun nostro cucciolo viaggia con un corriere: niente stive, niente consegne a metà strada in un parcheggio. Chi prende un cucciolo viene a Ostellato. Così vede la madre, la casa e il posto dove è cresciuto.</p></div></div><div class="n-passo"><h3>Non trattiamo il pedigree come un accessorio.</h3><div><p>Non esiste un cucciolo «con» o «senza»: il certificato ENCI accompagna ogni cane e non si paga a parte.</p></div></div><div class="n-passo"><h3>Non ci offendiamo se fai domande sull'allevamento.</h3><div><p>Anzi, sono quelle a dirci chi abbiamo davanti. Chi chiede dei test, dei genitori, di cosa succede se fra due anni non riesce più a tenere il cane, è la persona a cui affideremmo volentieri un cucciolo.</p></div></div></div>
-  <p class="n-vedi">Chi c'è dietro tutto questo, e come dai Rottweiler si arriva agli Staffy: lo racconto in <a href="/chi-siamo/" title="Chi siamo">chi siamo</a>.</p>
-  <p class="n-vedi"><a href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento che fa le cose per bene">Come riconoscere un allevamento che fa le cose per bene</a>. Otto criteri e il modo di verificarli, su di noi come su chiunque altro.</p>
+  <div class="n-schede"><div class="n-scheda"><span class="n-quando">Chi siamo</span><h3>Chi c'è dietro tutto questo</h3><p>E come dai Rottweiler si arriva agli Staffy.</p><a class="btn" href="/chi-siamo/" title="Chi c'è dietro tutto questo">Leggi chi siamo</a></div><div class="n-scheda"><span class="n-quando">Scegliere un allevamento</span><h3>Come riconoscere un allevamento che fa le cose per bene</h3><p>Otto criteri e il modo di verificarli, su di noi come su chiunque altro.</p><a class="btn" href="/come-scegliere-allevamento-staffordshire-bull-terrier/" title="Come riconoscere un allevamento che fa le cose per bene">Leggi gli otto criteri</a></div></div>
   </div>
   </section>
   <!--/BLOCCO:4-->
@@ -150,7 +149,6 @@ custom_content: |
   <p><strong>I pedigree.</strong> Ogni cucciolo esce con il certificato genealogico ENCI, che si controlla con il numero di libro genealogico.</p>
   <p><strong>I risultati in esposizione.</strong> I titoli non sono autocertificati: i cataloghi delle manifestazioni sono pubblici, e i giudici che hanno valutato i nostri cani hanno un nome e un cognome. Sono raccolti nel <a href="/palmares-del-piccolo-diavolo/" title="Palmares">palmarès</a>.</p>
   <p><strong>Le date.</strong> Ogni cucciolata ha la sua data di nascita: le più recenti nel <a href="/diario-allevamento/" title="Diario dell'allevamento">diario</a>, quelle degli anni prima nel <a href="/programma-allevamento/" title="Programma di allevamento">programma di allevamento</a>. Nessuna sparisce quando i cuccioli sono a casa loro, ed è voluto: così chiunque può contare quante cucciolate facciamo in un anno.</p>
-  <p class="n-vedi"><a href="/femmine-staffordshire-bull-terrier/" title="Le nostre femmine, una per una">Le nostre femmine, una per una</a>. Microchip, test genetici e pedigree: da lì verifichi genealogie e cucciolate.</p>
   </div>
   </div>
   <div class="n-passo">
@@ -170,6 +168,7 @@ custom_content: |
   </div>
   </div>
   </div>
+  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Le femmine</span><h3>Le nostre femmine, una per una</h3><p>Microchip, test genetici e pedigree: da lì verifichi genealogie e cucciolate.</p><a class="btn" href="/femmine-staffordshire-bull-terrier/" title="Le nostre femmine, una per una">Vai alle femmine</a></div></div>
   </div>
   </section>
   <!--/BLOCCO:6-->
@@ -201,7 +200,6 @@ custom_content: |
   <p><strong>1 Campione Italiano - 3 Giovani Campioni Italiani - 1 Campionessa di San Marino - 4° al World Dog Show</strong></p>
   <p>Risultati ottenuti con cani allevati e cresciuti da noi, non acquistati già titolati.</p>
   <a class="btn btn-primary" href="/palmares-del-piccolo-diavolo/" title="Vedi tutti i risultati">Vedi tutti i risultati</a>
-  <p class="n-vedi" style="text-align:left"><a href="/cuccioli-staffordshire-bull-terrier/" title="Come nasce e cresce una cucciolata">Come nasce e cresce una cucciolata</a>. Dal calore al parto, e cosa succede nelle settimane successive.</p>
   </div>
   </div>
   </section>

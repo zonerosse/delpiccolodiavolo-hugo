@@ -99,8 +99,7 @@ custom_content: |
   <p>The Del Piccolo Diavolo kennel is in Ostellato, in the province of Ferrara, Italy. Here <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier puppies</a> are born only a few times, leave with the ENCI pedigree after the 60 days required by law, and are collected only from here, where you <a href="/en/parents-on-site-what-it-means/" title='"Parents on site": what it really means'>see the mother</a>. These are the four things we do not do.</p>
 
   <div class="n-percorso"><div class="n-passo"><h3>We do not have puppies all year round.</h3><div><p>One litter, occasionally two, sometimes none. If you write to us at a time when there are none, the answer is that there are none: we do not offer you an acquaintance's puppy and we do not rush you towards a future litter.</p></div></div><div class="n-passo"><h3>We do not ship dogs.</h3><div><p>None of our puppies travels by courier: no aircraft holds, no handovers halfway in a car park. Whoever takes a puppy comes to Ostellato. That way they see the mother, the house and the place where it grew up.</p></div></div><div class="n-passo"><h3>We do not treat the pedigree as an accessory.</h3><div><p>There is no such thing as a puppy “with” or “without”: the ENCI certificate goes with every dog and is not charged separately.</p></div></div><div class="n-passo"><h3>We do not take offence at questions about the kennel.</h3><div><p>On the contrary, they are what tell us who we are dealing with. Whoever asks about the tests, the parents, or what happens if in two years' time they can no longer keep the dog, is the person we would gladly entrust a puppy to.</p></div></div></div>
-  <p class="n-vedi">Who is behind all this, and how one gets from Rottweilers to Staffies: the story is in <a href="/en/about-us/" title="About us">about us</a>.</p>
-  <p class="n-vedi"><a href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a breeder who does things properly">How to recognise a breeder who does things properly</a>. Eight criteria and how to check each one, on us as much as on anyone else.</p>
+  <div class="n-schede"><div class="n-scheda"><span class="n-quando">About us</span><h3>Who is behind all this</h3><p>And how one gets from Rottweilers to Staffies.</p><a class="btn" href="/en/about-us/" title="Who is behind all this">Read about us</a></div><div class="n-scheda"><span class="n-quando">Choosing a breeder</span><h3>How to recognise a breeder who does things properly</h3><p>Eight criteria and how to check each one, on us as much as on anyone else.</p><a class="btn" href="/en/how-to-choose-a-staffordshire-bull-terrier-breeder/" title="How to recognise a breeder who does things properly">Read the eight criteria</a></div></div>
   </div>
   </section>
   <!--/BLOCCO:4-->
@@ -151,7 +150,6 @@ custom_content: |
   <p><strong>The pedigree certificates.</strong> Every puppy leaves with the ENCI pedigree certificate, which is checked by its studbook number.</p>
   <p><strong>The show results.</strong> The titles are not self-certified: the show catalogues are public, and the judges who assessed our dogs have a first name and a surname. They are collected in the <a href="/en/palmares/" title="Palmares">palmarès</a>.</p>
   <p><strong>The dates.</strong> Every litter has its date of birth: the most recent in the <a href="/en/diario-allevamento/" title="Breeding diary">diary</a>, those of earlier years in the <a href="/en/litters-staffordshire-bull-terrier/" title="Breeding programme">breeding programme</a>. None disappears once the puppies are in their new homes, and that is deliberate: this way anyone can count how many litters we have in a year.</p>
-  <p class="n-vedi"><a href="/en/females-staffordshire-bull-terrier/" title="Our females, one by one">Our females, one by one</a>. Microchip, genetic tests and pedigree: from there you verify ancestry and litters.</p>
   </div>
   </div>
   <div class="n-passo">
@@ -171,6 +169,7 @@ custom_content: |
   </div>
   </div>
   </div>
+  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">The females</span><h3>Our females, one by one</h3><p>Microchip, genetic tests and pedigree: from there you verify ancestry and litters.</p><a class="btn" href="/en/females-staffordshire-bull-terrier/" title="Our females, one by one">Go to the females</a></div></div>
   </div>
   </section>
   <!--/BLOCCO:6-->
@@ -202,7 +201,6 @@ custom_content: |
   <p><strong>1 Italian Champion - 3 Italian Junior Champions - 1 San Marino Champion - 4th at the World Dog Show</strong></p>
   <p>Results achieved with dogs bred and raised by us, not bought already titled.</p>
   <a class="btn btn-primary" href="/en/palmares/" title="See all results">See all results</a>
-  <p class="n-vedi" style="text-align:left"><a href="/en/puppies-staffordshire-bull-terrier/" title="How a litter is born and raised">How a litter is born and raised</a>. From the season to the whelping, and what happens in the weeks that follow.</p>
   </div>
   </div>
   </section>

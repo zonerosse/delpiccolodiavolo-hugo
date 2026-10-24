@@ -99,8 +99,7 @@ custom_content: |
   <p>Die Zucht Del Piccolo Diavolo liegt in Ostellato, Provinz Ferrara, Italien. Hier kommen <a href="/de/welpen-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier Welpen">Staffordshire Bull Terrier Welpen</a> nur selten zur Welt, gehen mit der ENCI-Ahnentafel nach den gesetzlichen 60 Tagen und werden nur hier abgeholt, wo man <a href="/de/eltern-vor-ort-was-das-bedeutet/" title='"Eltern vor Ort": was das wirklich bedeutet'>die Mutter sieht</a>. Das sind die vier Dinge, die wir nicht tun.</p>
 
   <div class="n-percorso"><div class="n-passo"><h3>Wir haben nicht das ganze Jahr über Welpen.</h3><div><p>Ein Wurf, gelegentlich zwei, manchmal keiner. Wenn Sie uns zu einem Zeitpunkt schreiben, an dem es keine gibt, lautet die Antwort, dass es keine gibt: wir bieten Ihnen nicht den Welpen eines Bekannten an und drängen Sie nicht zu einem künftigen Wurf.</p></div></div><div class="n-passo"><h3>Wir versenden keine Hunde.</h3><div><p>Keiner unserer Welpen reist per Kurier: kein Frachtraum, keine Übergabe auf halbem Weg auf einem Parkplatz. Wer einen Welpen nimmt, kommt nach Ostellato. So sieht er die Mutter, das Haus und den Ort, an dem er aufgewachsen ist.</p></div></div><div class="n-passo"><h3>Wir behandeln die Ahnentafel nicht als Zubehör.</h3><div><p>Es gibt keinen Welpen „mit“ oder „ohne“: die ENCI-Ahnentafel begleitet jeden Hund und wird nicht gesondert berechnet.</p></div></div><div class="n-passo"><h3>Wir nehmen Fragen zur Zucht nicht übel.</h3><div><p>Im Gegenteil, sie sagen uns, wen wir vor uns haben. Wer nach den Tests fragt, nach den Eltern, danach, was passiert, wenn er den Hund in zwei Jahren nicht mehr halten kann, ist die Person, der wir gerne einen Welpen anvertrauen.</p></div></div></div>
-  <p class="n-vedi">Wer hinter all dem steht, und wie man von Rottweilern zu Staffys kommt: das erzählen wir unter <a href="/de/ueber-uns/" title="Über uns">über uns</a>.</p>
-  <p class="n-vedi"><a href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Wie man eine Zucht erkennt, die gut arbeitet">Wie man eine Zucht erkennt, die gut arbeitet</a>. Acht Kriterien und wie man sie prüft — bei uns wie bei allen anderen.</p>
+  <div class="n-schede"><div class="n-scheda"><span class="n-quando">Über uns</span><h3>Wer hinter all dem steht</h3><p>Und wie man von Rottweilern zu Staffys kommt.</p><a class="btn" href="/de/ueber-uns/" title="Wer hinter all dem steht">Über uns lesen</a></div><div class="n-scheda"><span class="n-quando">Eine Zucht wählen</span><h3>Wie man eine Zucht erkennt, die gut arbeitet</h3><p>Acht Kriterien und wie man sie prüft: bei uns wie bei allen anderen.</p><a class="btn" href="/de/wie-waehlt-man-eine-staffordshire-bull-terrier-zucht/" title="Wie man eine Zucht erkennt, die gut arbeitet">Die acht Kriterien lesen</a></div></div>
   </div>
   </section>
   <!--/BLOCCO:4-->
@@ -151,7 +150,6 @@ custom_content: |
   <p><strong>Die Ahnentafeln.</strong> Jeder Welpe geht mit der ENCI-Ahnentafel, die sich über die Zuchtbuchnummer prüfen lässt.</p>
   <p><strong>Die Ausstellungsergebnisse.</strong> Die Titel sind nicht selbst bescheinigt: die Ausstellungskataloge sind öffentlich, und die Richter, die unsere Hunde bewertet haben, haben einen Vor- und einen Nachnamen. Gesammelt sind sie im <a href="/de/palmares/" title="Palmares">Palmarès</a>.</p>
   <p><strong>Die Daten.</strong> Jeder Wurf hat sein Geburtsdatum: die jüngsten im <a href="/de/diario-allevamento/" title="Zuchttagebuch">Tagebuch</a>, die der früheren Jahre im <a href="/de/wuerfe-staffordshire-bull-terrier/" title="Zuchtprogramm">Zuchtprogramm</a>. Keiner verschwindet, sobald die Welpen in ihren neuen Familien sind, und das ist gewollt: So kann jeder nachzählen, wie viele Würfe wir in einem Jahr haben.</p>
-  <p class="n-vedi"><a href="/de/huendinnen-staffordshire-bull-terrier/" title="Unsere Hündinnen, eine nach der anderen">Unsere Hündinnen, eine nach der anderen</a>. Mikrochip, Gentests und Ahnentafel: von dort aus prüfen Sie Abstammung und Würfe.</p>
   </div>
   </div>
   <div class="n-passo">
@@ -171,6 +169,7 @@ custom_content: |
   </div>
   </div>
   </div>
+  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Die Hündinnen</span><h3>Unsere Hündinnen, eine nach der anderen</h3><p>Mikrochip, Gentests und Ahnentafel: von dort aus prüfen Sie Abstammung und Würfe.</p><a class="btn" href="/de/huendinnen-staffordshire-bull-terrier/" title="Unsere Hündinnen, eine nach der anderen">Zu den Hündinnen</a></div></div>
   </div>
   </section>
   <!--/BLOCCO:6-->
@@ -202,7 +201,6 @@ custom_content: |
   <p><strong>1 Italienischer Champion - 3 Italienische Jugendchampions - 1 Championin von San Marino - 4. bei der World Dog Show</strong></p>
   <p>Ergebnisse mit von uns gezüchteten und aufgezogenen Hunden, nicht bereits mit Titeln gekauft.</p>
   <a class="btn btn-primary" href="/de/palmares/" title="Alle Ergebnisse ansehen">Alle Ergebnisse ansehen</a>
-  <p class="n-vedi" style="text-align:left"><a href="/de/welpen-staffordshire-bull-terrier/" title="Wie ein Wurf entsteht und aufwächst">Wie ein Wurf entsteht und aufwächst</a>. Von der Läufigkeit bis zur Geburt, und was in den Wochen danach geschieht.</p>
   </div>
   </div>
   </section>
