@@ -8,13 +8,13 @@ translationKey: "chi-siamo"
 description: "Del Piccolo Diavolo, Staffordshire Bull Terrier kennel in Ostellato (Ferrara), Italy, since 2013: who breeds the dogs, how pairings are chosen, how to visit."
 correlati:
   - url: "/en/palmares/"
-    titolo: "Our results"
+    titolo: "Palmares and show results"
     testo: "Champions and show placings"
   - url: "/en/litters-staffordshire-bull-terrier/"
     titolo: "Breeding programme"
     testo: "Planned and current litters"
   - url: "/en/reviews/"
-    titolo: "What families say"
+    titolo: "Reviews from our families"
     testo: "What families say"
 slug: "about-us"
 fonti_motivo: "This page tells the story and the work of the Del Piccolo Diavolo kennel in the first person, and cites no external sources because the facts it reports are the kennel's own. Those that can be verified are verifiable on the site: genetic test reports with the microchip number, ENCI pedigrees, show results with the judges' names."
@@ -88,10 +88,10 @@ custom_content: |
   <h2 class="section-title">Who is behind Del Piccolo Diavolo</h2>
 
   <p><strong>Paolo Boldrini</strong> has been breeding Staffordshire Bull Terriers since 2013 in Ostellato, in the province of Ferrara, under the name Del Piccolo Diavolo. Before the Staffies he bred Rottweilers, taking an Italian Champion and a European Champion into the ring.</p>
-  <p>He works with Elitebull (England) and Lackyle (Ireland) bloodlines and <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)">tests every breeding dog for L2-HGA and HC</a>. Our dogs are also clear of DM-SOD1. With <strong>Bilquis Goddess Diabhal</strong> he won the ENCI Italian Beauty Champion title and placed fourth at the World Dog Show in Zagreb in 2024. Every <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">puppy</a> leaves with an ENCI pedigree and with the parents' test certificates.</p>
-  <p>The facts, data and choices described on these pages are his: they come from what happens at the kennel. For questions about puppies, bloodlines or genetic testing: <a href="/en/contact/">contact me directly</a>.</p>
+  <p>He works with Elitebull (England) and Lackyle (Ireland) bloodlines and <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)">tests every breeding dog for L2-HGA and HC</a>. Our dogs are also clear of DM-SOD1. With <strong>Bilquis Goddess Diabhal</strong> he won the ENCI Italian Beauty Champion title and placed fourth at the World Dog Show in Zagreb in 2024. Every <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffy puppy</a> leaves with an ENCI pedigree and with the parents' test certificates.</p>
+  <p>The facts, data and choices described on these pages are his: they come from what happens at the kennel. For questions about puppies, bloodlines or genetic testing: contact me directly or <a href="/en/contact/">come and visit us in Emilia-Romagna</a>.</p>
 
-  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">The females</span><h3>The females who carry those lines</h3><p>Eight profiles with microchip, genetic tests and pedigree: from there you trace the ancestry and check everything.</p><a class="btn" href="/en/females-staffordshire-bull-terrier/" title="The females who carry those lines">Go to the females</a></div></div>
+  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">The females</span><h3>The females who carry those lines</h3><p>Eight profiles with microchip, genetic tests and pedigree: from there you trace the ancestry and check everything.</p><a class="btn" href="/en/females-staffordshire-bull-terrier/" title="The females who carry those lines">Go to our female Staffies</a></div></div>
   </div>
   </section>
   <!--/BLOCCO:5-->

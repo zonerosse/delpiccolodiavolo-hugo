@@ -1,7 +1,7 @@
 ---
 title: "Sichere Bewegung für Staffordshire Bull Terrier"
 date: 2024-06-20
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 translationKey: "esercizio"
 in_breve:
   - "Der Staffy braucht **jeden Tag Bewegung**, aber das Maß ändert sich mit dem Alter."

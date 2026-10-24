@@ -2,7 +2,7 @@
 title: "Differenza tra Staffordshire Bull Terrier, Pitbull e Amstaff"
 titleSeo: "Staffy, Pitbull e Amstaff: come distinguerli"
 date: 2025-11-19
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 translationKey: "pitbull-amstaff"
 in_breve:
   - "Hanno la stessa origine, ma **oggi sono tre razze diverse**."

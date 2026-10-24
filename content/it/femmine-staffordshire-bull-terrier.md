@@ -2,7 +2,7 @@
 title: "Femmine Staffordshire Bull Terrier"
 titleSeo: "Femmine Staffordshire Bull Terrier: referti e pedigree ENCI"
 date: 2025-12-28
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 tipoPagina: "CollectionPage"
 notte: true
 translationKey: "femmine"

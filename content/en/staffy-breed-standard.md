@@ -2,7 +2,7 @@
 title: "Staffy breed standard"
 date: 2025-02-12
 titleSeo: "Staffordshire Bull Terrier breed standard explained"
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 translationKey: "standard"
 in_breve:
   - "A Staffy is **typical when everything is in balance**: head, proportions, chest, bone, movement and temperament."

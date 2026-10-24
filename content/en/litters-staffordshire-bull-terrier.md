@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier litters"
 titleSeo: "Upcoming Staffy litters: the selection programme"
 date: 2025-12-28
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 tipoPagina: "CollectionPage"
 notte: true
 translationKey: "programma"

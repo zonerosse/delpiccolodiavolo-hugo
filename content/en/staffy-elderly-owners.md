@@ -2,7 +2,7 @@
 title: "Staffy and elderly owners"
 date: 2024-05-28
 titleSeo: "Is a Staffordshire Bull Terrier right for older owners?"
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 translationKey: "anziani"
 in_breve:
   - "A Staffy can be a good companion for an older person, **under precise conditions**."

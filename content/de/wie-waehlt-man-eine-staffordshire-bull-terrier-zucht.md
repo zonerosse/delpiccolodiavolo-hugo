@@ -10,7 +10,7 @@ thumb: "/images/blog/icone/come-scegliere-allevamento-staffordshire-bull-terrier
 description: "Acht Kriterien, um eine Staffordshire Bull Terrier Zucht zu erkennen, die gut arbeitet, und wie man jedes prüft. Mit unseren eigenen Unterlagen als Beispiel."
 slug: "wie-waehlt-man-eine-staffordshire-bull-terrier-zucht"
 date: 2026-01-18
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Staffy travel and transport"
 date: 2024-04-07
 titleSeo: "Travelling with a Staffordshire Bull Terrier: car and train"
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 translationKey: "viaggi"
 in_breve:
   - "Three things are prepared: **documents, transport and stops**."

@@ -1,7 +1,7 @@
 ---
 title: "Reisen und Transport mit Staffordshire Bull Terrier"
 date: 2024-04-07
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 translationKey: "viaggi"
 in_breve:
   - "Drei Dinge werden vorbereitet: **Papiere, Transport und Pausen**."

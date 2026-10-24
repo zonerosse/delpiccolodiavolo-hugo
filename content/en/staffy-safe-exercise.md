@@ -1,7 +1,7 @@
 ---
 title: "Safe exercise for Staffordshire Bull Terrier"
 date: 2024-06-20
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 translationKey: "esercizio"
 in_breve:
   - "The Staffy needs **exercise every day**, but the amount changes with age."

@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier: tipicità di razza e morfologia"
 date: 2025-02-12
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 translationKey: "standard"
 in_breve:
   - "Uno Staffy è **tipico quando tutto è in equilibrio**: testa, proporzioni, torace, ossatura, movimento e carattere."

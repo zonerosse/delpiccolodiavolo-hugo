@@ -2,7 +2,7 @@
 title: "Staffy and other pets"
 date: 2024-06-18
 titleSeo: "Staffordshire Bull Terrier with other pets at home"
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 translationKey: "altri-animali"
 in_breve:
   - "The Staffy is a terrier: **reactivity towards other dogs** is real, especially between adults of the same sex. Socialisation reduces it, it does not erase it."

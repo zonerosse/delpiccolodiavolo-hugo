@@ -2,7 +2,7 @@
 title: "Puppies: worming and faecal tests"
 date: 2026-09-27
 titleSeo: "Puppy worming: protocol and faecal test results"
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 translationKey: "sverminazione"
 articolo: true
 image: "/images/blog/esame-feci-microscopio-hero.webp"

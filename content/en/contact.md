@@ -1,7 +1,7 @@
 ---
 title: "Staffy breeder in Emilia-Romagna, Italy: Ostellato (FE)"
 date: 2025-12-28
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 tipoPagina: "ContactPage"
 notte: true
 translationKey: "contatti"

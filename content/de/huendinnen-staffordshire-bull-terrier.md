@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Hündinnen"
 date: 2025-12-28
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 tipoPagina: "CollectionPage"
 notte: true
 translationKey: "femmine"

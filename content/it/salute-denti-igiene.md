@@ -1,7 +1,7 @@
 ---
 title: "Igiene orale e denti Staffordshire Bull Terrier"
 date: 2024-06-18
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 translationKey: "denti"
 in_breve:
   - "La prevenzione comincia **da cucciolo**, abituandolo a farsi toccare la bocca."

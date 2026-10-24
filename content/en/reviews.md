@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier reviews"
 titleSeo: "Staffordshire Bull Terrier reviews from our families"
 date: 2025-12-28
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 tipoPagina: "CollectionPage"
 notte: true
 translationKey: "recensioni"
@@ -274,7 +274,7 @@ custom_content: |
   <p class="review-text">We were lucky to find Paolo and his family… an excellent family-run kennel, beautiful dogs, excellent temperament and attentive management.<br/>Perla Nera is stunning, balanced in character, well-mannered and beautiful!<br/>You can tell when someone works with passion and respect for animals.<br/>Thank you Paolo</p>
   <div class="review-meta">December 2025 – Google</div>
   </article>
-  <p>Reviews describe how the handover went; what happened afterwards, years later, is told in <a href="/en/staffordshire-family-life-stories/" title="Family stories">the stories of the dogs we have bred</a>.</p>
+  <p>Reviews describe how the handover went; what happened afterwards, years later, is told in <a href="/en/staffordshire-family-life-stories/" title="Family stories">the stories of our Staffies in family life</a>.</p>
   </div>
 
   </div>
@@ -285,7 +285,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Our reputation</span>
-  <div class="n-percorso"><div class="n-passo"><h2 class="section-title">Why reviews matter</h2><div><p>Del Piccolo Diavolo has an average rating of <!--REC-VOTO--> from <!--REC-TOTALE--> reviews published on the kennel's Google profile, and the reviews on this page are copied from there, with the name of the person who wrote them and the date. Anyone can go and read them on the profile without going through us, and not even the breeder can change them. Most were written by families who took a Staffordshire Bull Terrier puppy from Ostellato, in the province of Ferrara, and a few by people who came to visit us and met the dogs. It is the same principle as the genetic test reports, which are published here with the dog's microchip number on them. The reviews tell the story of the placement; what happened afterwards, years later, is told in the <a href="/en/staffordshire-family-life-stories/" title="Family stories">stories of the dogs we bred</a>.</p></div></div><div class="n-passo"><h3>✓ On Google</h3><div><p>Every review can be read on the kennel's profile</p></div></div><div class="n-passo"><h3>⭐ <!--REC-VOTO-->/5</h3><div><p>The average rating on Google</p></div></div><div class="n-passo"><h3>📞 Afterwards too</h3><div><p>You can reach us for the dog's whole life</p></div></div><div class="n-passo"><h3>🏆 The lines</h3><div><p>Elitebull (English) and Lackyle (Irish)</p></div></div></div>
+  <div class="n-percorso"><div class="n-passo"><h2 class="section-title">Why reviews matter</h2><div><p>Del Piccolo Diavolo has an average rating of <!--REC-VOTO--> from <!--REC-TOTALE--> reviews published on the kennel's Google profile, and the reviews on this page are copied from there, with the name of the person who wrote them and the date. Anyone can go and read them on the profile without going through us, and not even the breeder can change them. Most were written by families who took a Staffordshire Bull Terrier puppy from Ostellato, in the province of Ferrara, and a few by people who came to visit us and met the dogs. It is the same principle as the genetic test reports, which are published here with the dog's microchip number on them. The reviews tell the story of the placement; what happened afterwards, years later, is told in the <a href="/en/staffordshire-family-life-stories/" title="Family stories">family stories of the dogs we bred</a>.</p></div></div><div class="n-passo"><h3>✓ On Google</h3><div><p>Every review can be read on the kennel's profile</p></div></div><div class="n-passo"><h3>⭐ <!--REC-VOTO-->/5</h3><div><p>The average rating on Google</p></div></div><div class="n-passo"><h3>📞 Afterwards too</h3><div><p>You can reach us for the dog's whole life</p></div></div><div class="n-passo"><h3>🏆 The lines</h3><div><p>Elitebull (English) and Lackyle (Irish)</p></div></div></div>
 
   </div>
   </section>
@@ -309,8 +309,8 @@ custom_content: |
   </div>
 
   <div class="links-box">
-  <p>Discover our <a href="/en/litters-staffordshire-bull-terrier/" title="Planned litters">litters</a> and <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffy puppies</a>.</p>
-  <p>Meet our <a href="/en/males-staffordshire-bull-terrier/" title="Male Staffordshire Bull Terriers">males</a> and our <a href="/en/females-staffordshire-bull-terrier/" title="Female Staffordshire Bull Terriers">females</a>.</p>
+  <p>Discover our <a href="/en/litters-staffordshire-bull-terrier/" title="Planned litters">planned litters</a> and <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffy puppies</a>.</p>
+  <p>Meet our <a href="/en/males-staffordshire-bull-terrier/" title="Male Staffordshire Bull Terriers">male Staffordshire Bull Terriers</a> and our <a href="/en/females-staffordshire-bull-terrier/" title="Female Staffordshire Bull Terriers">female Staffies</a>.</p>
   </div>
   </div>
   </section>

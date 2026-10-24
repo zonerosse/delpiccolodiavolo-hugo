@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier Bewertungen"
 date: 2025-12-28
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 tipoPagina: "CollectionPage"
 notte: true
 translationKey: "recensioni"
@@ -276,7 +276,7 @@ custom_content: |
   <p class="review-text">Wir hatten Glück, Paolo und seine Familie zu finden… eine ausgezeichnete familiengeführte Zucht, wunderschöne Hunde, hervorragendes Wesen und aufmerksame Führung.<br/>Perla Nera ist großartig, im Wesen ausgeglichen, gut erzogen und wunderschön!<br/>Man merkt, wenn jemand mit Leidenschaft und Respekt für Tiere arbeitet.<br/>Danke Paolo</p>
   <div class="review-meta">Dezember 2025 – Google</div>
   </article>
-  <p>Bewertungen beschreiben die Übergabe; was danach geschah, Jahre später, erzählen wir in den <a href="/de/staffordshire-in-der-familie-geschichten/" title="Familiengeschichten">Geschichten der Hunde, die wir gezüchtet haben</a>.</p>
+  <p>Bewertungen beschreiben die Übergabe; was danach geschah, Jahre später, erzählen wir in den <a href="/de/staffordshire-in-der-familie-geschichten/" title="Familiengeschichten">Geschichten unserer Staffys in der Familie</a>.</p>
   </div>
 
   </div>
@@ -287,7 +287,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Unser Ruf</span>
-  <div class="n-percorso"><div class="n-passo"><h2 class="section-title">Warum Bewertungen zählen</h2><div><p>Del Piccolo Diavolo hat eine durchschnittliche Bewertung von <!--REC-VOTO--> aus <!--REC-TOTALE--> Bewertungen im Google-Profil der Zucht, und die Bewertungen auf dieser Seite sind von dort übernommen, mit dem Namen der Person, die sie geschrieben hat, und dem Datum. Jeder kann sie im Profil lesen, ohne über uns zu gehen, und nicht einmal der Züchter kann sie ändern. Geschrieben haben sie vor allem Familien, die einen Staffordshire Bull Terrier Welpen aus Ostellato in der Provinz Ferrara übernommen haben, und einige Menschen, die uns besucht und die Hunde kennengelernt haben. Es ist dasselbe Prinzip wie bei den Befunden der Gentests, die hier mit der Mikrochipnummer des Hundes veröffentlicht sind. Die Bewertungen erzählen von der Vermittlung; was danach geschah, Jahre später, erzählen die <a href="/de/staffordshire-in-der-familie-geschichten/" title="Geschichten aus den Familien">Geschichten der Hunde, die wir gezüchtet haben</a>.</p></div></div><div class="n-passo"><h3>✓ Bei Google</h3><div><p>Jede Bewertung ist im Profil der Zucht zu lesen</p></div></div><div class="n-passo"><h3>⭐ <!--REC-VOTO-->/5</h3><div><p>Die Durchschnittsbewertung bei Google</p></div></div><div class="n-passo"><h3>📞 Auch danach</h3><div><p>Sie erreichen uns das ganze Hundeleben lang</p></div></div><div class="n-passo"><h3>🏆 Die Linien</h3><div><p>Elitebull (englisch) und Lackyle (irisch)</p></div></div></div>
+  <div class="n-percorso"><div class="n-passo"><h2 class="section-title">Warum Bewertungen zählen</h2><div><p>Del Piccolo Diavolo hat eine durchschnittliche Bewertung von <!--REC-VOTO--> aus <!--REC-TOTALE--> Bewertungen im Google-Profil der Zucht, und die Bewertungen auf dieser Seite sind von dort übernommen, mit dem Namen der Person, die sie geschrieben hat, und dem Datum. Jeder kann sie im Profil lesen, ohne über uns zu gehen, und nicht einmal der Züchter kann sie ändern. Geschrieben haben sie vor allem Familien, die einen Staffordshire Bull Terrier Welpen aus Ostellato in der Provinz Ferrara übernommen haben, und einige Menschen, die uns besucht und die Hunde kennengelernt haben. Es ist dasselbe Prinzip wie bei den Befunden der Gentests, die hier mit der Mikrochipnummer des Hundes veröffentlicht sind. Die Bewertungen erzählen von der Vermittlung; was danach geschah, Jahre später, erzählen die <a href="/de/staffordshire-in-der-familie-geschichten/" title="Geschichten aus den Familien">Familiengeschichten der Hunde, die wir gezüchtet haben</a>.</p></div></div><div class="n-passo"><h3>✓ Bei Google</h3><div><p>Jede Bewertung ist im Profil der Zucht zu lesen</p></div></div><div class="n-passo"><h3>⭐ <!--REC-VOTO-->/5</h3><div><p>Die Durchschnittsbewertung bei Google</p></div></div><div class="n-passo"><h3>📞 Auch danach</h3><div><p>Sie erreichen uns das ganze Hundeleben lang</p></div></div><div class="n-passo"><h3>🏆 Die Linien</h3><div><p>Elitebull (englisch) und Lackyle (irisch)</p></div></div></div>
 
   </div>
   </section>

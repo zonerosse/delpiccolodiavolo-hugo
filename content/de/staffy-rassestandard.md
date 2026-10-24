@@ -1,7 +1,7 @@
 ---
 title: "FCI Rassestandard Staffordshire Bull Terrier"
 date: 2025-02-12
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 translationKey: "standard"
 in_breve:
   - "Ein Staffy ist **typisch, wenn alles im Gleichgewicht ist**: Kopf, Proportionen, Brust, Knochen, Bewegung und Wesen."

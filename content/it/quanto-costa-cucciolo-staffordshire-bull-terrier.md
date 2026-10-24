@@ -1,7 +1,7 @@
 ---
 title: "Quanto costa un cucciolo di Staffordshire Bull Terrier nel 2026"
 date: 2026-01-25
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 articolo: true
 translationKey: "quanto-costa"
 image: "/images/blog/scontrino-farmaci-cucciolata.webp"

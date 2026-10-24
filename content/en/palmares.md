@@ -2,7 +2,7 @@
 title: "Palmares - Our Show Results"
 titleSeo: "Palmares: Italian and international champions since 2013"
 date: 2026-01-04
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 tipoPagina: "CollectionPage"
 notte: true
 translationKey: "palmares"

@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier per anziani: guida completa"
 date: 2024-05-28
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 translationKey: "anziani"
 in_breve:
   - "Lo Staffy può essere un buon compagno per una persona anziana, **a condizioni precise**."

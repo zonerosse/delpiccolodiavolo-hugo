@@ -2,7 +2,7 @@
 title: "Maschi Staffordshire Bull Terrier"
 titleSeo: "Maschi Staffordshire Bull Terrier: pedigree e test genetici"
 date: 2025-12-28
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 tipoPagina: "CollectionPage"
 notte: true
 translationKey: "maschi"

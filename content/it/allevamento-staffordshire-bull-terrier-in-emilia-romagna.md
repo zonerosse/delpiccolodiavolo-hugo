@@ -1,6 +1,6 @@
 ---
 title: "Allevamento Staffordshire Bull Terrier in Emilia-Romagna"
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 tipoPagina: "ContactPage"
 titleSeo: "Allevamento Staffy in Emilia-Romagna: Ostellato (FE)"
 date: 2025-12-28

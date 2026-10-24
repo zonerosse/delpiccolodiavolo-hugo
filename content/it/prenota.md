@@ -1,7 +1,7 @@
 ---
 title: "Restiamo in contatto"
 date: 2026-08-30
-lastmod: 2026-10-05
+lastmod: 2026-10-24
 noindex: true
 tipoPagina: "WebPage"
 description: "Fatti conoscere: chi sei, dove vivi, che vita farebbe un cane con te. Ti scrivo io quando c'è una cucciolata in arrivo, anche a distanza di mesi."

@@ -2,7 +2,7 @@
 title: "Palmares Staffordshire Bull Terrier"
 titleSeo: "Palmares: campioni italiani e internazionali dal 2013"
 date: 2026-01-04
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 tipoPagina: "CollectionPage"
 notte: true
 translationKey: "palmares"

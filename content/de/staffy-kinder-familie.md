@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier mit Kindern und Familie"
 date: 2024-05-28
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 translationKey: "bambini"
 in_breve:
   - "**Kein Hund darf mit einem kleinen Kind allein gelassen werden**, auch kein Staffy."

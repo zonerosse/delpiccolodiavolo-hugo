@@ -1,6 +1,6 @@
 ---
 title: "How much does a Staffordshire Bull Terrier puppy cost in 2026"
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 articolo: true
 image: "/images/blog/scontrino-farmaci-cucciolata.webp"
 og_image: "/images/og/schede/en/how-much-does-a-staffordshire-bull-terrier-puppy-cost.jpg"

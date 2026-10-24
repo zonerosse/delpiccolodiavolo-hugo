@@ -2,7 +2,7 @@
 title: "Staffy and children: family life"
 date: 2024-05-28
 titleSeo: "Staffordshire Bull Terrier with children: family life"
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 translationKey: "bambini"
 in_breve:
   - "**No dog should be left alone with a young child**, Staffies included."

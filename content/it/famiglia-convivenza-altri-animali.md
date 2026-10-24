@@ -1,7 +1,7 @@
 ---
 title: "Staffy con altri animali: guida convivenza"
 date: 2024-06-18
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 translationKey: "altri-animali"
 in_breve:
   - "Lo Staffy è un terrier: la **reattività verso altri cani** esiste, soprattutto fra adulti dello stesso sesso. La socializzazione la riduce, non la cancella."

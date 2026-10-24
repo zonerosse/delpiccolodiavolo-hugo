@@ -1,7 +1,7 @@
 ---
 title: "Viaggiare con Staffordshire Bull Terrier: auto, treno, hotel"
 date: 2024-04-07
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 translationKey: "viaggi"
 in_breve:
   - "Si preparano tre cose: **documenti, mezzo di trasporto e soste**."

@@ -9,13 +9,13 @@ translationKey: "chi-siamo"
 description: "Chi c'è dietro l'allevamento Del Piccolo Diavolo di Ostellato (FE): Staffordshire Bull Terrier dal 2013, linee Elitebull e Lackyle, test e pedigree ENCI."
 correlati:
   - url: "/palmares-del-piccolo-diavolo/"
-    titolo: "I nostri risultati"
+    titolo: "Palmares e risultati in esposizione"
     testo: "Campioni e titoli in esposizione"
   - url: "/programma-allevamento/"
     titolo: "Programma di allevamento"
     testo: "Cucciolate e criteri di selezione"
   - url: "/recensioni/"
-    titolo: "Le recensioni"
+    titolo: "Le recensioni delle famiglie"
     testo: "Cosa dicono le famiglie"
 slug: "chi-siamo"
 fonti_motivo: "Questa pagina racconta in prima persona la storia e il lavoro dell'allevamento Del Piccolo Diavolo, e non cita fonti esterne perché i fatti riportati sono dell'allevamento stesso. Quelli verificabili lo sono sul sito: referti dei test genetici con il numero di microchip, pedigree ENCI, risultati in esposizione con i nomi dei giudici."
@@ -43,8 +43,8 @@ custom_content: |
   <h2 class="section-title">Chi c'è dietro Del Piccolo Diavolo</h2>
   <p><strong>Paolo Boldrini</strong> alleva Staffordshire Bull Terrier dal 2013 a Ostellato, in provincia di Ferrara, con il nome Del Piccolo Diavolo. Segue la razza dal 2005, otto anni prima della prima cucciolata. In precedenza ha allevato Rottweiler, producendo un Campione Italiano e un Campione Europeo, ed &egrave; stato giudice internazionale per canarini Gloster. Non ha affisso ENCI: i cani sono registrati a suo nome e rilasciano pedigree ENCI regolari. Il nome dell'allevamento viene da Lackyle Diabhal &Oacute;g, in irlandese il piccolo diavolo, uno dei cani che hanno fatto la storia della razza e che compare nei pedigree delle linee su cui lavora. Le cucciolate sono una l'anno, occasionalmente due, in alcuni anni nessuna. Ogni cucciolata nata qui, con genitori, test, esami e foto della crescita, è raccontata nel <a href="/diario-allevamento/" title="Diario dell'allevamento">diario dell'allevamento</a>.</p>
   <div class="n-percorso">
-  <div class="n-passo"><h3>Linee, test e risultati</h3><div><p>L'allevamento lavora su linee Elitebull (Inghilterra) e Lackyle (Irlanda) e <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2-HGA e HC">testa tutti i riproduttori per L2-HGA e HC</a>, o li verifica esenti per via parentale con i referti dei genitori, e anche per DM-SOD1. Con <strong>Bilquis Goddess Diabhal</strong> ha conquistato il titolo di Campionessa Italiana di Bellezza ENCI e un quarto posto al World Dog Show di Zagabria nel 2024. Tutti i <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli</a> sono affidati con pedigree ENCI e con i certificati dei test dei genitori.</p></div></div>
-  <div class="n-passo"><h3>Per le domande</h3><div><p>I fatti, i dati e le scelte raccontati in queste pagine sono suoi: vengono da quello che succede in allevamento. Per domande sui cuccioli, sulle linee di sangue o sui test genetici: <a href="/allevamento-staffordshire-bull-terrier-in-emilia-romagna/">contattami direttamente</a>.</p></div></div>
+  <div class="n-passo"><h3>Linee, test e risultati</h3><div><p>L'allevamento lavora su linee Elitebull (Inghilterra) e Lackyle (Irlanda) e <a href="/test-genetici-l2hga-hc-staffy/" title="Test genetici L2-HGA e HC">testa tutti i riproduttori per L2-HGA e HC</a>, o li verifica esenti per via parentale con i referti dei genitori, e anche per DM-SOD1. Con <strong>Bilquis Goddess Diabhal</strong> ha conquistato il titolo di Campionessa Italiana di Bellezza ENCI e un quarto posto al World Dog Show di Zagabria nel 2024. Tutti i <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli di Staffy</a> sono affidati con pedigree ENCI e con i certificati dei test dei genitori.</p></div></div>
+  <div class="n-passo"><h3>Per le domande</h3><div><p>I fatti, i dati e le scelte raccontati in queste pagine sono suoi: vengono da quello che succede in allevamento. Per domande sui cuccioli, sulle linee di sangue o sui test genetici: contattami direttamente o <a href="/allevamento-staffordshire-bull-terrier-in-emilia-romagna/">vieni a trovarci in Emilia-Romagna</a>.</p></div></div>
   </div>
   </div>
   </section>
@@ -71,7 +71,7 @@ custom_content: |
   <div class="n-passo"><h3>Prima degli Staffy</h3><div><p>Prima degli Staffordshire Bull Terrier ho allevato Rottweiler, e da quell'allevamento sono usciti un Campione Italiano e un Campione Europeo. Ho allevato canarini Gloster e li ho giudicati come giudice internazionale: valutare soggetti uno dopo l'altro, e dover spiegare perch&eacute; uno vale pi&ugrave; di un altro, &egrave; una scuola che con i cani serve pi&ugrave; di quanto sembri.</p><p>Gli otto anni prima della prima cucciolata sono serviti a studiare lo standard, a viaggiare in Inghilterra e in Irlanda e a capire con quali linee volevo lavorare.</p></div></div>
   <div class="n-passo"><h3>Perché Elitebull e Lackyle</h3><div><p>Non sono due stili contrapposti, e non è una questione di Irlanda contro Inghilterra: sono due allevamenti che hanno fatto la storia della razza, uno prima e uno dopo.</p><p>Nella storia della razza <strong>Lackyle</strong> è arrivato per primo, e i suoi soggetti storici si ritrovano oggi nei pedigree di mezza Europa. <strong>Elitebull</strong> &egrave; quello che pesa adesso, e nei suoi pedigree ci sono proprio i cani storici di Lackyle. Non due linee alternative, quindi: la seconda porta dentro la prima.</p><p>Ci lavoro perché sono linee documentate e verificabili, che producono in modo prevedibile. È quello che serve quando un accoppiamento lo pianifichi, invece di sperare.</p><p>Dietro la scelta di queste linee c'è anche un motivo che non è tecnico. In quei pedigree c'&egrave; <strong>Lackyle Diabhal &Oacute;g</strong>, in irlandese il piccolo diavolo, che per me resta uno dei migliori cani dell'epoca moderna, lui e tutto quello che ha lasciato dietro di sé. <strong>Del Piccolo Diavolo</strong> è la traduzione del suo nome: l'allevamento si chiama così per lui.</p></div></div>
   </div>
-  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Le femmine</span><h3>Le femmine che portano quelle linee</h3><p>Otto schede con microchip, test genetici e pedigree: da lì risali alle genealogie e verifichi tutto.</p><a class="btn" href="/femmine-staffordshire-bull-terrier/" title="Le femmine che portano quelle linee">Vai alle femmine</a></div></div>
+  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">Le femmine</span><h3>Le femmine che portano quelle linee</h3><p>Otto schede con microchip, test genetici e pedigree: da lì risali alle genealogie e verifichi tutto.</p><a class="btn" href="/femmine-staffordshire-bull-terrier/" title="Le femmine che portano quelle linee">Vai alle femmine Staffy</a></div></div>
   </div>
   </section>
   <!--/BLOCCO:3-->
@@ -86,7 +86,7 @@ custom_content: |
 
   <div class="n-percorso">
   <div class="n-passo"><h3>Cosa manca alla femmina.</h3><div><p>Un accoppiamento fra due Staffordshire Bull Terrier non serve a sommare due cani belli, serve a correggere qualcosa e a fissare il resto. Se una femmina ha una testa eccellente e un movimento migliorabile, cerco un maschio solido sul movimento, non uno bello quanto lei.</p></div></div>
-  <div class="n-passo"><h3>Cosa c'&egrave; dietro il maschio.</h3><div><p>Non basta guardare il cane: <a href="/genitori-visibili-cosa-significa/" title="Genitori visibili: cosa significa">guardo il padre, la madre</a>, i fratelli di cucciolata, e cosa ha prodotto se ha gi&agrave; figli. Un soggetto pu&ograve; essere migliore o peggiore della propria linea, e nella seconda generazione viene fuori.</p></div></div>
+  <div class="n-passo"><h3>Cosa c'&egrave; dietro il maschio.</h3><div><p>Non basta guardare il cane: guardo i suoi <a href="/genitori-visibili-cosa-significa/" title="Genitori visibili: cosa significa">genitori, padre e madre</a>, i fratelli di cucciolata, e cosa ha prodotto se ha gi&agrave; figli. Un soggetto pu&ograve; essere migliore o peggiore della propria linea, e nella seconda generazione viene fuori.</p></div></div>
   <div class="n-passo"><h3>Cosa ha in mano il proprietario dello stallone.</h3><div><p>Referti dei test genetici con il numero di microchip sopra, non promesse. Se un maschio non &egrave; testato per tutto quello che serve, o se &egrave; esente solo per discendenza, lo so prima di accoppiare e lo scrivo nella pagina di quella cucciolata: chi legge deve poterlo sapere quanto me.</p></div></div>
   </div>
   </div>

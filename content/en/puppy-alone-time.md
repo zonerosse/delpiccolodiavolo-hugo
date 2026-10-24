@@ -2,7 +2,7 @@
 title: "Puppies: managing alone time"
 date: 2025-07-08
 titleSeo: "Teaching a puppy to stay alone without stress"
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 translationKey: "solitudine"
 articolo: true
 image: "/images/blog/hero-default.webp"

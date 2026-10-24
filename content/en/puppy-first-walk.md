@@ -2,7 +2,7 @@
 title: "Puppies: first walk"
 date: 2025-09-17
 titleSeo: "A puppy's first walk: when to start and how"
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 translationKey: "passeggiata"
 articolo: true
 image: "/images/blog/cuccioli-5.webp"
@@ -107,7 +107,7 @@ custom_content: |
   <ul>
   <li><a href="/en/puppy-home-socialization/" title="Socialising the puppy at home: the family checklist">Socialising the puppy at home: the family checklist</a></li>
   <li><a href="/en/puppy-potty-training/" title="Puppy potty training: method, timing and setbacks">Puppy potty training: method, timing and setbacks</a></li>
-  <li><a href="/en/puppy-mental-games/" title="Mental games for Staffordshire Bull Terrier puppies">Mental games for Staffordshire Bull Terrier puppies</a></li>
+  <li><a href="/en/puppy-mental-games/" title="Mental games: cognitive stimulation and scent work">Mental games: cognitive stimulation and scent work</a></li>
   <li><a href="/en/puppy-first-vaccinations/" title="Puppy first vaccinations: schedule and boosters">Puppy first vaccinations: schedule and boosters</a></li>
   </ul>
   </div>

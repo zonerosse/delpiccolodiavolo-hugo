@@ -1,6 +1,6 @@
 ---
 title: "Unseren Würfen folgen"
-lastmod: 2026-09-30
+lastmod: 2026-10-24
 titleSeo: "Den Würfen unseres Zuchtprogramms folgen"
 date: 2026-09-28
 description: "Wie Sie den geplanten Würfen der Zucht Del Piccolo Diavolo mit einem RSS-Feedreader folgen, ohne soziale Netzwerke und ohne Ihre E-Mail-Adresse anzugeben."
@@ -21,6 +21,6 @@ copia: "Kopieren"
 copiato: "Kopiert ✓"
 nota: "Feedly und Inoreader sind kostenlos, am Computer und am Handy. Sie brauchen nur ein Konto."
 elenco: "Die Würfe im Feed"
-vedi: "Zum Wurf"
+vedi: "Wurfkarte im Zuchtprogramm"
 torna: "Zurück zum Zuchtprogramm"
 ---

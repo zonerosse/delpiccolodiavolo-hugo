@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier bloodlines guide"
 titleSeo: "Staffy bloodlines: the history of the six lines"
 date: 2025-11-08
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 translationKey: "linee-sangue"
 in_breve:
   - "Staffy bloodlines are counted **from 1935**, when the Kennel Club recognised the breed."

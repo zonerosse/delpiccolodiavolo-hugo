@@ -4,7 +4,7 @@ og_image: "/images/og/schede/en/faq-staffordshire-bull-terrier.jpg"
 og_image_alt: "Staffordshire Bull Terrier FAQ - frequently asked questions — Allevamento Del Piccolo Diavolo"
 thumb: "/images/blog/icone/faq-sullo-staffordshire-bull-terrier.webp"
 date: 2025-12-28
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 notte: true
 translationKey: "faq"
 description: "Staffordshire Bull Terrier FAQ from a breeder: temperament, children and other dogs, health tests, lifespan, cost and how to choose a breeder."

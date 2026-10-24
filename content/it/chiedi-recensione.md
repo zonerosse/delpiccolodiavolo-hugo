@@ -1,7 +1,7 @@
 ---
 title: "Lascia una recensione – Del Piccolo Diavolo"
 date: 2025-12-28
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 noindex: true
 tipoPagina: "WebPage"
 description: "Se ti trovi bene con il tuo Staffy, scriverlo su Google aiuta la prossima famiglia."
@@ -72,7 +72,7 @@ custom_content: |
   <div class="section-inner content-single">
   <h2 class="section-title">Se preferisci dirmelo a voce</h2>
   <p style="font-size:.95rem;line-height:1.8">Se qualcosa non è andato come speravi, o se hai un dubbio sul cane, scrivimi su <a href="/wa/393924635584" target="_blank" rel="noopener" aria-label="Scrivimi su WhatsApp (si apre in una nuova scheda)" style="color:#1f4f82;font-weight:600">WhatsApp</a> invece che su Google. Mi interessa di più quello, e a un problema si rimedia solo se me lo dici.</p>
-  <p style="font-size:.95rem;line-height:1.8;margin-top:1rem">Vuoi prima vedere cosa hanno scritto gli altri? Sono tutte sulla <a href="/recensioni/" style="color:#1f4f82;font-weight:600">pagina recensioni</a>.</p>
+  <p style="font-size:.95rem;line-height:1.8;margin-top:1rem">Vuoi prima vedere cosa hanno scritto gli altri? Sono tutte fra le <a href="/recensioni/" style="color:#1f4f82;font-weight:600">recensioni delle famiglie</a>.</p>
   </div>
   </section>
 

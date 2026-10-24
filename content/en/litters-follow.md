@@ -1,6 +1,6 @@
 ---
 title: "Follow our litters"
-lastmod: 2026-09-30
+lastmod: 2026-10-24
 titleSeo: "Follow the litters of our breeding programme"
 date: 2026-09-28
 description: "How to follow the planned litters of the Del Piccolo Diavolo kennel with an RSS feed reader, without social media and without giving your email address."
@@ -21,6 +21,6 @@ copia: "Copy"
 copiato: "Copied ✓"
 nota: "Feedly and Inoreader are free, on computer and phone. All you need is an account."
 elenco: "The litters in the feed"
-vedi: "See the litter"
+vedi: "Litter card in the breeding programme"
 torna: "Back to the breeding programme"
 ---

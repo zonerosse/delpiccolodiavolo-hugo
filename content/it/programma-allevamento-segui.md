@@ -1,6 +1,6 @@
 ---
 title: "Segui le cucciolate"
-lastmod: 2026-09-30
+lastmod: 2026-10-24
 titleSeo: "Segui le cucciolate del programma di allevamento"
 date: 2026-09-28
 description: "Come seguire le cucciolate in programma dell'allevamento Del Piccolo Diavolo con un lettore di feed RSS, senza social e senza lasciare la propria email."
@@ -21,6 +21,6 @@ copia: "Copia"
 copiato: "Copiato ✓"
 nota: "Feedly e Inoreader sono gratuiti, sul computer e sul telefono. Basta un account."
 elenco: "Le cucciolate nel feed"
-vedi: "Vedi la scheda"
+vedi: "Scheda della cucciolata nel programma di allevamento"
 torna: "Torna al programma di allevamento"
 ---

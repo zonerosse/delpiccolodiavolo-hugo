@@ -2,7 +2,7 @@
 title: "\"Parents on site\": what it really means"
 titleSeo: "\"Parents on site\": what it really means"
 date: 2026-09-26
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 translationKey: "genitori-visibili"
 articolo: true
 image: "/images/blog/genitori-visibili-hero.webp"

@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier mit anderen Haustieren"
 date: 2024-06-18
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 translationKey: "altri-animali"
 in_breve:
   - "Der Staffy ist ein Terrier: **Reaktivität gegenüber anderen Hunden** gibt es, vor allem zwischen erwachsenen Hunden gleichen Geschlechts. Sozialisierung verringert sie, beseitigt sie aber nicht."

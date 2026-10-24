@@ -2,7 +2,7 @@
 title: "Welpen: Erster Spaziergang"
 date: 2025-09-17
 titleSeo: "Der erste Spaziergang des Welpen: wann und wie"
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 translationKey: "passeggiata"
 articolo: true
 image: "/images/blog/cuccioli-5.webp"
@@ -100,7 +100,7 @@ custom_content: |
   <ul>
   <li><a href="/de/welpen-sozialisierung-zuhause/" title="Welpen zu Hause sozialisieren: die Liste für die Familie">Welpen zu Hause sozialisieren: die Liste für die Familie</a></li>
   <li><a href="/de/welpen-stubenreinheit/" title="Welpen stubenrein machen: Methode und Zeitrahmen">Welpen stubenrein machen: Methode und Zeitrahmen</a></li>
-  <li><a href="/de/welpen-denkspiele/" title="Denkspiele für Staffordshire Bull Terrier Welpen">Denkspiele für Staffordshire Bull Terrier Welpen</a></li>
+  <li><a href="/de/welpen-denkspiele/" title="Denkspiele: kognitive Förderung und Nasenarbeit">Denkspiele: kognitive Förderung und Nasenarbeit</a></li>
   <li><a href="/de/welpen-erste-impfungen/" title="Erste Impfungen des Welpen: Plan und Auffrischung">Erste Impfungen des Welpen: Plan und Auffrischung</a></li>
   </ul>
   </div>

@@ -1,7 +1,7 @@
 ---
 title: "Staffordshire Bull Terrier e bambini: convivenza sicura"
 date: 2024-05-28
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 translationKey: "bambini"
 in_breve:
   - "**Nessun cane va lasciato solo con un bambino piccolo**, Staffy compreso."

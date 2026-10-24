@@ -2,7 +2,7 @@
 title: "Staffordshire Bull Terrier Blutlinien Leitfaden"
 titleSeo: "Staffy-Blutlinien: die Geschichte der sechs Linien"
 date: 2025-11-08
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 translationKey: "linee-sangue"
 in_breve:
   - "Die Blutlinien des Staffy zählt man **ab 1935**, als der Kennel Club die Rasse anerkannte."

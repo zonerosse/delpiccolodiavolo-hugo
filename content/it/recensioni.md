@@ -2,7 +2,7 @@
 title: "Recensioni Staffordshire Bull Terrier"
 titleSeo: "Recensioni Staffordshire Bull Terrier: <!--REC-TOTALE--> famiglie"
 date: 2025-12-28
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 tipoPagina: "CollectionPage"
 notte: true
 translationKey: "recensioni"
@@ -287,7 +287,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">La nostra reputazione</span>
-  <div class="n-percorso"><div class="n-passo"><h2 class="section-title">Perché le recensioni contano</h2><div><p>Del Piccolo Diavolo ha una valutazione media di <!--REC-VOTO--> su <!--REC-TOTALE--> recensioni pubblicate sul profilo Google dell'allevamento, e le recensioni di questa pagina sono copiate da lì, con il nome di chi le ha scritte e la data. Chiunque può andare a leggerle sul profilo, senza passare da noi, e nemmeno l'allevatore può cambiarle. Le hanno scritte soprattutto famiglie che hanno preso un cucciolo di Staffordshire Bull Terrier a Ostellato, in provincia di Ferrara, e qualche persona che è venuta a trovarci e ha conosciuto i cani. È lo stesso principio dei referti dei test genetici, che qui vengono pubblicati con il numero di microchip del cane sopra. Le recensioni raccontano l'esperienza dell'affido; cosa sia successo dopo, a distanza di anni, lo raccontiamo nelle <a href="/staffordshire-in-famiglia-storie/" title="Storie delle famiglie">storie dei cani che abbiamo allevato</a>.</p></div></div><div class="n-passo"><h3>✓ Su Google</h3><div><p>Ogni recensione si legge sul profilo dell'allevamento</p></div></div><div class="n-passo"><h3>⭐ <!--REC-VOTO-->/5</h3><div><p>Il voto medio su Google</p></div></div><div class="n-passo"><h3>📞 Anche dopo</h3><div><p>Ci trovi per tutta la vita del cane</p></div></div><div class="n-passo"><h3>🏆 Le linee</h3><div><p>Elitebull (inglese) e Lackyle (irlandese)</p></div></div></div>
+  <div class="n-percorso"><div class="n-passo"><h2 class="section-title">Perché le recensioni contano</h2><div><p>Del Piccolo Diavolo ha una valutazione media di <!--REC-VOTO--> su <!--REC-TOTALE--> recensioni pubblicate sul profilo Google dell'allevamento, e le recensioni di questa pagina sono copiate da lì, con il nome di chi le ha scritte e la data. Chiunque può andare a leggerle sul profilo, senza passare da noi, e nemmeno l'allevatore può cambiarle. Le hanno scritte soprattutto famiglie che hanno preso un cucciolo di Staffordshire Bull Terrier a Ostellato, in provincia di Ferrara, e qualche persona che è venuta a trovarci e ha conosciuto i cani. È lo stesso principio dei referti dei test genetici, che qui vengono pubblicati con il numero di microchip del cane sopra. Le recensioni raccontano l'esperienza dell'affido; cosa sia successo dopo, a distanza di anni, lo raccontiamo nelle <a href="/staffordshire-in-famiglia-storie/" title="Storie delle famiglie">storie in famiglia dei cani che abbiamo allevato</a>.</p></div></div><div class="n-passo"><h3>✓ Su Google</h3><div><p>Ogni recensione si legge sul profilo dell'allevamento</p></div></div><div class="n-passo"><h3>⭐ <!--REC-VOTO-->/5</h3><div><p>Il voto medio su Google</p></div></div><div class="n-passo"><h3>📞 Anche dopo</h3><div><p>Ci trovi per tutta la vita del cane</p></div></div><div class="n-passo"><h3>🏆 Le linee</h3><div><p>Elitebull (inglese) e Lackyle (irlandese)</p></div></div></div>
 
   </div>
   </section>
@@ -308,8 +308,8 @@ custom_content: |
   </div>
 
   <div class="links-box">
-  <p>Scopri le nostre <a href="/programma-allevamento/" title="Cucciolate programmate">cucciolate</a> e i <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli Staffy</a>.</p>
-  <p>Conosci i nostri <a href="/maschi-staffordshire-bull-terrier/" title="Maschi Staffordshire Bull Terrier">maschi</a> e le nostre <a href="/femmine-staffordshire-bull-terrier/" title="Femmine Staffordshire Bull Terrier">femmine</a>.</p>
+  <p>Scopri le nostre <a href="/programma-allevamento/" title="Cucciolate programmate">cucciolate in programma</a> e i <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli Staffy</a>.</p>
+  <p>Conosci i nostri <a href="/maschi-staffordshire-bull-terrier/" title="Maschi Staffordshire Bull Terrier">maschi Staffordshire Bull Terrier</a> e le nostre <a href="/femmine-staffordshire-bull-terrier/" title="Femmine Staffordshire Bull Terrier">femmine Staffy</a>.</p>
   </div>
   </div>
   </section>

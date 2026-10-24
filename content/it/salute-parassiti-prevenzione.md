@@ -1,7 +1,7 @@
 ---
 title: "Parassiti: prevenzione e controllo Staffordshire Bull Terrier"
 date: 2025-01-20
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 titleSeo: "Parassiti nello Staffordshire Bull Terrier: prevenzione"
 translationKey: "parassiti"
 in_breve:

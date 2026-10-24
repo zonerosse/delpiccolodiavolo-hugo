@@ -10,7 +10,7 @@ thumb: "/images/blog/icone/come-scegliere-allevamento-staffordshire-bull-terrier
 description: "Eight criteria for recognising a Staffordshire Bull Terrier breeder who does things properly, and how to verify each. With our own documents as the worked example."
 slug: "how-to-choose-a-staffordshire-bull-terrier-breeder"
 date: 2026-01-18
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 ---
 
 

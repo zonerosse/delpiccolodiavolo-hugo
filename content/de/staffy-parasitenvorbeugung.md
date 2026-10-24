@@ -1,7 +1,7 @@
 ---
 title: "Parasitenvorbeugung für Staffordshire Bull Terrier"
 date: 2025-01-20
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 translationKey: "parassiti"
 in_breve:
   - "Parasiten beugt man vor, **bevor man sie sieht**: wenn man Flöhe bemerkt, ist der Befall schon im Haus."

@@ -2,7 +2,7 @@
 title: "Wie man Staffy-Blutlinien wählt"
 date: 2025-03-05
 titleSeo: "Staffordshire Bull Terrier Blutlinien richtig wählen"
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 translationKey: "scelta-linee"
 articolo: true
 image: "/images/blog/standard-2.webp"

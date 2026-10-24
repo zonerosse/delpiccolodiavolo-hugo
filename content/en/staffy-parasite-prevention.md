@@ -1,7 +1,7 @@
 ---
 title: "Parasite prevention for Staffordshire Bull Terrier"
 date: 2025-01-20
-lastmod: 2026-10-18
+lastmod: 2026-10-24
 translationKey: "parassiti"
 in_breve:
   - "Parasites are prevented **before you see them**: once you notice fleas, the infestation is already in the house."
