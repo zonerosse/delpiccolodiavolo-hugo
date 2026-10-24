@@ -1,6 +1,6 @@
 ---
 title: "Cucciolata Bilquis × Black Jack (agosto 2026)"
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 articolo: true
 titleSeo: "Cucciolata Bilquis × Black Jack, agosto 2026"
 translationKey: "cucciolata-bilquis-agosto-2026"
@@ -91,7 +91,7 @@ All'allevamento **Del Piccolo Diavolo** è nata una cucciolata particolarmente a
       <li>Dentatura completa a forbice</li>
     </ul>
     <p>🏆 <strong>Quash Marvelous Hagler de Stafflorence</strong> (Campione del Mondo 2023) × <strong>Ultima di Casa Giacalone</strong> (Giovane Campionessa Italiana)</p>
-    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" aria-label="Vedi pedigree su SBTPedigree – Vedi il pedigree di Black Jack di Casa Giacalone (si apre in una nuova scheda)">Vedi pedigree su SBTPedigree →</a></p>
+    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" aria-label="Pedigree di Black Jack di Casa Giacalone su SBTPedigree (si apre in una nuova scheda)">Pedigree di Black Jack di Casa Giacalone su SBTPedigree →</a></p>
   </div>
 
   <div class="pair-x">×</div>
@@ -108,7 +108,7 @@ All'allevamento **Del Piccolo Diavolo** è nata una cucciolata particolarmente a
     </ul>
     <p><strong>Ch. IT · JCh. IT · JCh. HR · Ch. BiH</strong> · BOS Bologna 2024 · Qualifica Crufts 2025 · 4ª World Dog Show Zagabria 2024</p>
     <p>Pablo Iuno Sospita Plata Plomo × Skilful-dogs Nora</p>
-    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" aria-label="Vedi pedigree su SBTPedigree – Vedi il pedigree di Bilquis Goddess Diabhal (si apre in una nuova scheda)">Vedi pedigree su SBTPedigree →</a></p>
+    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" aria-label="Pedigree di Bilquis Goddess Diabhal su SBTPedigree (si apre in una nuova scheda)">Pedigree di Bilquis Goddess Diabhal su SBTPedigree →</a></p>
   </div>
 </div>
 
@@ -223,7 +223,7 @@ Bilquis — Ecocardio Doppler
 </div>
 </div>
 
-<p style="margin-top:1.5rem"><strong>Pedigree della cucciolata:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" class="sbt-link" aria-label="Vedi su SBTPedigree – Vedi il pedigree completo della cucciolata su SBTPedigree (si apre in una nuova scheda)">Vedi su SBTPedigree →</a></p>
+<p style="margin-top:1.5rem"><a href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" class="sbt-link" aria-label="Pedigree della cucciolata su SBTPedigree (si apre in una nuova scheda)">Pedigree della cucciolata su SBTPedigree →</a></p>
 
 <!--/BLOCCO:5-->
 

@@ -274,6 +274,7 @@ if r.returncode == 0:
         ("faq_schema", "FAQ visibile che manca nello schema FAQPage"),
         ("faq_cta", "Schema FAQPage con una domanda fuori dal blocco FAQ e risposta sotto le 25 parole"),
         ("img_url", "Icone o immagini esposte come URL a se' (sitemap, link diretti)"),
+        ("link_generico", "Link con parola cliccabile generica (Leggi, Vedi, Scopri, qui...): COME-SI-SCRIVE \u00a710"),
     ]:
         registra(cod, "ERRORE", tit)
     for cod, tit in [
@@ -351,6 +352,12 @@ if r.returncode == 0:
             slug = fm.get("slug") or os.path.basename(f)[:-3]
             articoli_url[("" if lingua == "it" else "/" + lingua) + "/" + slug + "/"] = f
 
+    # COME-SI-SCRIVE §10 (Paolo, 24/10/2026): la parola cliccabile dice cosa c'e' nella pagina di arrivo.
+    # Mai link che cominciano con un verbo generico o fatti solo di «qui», «questa pagina», «pagina dedicata»...
+    GENERICO = re.compile(r"^(?:leggi|vedi|scopri|clicca|guarda|apri|vai (?:a|al|alla|ai|alle)|continua|approfondisci|"
+                          r"qui|clicca qui|questa pagina|in questa pagina|pagina dedicata|guida a parte|link|di pi\u00f9|"
+                          r"read|see|view|find out|learn|click|open|go to|here|this page|more|"
+                          r"lesen|mehr|hier|diese seite|weiterlesen|ansehen|zum artikel|zur seite|auf \w+ ansehen)\b", re.I)
     VIETATE = re.compile(r"\b(passione|amore per la razza|esperienza pluriennale|professionalit[aà]|"
                          r"anni di esperienza|passion for|years of (?:direct )?experience|"
                          r"Leidenschaft|jahre(?:n)? (?:direkter )?erfahrung)\b", re.I)
@@ -565,6 +572,12 @@ if r.returncode == 0:
         if not esterne and not fm_pag.get("fonti_motivo") and not url.endswith(("/404.html",)):
             segnala("fonti", "AVVISO", "", url)
 
+        # link generici (COME-SI-SCRIVE §10)
+        for n in nodi:
+            if n.tag == "a":
+                t = re.sub(r"\s+", " ", n.testo()).strip(" \u2192\u2190\u2b50\u270d\ufe0f")
+                if t and GENERICO.match(t):
+                    segnala("link_generico", "ERRORE", "", url, f"\u00ab{t}\u00bb")
         # parole vuote, escluse le recensioni (sono citazioni dei clienti)
         for n in nodi:
             if n.tag in ("p", "h1", "h2", "h3", "span", "li") and not any(

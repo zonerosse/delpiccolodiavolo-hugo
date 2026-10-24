@@ -1,6 +1,6 @@
 ---
 title: "Bilquis × Black Jack Litter (August 2026)"
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 articolo: true
 titleSeo: "Bilquis × Black Jack litter, August 2026"
 translationKey: "cucciolata-bilquis-agosto-2026"
@@ -96,7 +96,7 @@ At fifty-five days the ears are right in the middle of settling: they go up, dro
       <li>Full scissor bite</li>
     </ul>
     <p>🏆 <strong>Quash Marvelous Hagler de Stafflorence</strong> (2023 World Champion) × <strong>Ultima di Casa Giacalone</strong> (Italian Junior Champion)</p>
-    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" aria-label="View pedigree on SBTPedigree – View the pedigree of Black Jack di Casa Giacalone (opens in a new tab)">View pedigree on SBTPedigree →</a></p>
+    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" aria-label="Pedigree of Black Jack di Casa Giacalone on SBTPedigree (opens in a new tab)">Pedigree of Black Jack di Casa Giacalone on SBTPedigree →</a></p>
   </div>
 
   <div class="pair-x">×</div>
@@ -113,7 +113,7 @@ At fifty-five days the ears are right in the middle of settling: they go up, dro
     </ul>
     <p><strong>Ch. IT · JCh. IT · JCh. HR · Ch. BiH</strong> · BOS Bologna 2024 · Crufts Qualification 2025 · 4th World Dog Show Zagreb 2024</p>
     <p>Pablo Iuno Sospita Plata Plomo × Skilful-dogs Nora</p>
-    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" aria-label="View pedigree on SBTPedigree – View the pedigree of Bilquis Goddess Diabhal (opens in a new tab)">View pedigree on SBTPedigree →</a></p>
+    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" aria-label="Pedigree of Bilquis Goddess Diabhal on SBTPedigree (opens in a new tab)">Pedigree of Bilquis Goddess Diabhal on SBTPedigree →</a></p>
   </div>
 </div>
 
@@ -228,7 +228,7 @@ Bilquis — Doppler echocardio
 </div>
 </div>
 
-<p style="margin-top:1.5rem"><strong>Litter pedigree:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" class="sbt-link" aria-label="View on SBTPedigree – View the full pedigree of the litter on SBTPedigree (opens in a new tab)">View on SBTPedigree →</a></p>
+<p style="margin-top:1.5rem"><a href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" class="sbt-link" aria-label="Pedigree of the litter on SBTPedigree (opens in a new tab)">Pedigree of the litter on SBTPedigree →</a></p>
 
 <!--/BLOCCO:5-->
 

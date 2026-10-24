@@ -1,6 +1,6 @@
 ---
 title: "Wurf Bilquis × Black Jack (August 2026)"
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 articolo: true
 titleSeo: "Wurf Bilquis × Black Jack, August 2026"
 translationKey: "cucciolata-bilquis-agosto-2026"
@@ -228,7 +228,7 @@ Bilquis — Doppler-Echokardiographie
 </div>
 </div>
 
-<p style="margin-top:1.5rem"><strong>Stammbaum des Wurfs:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" class="sbt-link" aria-label="Vollständigen Stammbaum des Wurfes auf SBTPedigree ansehen (wird in einem neuen Tab geöffnet)">Auf SBTPedigree ansehen →</a></p>
+<p style="margin-top:1.5rem"><a href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" class="sbt-link" aria-label="Stammbaum des Wurfs auf SBTPedigree (wird in einem neuen Tab geöffnet)">Stammbaum des Wurfs auf SBTPedigree →</a></p>
 
 <!--/BLOCCO:5-->
 

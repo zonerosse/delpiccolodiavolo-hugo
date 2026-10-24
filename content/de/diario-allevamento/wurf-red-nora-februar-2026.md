@@ -1,6 +1,6 @@
 ---
 title: "Wurf Red × Nora (Februar 2026)"
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 titleSeo: "Wurf Red und Nora, Februar 2026: Eltern und Gentests"
 articolo: true
 translationKey: "cucciolata-red-nora-febbraio-2026"
@@ -139,7 +139,7 @@ Nora (L2-HGA + HC + DM)
 </div>
 </div>
 
-<p style="margin-top:1.5rem"><strong>Wurf-Stammbaum:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" class="sbt-link" aria-label="Vollständigen Stammbaum des Wurfes auf SBTPedigree ansehen (wird in einem neuen Tab geöffnet)">Auf SBTPedigree ansehen →</a></p>
+<p style="margin-top:1.5rem"><strong>Wurf-Stammbaum:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" class="sbt-link" aria-label="Stammbaum des Wurfs auf SBTPedigree (wird in einem neuen Tab geöffnet)">Stammbaum des Wurfs auf SBTPedigree →</a></p>
 
 <!--/BLOCCO:5-->
 

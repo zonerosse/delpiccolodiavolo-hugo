@@ -2,7 +2,7 @@
 title: "Neuigkeiten aus der Zucht"
 titleSeo: "Neuigkeiten aus der Zucht Del Piccolo Diavolo"
 date: 2026-10-23
-lastmod: 2026-10-23
+lastmod: 2026-10-24
 tipoPagina: "CollectionPage"
 notte: true
 postgoogle: true
@@ -22,6 +22,6 @@ custom_content: |
 
   <div class="pg-wrap">
   <!--POST-GOOGLE-->
-  <p class="pg-fine"><a class="btn" href="https://g.page/r/CUCv-r9V4lTREAE" target="_blank" rel="noopener" aria-label="Google-Profil ansehen (öffnet in einem neuen Tab)">Google-Profil ansehen</a></p>
+  <p class="pg-fine"><a class="btn" href="https://g.page/r/CUCv-r9V4lTREAE" target="_blank" rel="noopener" aria-label="Google-Profil der Zucht (öffnet in einem neuen Tab)">Google-Profil der Zucht</a></p>
   </div>
 ---

@@ -71,7 +71,7 @@ custom_content: |
   <p><strong>Sire:</strong> <a href="https://www.thereds-stafford.com/esposizioni" target="_blank" rel="noopener" title="Bullbrothers Hott as Hell (HEAT) - palmares show results, TheReds Stafford" style="color:#1f4f82;font-weight:700;text-decoration:underline;text-underline-offset:3px" aria-label="Bullbrothers Hott as Hell (HEAT) - palmares show results, TheReds Stafford (opens in a new tab)">Bullbrothers Hott as Hell &#8599;</a> «HEAT», Multi International Champion, Crufts qualified, TheReds Stafford kennel</p>
   <p><strong>Dam:</strong> Skilful-dogs Nora</p>
   <p><strong>Owner:</strong> Sergio Patrucco</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4554911" target="_blank" rel="noopener" title="View Lothar pedigree on SBTPedigree" aria-label="View full pedigree – View Lothar pedigree on SBTPedigree (opens in a new tab)">View full pedigree →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4554911" target="_blank" rel="noopener" title="Pedigree of Lothar on SBTPedigree" aria-label="Pedigree of Lothar on SBTPedigree (opens in a new tab)">Pedigree of Lothar on SBTPedigree →</a>
   <!--ESPOSIZIONI:lothar-->
   </div>
   </div>
@@ -93,7 +93,7 @@ custom_content: |
   <p><strong>Sire:</strong> Alport The Sandman</p>
   <p><strong>Dam:</strong> Jackie Kennedy Great'n Glory</p>
   <p><strong>Lives:</strong> in Rome, with the family that took him as a puppy</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=2632698" target="_blank" rel="noopener" title="View Braveheart pedigree on SBTPedigree" aria-label="View full pedigree – View Braveheart pedigree on SBTPedigree (opens in a new tab)">View full pedigree →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=2632698" target="_blank" rel="noopener" title="Pedigree of Braveheart on SBTPedigree" aria-label="Pedigree of Braveheart on SBTPedigree (opens in a new tab)">Pedigree of Braveheart on SBTPedigree →</a>
   <!--ESPOSIZIONI:braveheart-->
   </div>
   </div>
@@ -114,7 +114,7 @@ custom_content: |
   <p><strong>Sire:</strong> Alport The Sandman</p>
   <p><strong>Dam:</strong> Jackie Kennedy Great'n Glory</p>
   <p><strong>Lives:</strong> in Parma, with the family that took him as a puppy</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=2609040" target="_blank" rel="noopener" title="View Papillon pedigree on SBTPedigree" aria-label="View full pedigree – View Papillon pedigree on SBTPedigree (opens in a new tab)">View full pedigree →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=2609040" target="_blank" rel="noopener" title="Pedigree of Papillon on SBTPedigree" aria-label="Pedigree of Papillon on SBTPedigree (opens in a new tab)">Pedigree of Papillon on SBTPedigree →</a>
   <!--ESPOSIZIONI:papillon-->
   </div>
   </div>

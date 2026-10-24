@@ -205,7 +205,7 @@ custom_content: |
   </section>
   <!--/BLOCCO:7-->
   <section class="section section-alt">
-  <div class="section-inner"><div class="review-card"><p class="review-text">«Circa otto mesi fa decisi di aver come compagno di avventure uno Staffy e mi misi a documentarmi per potermi affidare ad un allevamento il più affidabile possibile. […] Ora ho il mio piccolo diavolo grazie a questa splendida famiglia che non smetterò mai di ringraziare.»</p><div class="reviewer"><span>Gianluca Ravera</span><span class="stars">★★★★★</span></div><p class="n-orig"><a aria-label="Leggi la recensione su Google (si apre in una nuova scheda)" href="https://search.google.com/local/reviews?placeid=ChIJqV8xIv1rfkcRQK_6v1XiVNE" rel="noopener" target="_blank" title="Leggi la recensione originale su Google">Leggi la recensione su Google →</a></p></div></div>
+  <div class="section-inner"><div class="review-card"><p class="review-text">«Circa otto mesi fa decisi di aver come compagno di avventure uno Staffy e mi misi a documentarmi per potermi affidare ad un allevamento il più affidabile possibile. […] Ora ho il mio piccolo diavolo grazie a questa splendida famiglia che non smetterò mai di ringraziare.»</p><div class="reviewer"><span>Gianluca Ravera</span><span class="stars">★★★★★</span></div><p class="n-orig"><a aria-label="Recensione originale su Google (si apre in una nuova scheda)" href="https://search.google.com/local/reviews?placeid=ChIJqV8xIv1rfkcRQK_6v1XiVNE" rel="noopener" target="_blank" title="Recensione originale su Google">Recensione originale su Google →</a></p></div></div>
   </section>
   <!--BLOCCO:8-->
   <section class="section section-alt" style="padding-top:0">
@@ -215,7 +215,7 @@ custom_content: |
   <div>
   <small>Ne hanno parlato · 6 gennaio 2026</small>
   <h2>“Da Ferrara alla conquista del mondo: Bilquis, la cagnolina di 3 anni che fa incetta di premi”</h2>
-  <p><strong>FerraraToday</strong> · <a aria-label="Leggi l'articolo su FerraraToday (si apre in una nuova scheda)" href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" rel="noopener" target="_blank" title="Leggi l'articolo su FerraraToday">leggi l'articolo →</a></p>
+  <p><strong>FerraraToday</strong> · <a aria-label="Articolo di FerraraToday su Bilquis (si apre in una nuova scheda)" href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" rel="noopener" target="_blank" title="Articolo di FerraraToday su Bilquis">articolo di FerraraToday su Bilquis →</a></p>
   </div>
   </div>
   </div>

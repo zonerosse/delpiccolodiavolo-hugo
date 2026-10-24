@@ -71,7 +71,7 @@ custom_content: |
   <p><strong>Padre:</strong> <a href="https://www.thereds-stafford.com/esposizioni" target="_blank" rel="noopener" title="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford" style="color:#1f4f82;font-weight:700;text-decoration:underline;text-underline-offset:3px" aria-label="Bullbrothers Hott as Hell (HEAT) - palmares esposizioni, TheReds Stafford (si apre in una nuova scheda)">Bullbrothers Hott as Hell &#8599;</a> «HEAT», Multi Campione Internazionale, qualificato Crufts, allevamento TheReds Stafford</p>
   <p><strong>Madre:</strong> Skilful-dogs Nora</p>
   <p><strong>Proprietario:</strong> Sergio Patrucco</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4554911" target="_blank" rel="noopener" title="Vedi pedigree Lothar su SBTPedigree" aria-label="Vedi pedigree completo – Vedi pedigree Lothar su SBTPedigree (si apre in una nuova scheda)">Vedi pedigree completo →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=4554911" target="_blank" rel="noopener" title="Pedigree di Lothar su SBTPedigree" aria-label="Pedigree di Lothar su SBTPedigree (si apre in una nuova scheda)">Pedigree di Lothar su SBTPedigree →</a>
   <!--ESPOSIZIONI:lothar-->
   </div>
   </div>
@@ -93,7 +93,7 @@ custom_content: |
   <p><strong>Padre:</strong> Alport The Sandman</p>
   <p><strong>Madre:</strong> Jackie Kennedy Great'n Glory</p>
   <p><strong>Vive:</strong> a Roma, con la famiglia che lo ha preso da cucciolo</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=2632698" target="_blank" rel="noopener" title="Vedi pedigree Braveheart su SBTPedigree" aria-label="Vedi pedigree completo – Vedi pedigree Braveheart su SBTPedigree (si apre in una nuova scheda)">Vedi pedigree completo →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=2632698" target="_blank" rel="noopener" title="Pedigree di Braveheart su SBTPedigree" aria-label="Pedigree di Braveheart su SBTPedigree (si apre in una nuova scheda)">Pedigree di Braveheart su SBTPedigree →</a>
   <!--ESPOSIZIONI:braveheart-->
   </div>
   </div>
@@ -114,7 +114,7 @@ custom_content: |
   <p><strong>Padre:</strong> Alport The Sandman</p>
   <p><strong>Madre:</strong> Jackie Kennedy Great'n Glory</p>
   <p><strong>Vive:</strong> a Parma, con la famiglia che lo ha preso da cucciolo</p>
-  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=2609040" target="_blank" rel="noopener" title="Vedi pedigree Papillon su SBTPedigree" aria-label="Vedi pedigree completo – Vedi pedigree Papillon su SBTPedigree (si apre in una nuova scheda)">Vedi pedigree completo →</a>
+  <a class="pedigree-link" href="https://sbtpedigree.com/dog_details?dogs_id=2609040" target="_blank" rel="noopener" title="Pedigree di Papillon su SBTPedigree" aria-label="Pedigree di Papillon su SBTPedigree (si apre in una nuova scheda)">Pedigree di Papillon su SBTPedigree →</a>
   <!--ESPOSIZIONI:papillon-->
   </div>
   </div>

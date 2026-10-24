@@ -307,6 +307,42 @@ Esempio di aggancio buono: nella guida sui parassiti c'era già "il libretto con
 le date delle sverminazioni" — il link all'articolo sull'esame delle feci si
 inserisce lì, in mezzo alla frase.
 
+### La parola cliccabile (regola di Paolo, 24/10/2026)
+
+La parte cliccabile di un link deve dire **cosa c'è nella pagina di arrivo**,
+con la sua parola chiave. È quello che leggono Google e chi scorre la pagina.
+
+Mai:
+
+- verbi generici all'inizio: «Leggi…», «Vedi…», «Scopri di più», «Clicca qui»,
+  «Vai a…», «Apri…», «Continua», «Read more», «See…», «Mehr lesen», «Hier»;
+- frasi che non nominano niente: «qui», «in questa pagina», «pagina dedicata»,
+  «guida a parte», «a distanza di anni», «lo stallone scelto», «pregi e difetti
+  senza filtri», «andrebbe sempre verificato»;
+- il nome del sito al posto del contenuto: «SBTPedigree» da solo quando il link
+  porta al pedigree di un cane (si scrive «Pedigree di Bilquis su SBTPedigree»);
+- parole che portano tutte allo stesso posto (le vecchie file di «Tag» in fondo
+  agli articoli: ora sono etichette, non link);
+- lo stesso link due volte nello stesso paragrafo.
+
+Sempre:
+
+- il link sta sulle parole che nominano il tema della pagina di arrivo
+  («nel prezzo di un cucciolo di Staffordshire Bull Terrier, voce per voce»,
+  non «nei costi di una cucciolata, voce per voce»); se la frase non le ha,
+  si riscrive il minimo indispensabile;
+- bottoni e riquadri nominano la pagina di arrivo («I nostri cuccioli Staffy»,
+  «Calcolatore BARF per il cucciolo», «Pedigree della cucciolata su SBTPedigree»);
+- le parole chiave principali (`tools/controlli/parole-chiave.txt`) solo nei link
+  verso la loro pagina: «cuccioli staffordshire bull terrier» solo verso Cuccioli,
+  «allevamento staffordshire bull terrier» solo verso la Home;
+- crocchette e quanto mangiare → calcolatore delle crocchette; crudo e BARF con le
+  quantità → calcolatore BARF;
+- se il link ha `aria-label`, deve cominciare con le stesse parole visibili.
+
+`verifica.py` controlla i verbi generici e le frasi vuote (codice
+`link_generico`, ERRORE): con anche un solo caso non si consegna.
+
 ---
 
 ## 11. Pubblicare un articolo: la lista completa

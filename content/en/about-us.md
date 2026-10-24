@@ -91,7 +91,7 @@ custom_content: |
   <p>He works with Elitebull (England) and Lackyle (Ireland) bloodlines and <a href="/en/staffy-genetic-testing-l2hga-hc/" title="Staffy genetic testing: L2-HGA, HC (HSF4) and DM (SOD1)">tests every breeding dog for L2-HGA and HC</a>. Our dogs are also clear of DM-SOD1. With <strong>Bilquis Goddess Diabhal</strong> he won the ENCI Italian Beauty Champion title and placed fourth at the World Dog Show in Zagreb in 2024. Every <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffy puppy</a> leaves with an ENCI pedigree and with the parents' test certificates.</p>
   <p>The facts, data and choices described on these pages are his: they come from what happens at the kennel. For questions about puppies, bloodlines or genetic testing: contact me directly or <a href="/en/contact/">come and visit us in Emilia-Romagna</a>.</p>
 
-  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">The females</span><h3>The females who carry those lines</h3><p>Eight profiles with microchip, genetic tests and pedigree: from there you trace the ancestry and check everything.</p><a class="btn" href="/en/females-staffordshire-bull-terrier/" title="The females who carry those lines">Go to our female Staffies</a></div></div>
+  <div class="n-schede n-uno"><div class="n-scheda"><span class="n-quando">The females</span><h3>The females who carry those lines</h3><p>Eight profiles with microchip, genetic tests and pedigree: from there you trace the ancestry and check everything.</p><a class="btn" href="/en/females-staffordshire-bull-terrier/" title="The females who carry those lines">Our female Staffies</a></div></div>
   </div>
   </section>
   <!--/BLOCCO:5-->

@@ -60,8 +60,8 @@ custom_content: |
   </div>
   </div>
 
-  <a href="https://maps.app.goo.gl/XDzxryqkbSSWNYVB8" target="_blank" rel="noopener" class="map-link" title="Open Google Maps for directions" aria-label="Open Google Maps Via Amerigo Chierici, 12, 44020 Ostellato (FE), Italy (opens in a new tab)">
-  Open Google Maps
+  <a href="https://maps.app.goo.gl/XDzxryqkbSSWNYVB8" target="_blank" rel="noopener" class="map-link" title="Open Google Maps for directions" aria-label="The kennel on Google Maps Via Amerigo Chierici, 12, 44020 Ostellato (FE), Italy (opens in a new tab)">
+  The kennel on Google Maps
   <span>Via Amerigo Chierici, 12, 44020 Ostellato (FE), Italy</span>
   </a>
   </div>

@@ -1,6 +1,6 @@
 ---
 title: "Red × Nora Litter (February 2026)"
-lastmod: 2026-10-17
+lastmod: 2026-10-24
 titleSeo: "Red and Nora litter, February 2026: parents and tests"
 articolo: true
 translationKey: "cucciolata-red-nora-febbraio-2026"
@@ -49,7 +49,7 @@ Your browser does not support video.
       <li>Full scissor bite</li>
     </ul>
     <p>CH. Americano Toreator De Testaferro × Staffgold Girl Of Ice</p>
-    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=3372904" target="_blank" rel="noopener" aria-label="View pedigree on SBTPedigree – View the pedigree of Vangerbull Red Harricane (opens in a new tab)">View pedigree on SBTPedigree →</a></p>
+    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=3372904" target="_blank" rel="noopener" aria-label="Pedigree of Vangerbull Red Harricane on SBTPedigree (opens in a new tab)">Pedigree of Vangerbull Red Harricane on SBTPedigree →</a></p>
   </div>
 
   <div class="pair-x">×</div>
@@ -64,7 +64,7 @@ Your browser does not support video.
       <li>Full scissor bite</li>
     </ul>
     <p>Skilful-Dogs Jeghër × Skilful-Dogs Red Skin</p>
-    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" aria-label="View pedigree on SBTPedigree – View the pedigree of Skilful-dogs Nora (opens in a new tab)">View pedigree on SBTPedigree →</a></p>
+    <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" aria-label="Pedigree of Skilful-dogs Nora on SBTPedigree (opens in a new tab)">Pedigree of Skilful-dogs Nora on SBTPedigree →</a></p>
   </div>
 </div>
 
@@ -139,7 +139,7 @@ Nora (L2-HGA + HC + DM)
 </div>
 </div>
 
-<p style="margin-top:1.5rem"><strong>Litter pedigree:</strong> <a href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" class="sbt-link" aria-label="View on SBTPedigree – View the full pedigree of the litter on SBTPedigree (opens in a new tab)">View on SBTPedigree →</a></p>
+<p style="margin-top:1.5rem"><a href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" class="sbt-link" aria-label="Pedigree of the litter on SBTPedigree (opens in a new tab)">Pedigree of the litter on SBTPedigree →</a></p>
 
 <!--/BLOCCO:5-->
 

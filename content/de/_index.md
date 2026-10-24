@@ -206,7 +206,7 @@ custom_content: |
   </section>
   <!--/BLOCCO:7-->
   <section class="section section-alt">
-  <div class="section-inner"><div class="review-card"><p class="review-text">«Vor etwa acht Monaten beschloss ich, einen Staffy als Begleiter zu nehmen, und begann mich einzulesen, um mich der zuverlässigsten Zucht anvertrauen zu können. […] Jetzt habe ich meinen kleinen Teufel, dank dieser wunderbaren Familie, der ich nie genug danken kann.»</p><div class="reviewer"><span>Gianluca Ravera</span><span class="stars">★★★★★</span></div><p class="n-orig"><a aria-label="Bewertung auf Google lesen (wird in einem neuen Tab geöffnet)" href="https://search.google.com/local/reviews?placeid=ChIJqV8xIv1rfkcRQK_6v1XiVNE" rel="noopener" target="_blank" title="Originalbewertung auf Google lesen">Bewertung auf Google lesen →</a></p></div></div>
+  <div class="section-inner"><div class="review-card"><p class="review-text">«Vor etwa acht Monaten beschloss ich, einen Staffy als Begleiter zu nehmen, und begann mich einzulesen, um mich der zuverlässigsten Zucht anvertrauen zu können. […] Jetzt habe ich meinen kleinen Teufel, dank dieser wunderbaren Familie, der ich nie genug danken kann.»</p><div class="reviewer"><span>Gianluca Ravera</span><span class="stars">★★★★★</span></div><p class="n-orig"><a aria-label="Originalbewertung auf Google (wird in einem neuen Tab geöffnet)" href="https://search.google.com/local/reviews?placeid=ChIJqV8xIv1rfkcRQK_6v1XiVNE" rel="noopener" target="_blank" title="Originalbewertung auf Google">Originalbewertung auf Google →</a></p></div></div>
   </section>
   <!--BLOCCO:8-->
   <section class="section section-alt" style="padding-top:0">
@@ -216,7 +216,7 @@ custom_content: |
   <div>
   <small>In der Presse · 6. Januar 2026</small>
   <h2>„Von Ferrara aus die Welt erobern: Bilquis, die dreijährige Hündin, die Preise sammelt“</h2>
-  <p><strong>FerraraToday</strong> (auf Italienisch) · <a aria-label="Artikel lesen (wird in einem neuen Tab geöffnet)" href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" rel="noopener" target="_blank" title="Artikel auf FerraraToday lesen">Artikel lesen →</a></p>
+  <p><strong>FerraraToday</strong> (auf Italienisch) · <a aria-label="Artikel von FerraraToday über Bilquis (wird in einem neuen Tab geöffnet)" href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" rel="noopener" target="_blank" title="Artikel von FerraraToday über Bilquis">Artikel von FerraraToday über Bilquis →</a></p>
   </div>
   </div>
   </div>

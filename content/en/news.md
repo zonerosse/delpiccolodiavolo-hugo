@@ -2,7 +2,7 @@
 title: "News from the kennel"
 titleSeo: "News from the Del Piccolo Diavolo kennel"
 date: 2026-10-23
-lastmod: 2026-10-23
+lastmod: 2026-10-24
 tipoPagina: "CollectionPage"
 notte: true
 postgoogle: true
@@ -22,6 +22,6 @@ custom_content: |
 
   <div class="pg-wrap">
   <!--POST-GOOGLE-->
-  <p class="pg-fine"><a class="btn" href="https://g.page/r/CUCv-r9V4lTREAE" target="_blank" rel="noopener" aria-label="See the Google profile (opens in a new tab)">See the Google profile</a></p>
+  <p class="pg-fine"><a class="btn" href="https://g.page/r/CUCv-r9V4lTREAE" target="_blank" rel="noopener" aria-label="The kennel's Google profile (opens in a new tab)">The kennel's Google profile</a></p>
   </div>
 ---

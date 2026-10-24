@@ -87,7 +87,7 @@ custom_content: |
   <li>Top Dog Junior female 2023</li>
   </ul>
   <p>Skilful-dogs Nora × Pablo iuno sospita plata plomo</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="View Bilquis's pedigree on SBTPedigree" aria-label="SBTPedigree – View the pedigree of JCH. CH. Italiana Bilquis Goddess Diabhal (opens in a new tab)">SBTPedigree</a></p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="Pedigree of Bilquis on SBTPedigree" aria-label="Pedigree of Bilquis on SBTPedigree (opens in a new tab)">Pedigree of Bilquis on SBTPedigree</a></p>
   </div>
 
   <div class="pair-x">×</div>
@@ -101,13 +101,13 @@ custom_content: |
   <li>Son of the 2023 World Champion</li>
   </ul>
   <p>Quash Marvelous Hagler de Stafflorence (World Champion 2023) × Ultima di Casa Giacalone</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" title="View Black Jack's pedigree on SBTPedigree" aria-label="SBTPedigree – View the pedigree of Black Jack di Casa Giacalone (opens in a new tab)">SBTPedigree</a></p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4735527" target="_blank" rel="noopener" title="Pedigree of Black Jack on SBTPedigree" aria-label="Pedigree of Black Jack on SBTPedigree (opens in a new tab)">Pedigree of Black Jack on SBTPedigree</a></p>
   </div>
   </div>
 
   <p style="margin-top:1rem;font-size:.9rem;color:#1f2d42;line-height:1.6">A pairing planned to combine the champion morphology of Bilquis (Italian Champion, 4th at the 2024 World Dog Show) with the lines of Black Jack, son of the 2023 World Champion Quash Marvelous Hagler de Stafflorence. Born 1 August 2026, black puppies. Litter complete: not available.</p>
 
-  <p class="pedigree-link">Litter pedigree: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" title="View Bilquis x Black Jack litter pedigree" aria-label="view on SBTPedigree – View the full pedigree of the 1 August 2026 litter on SBTPedigree (opens in a new tab)">view on SBTPedigree</a></p>
+  <p class="pedigree-link"><a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4735527&DAM=4496127&generation=4" target="_blank" rel="noopener" title="Pedigree of the litter on SBTPedigree" aria-label="Pedigree of the litter on SBTPedigree (opens in a new tab)">Pedigree of the litter on SBTPedigree</a></p>
   <div class="related-articles">
   <h3>More on this topic</h3>
   <ul>
@@ -134,7 +134,7 @@ custom_content: |
   <li>Completely scissor bite</li>
   </ul>
   <p>CH. Americano Toreator De Testaferro x Staffgold Girl Of Ice</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=3372904" target="_blank" rel="noopener" title="View Red's pedigree on SBTPedigree" aria-label="SBTPedigree – View the pedigree of Vangerbull Red Harricane (opens in a new tab)">SBTPedigree</a></p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=3372904" target="_blank" rel="noopener" title="Pedigree of Red on SBTPedigree" aria-label="Pedigree of Red on SBTPedigree (opens in a new tab)">Pedigree of Red on SBTPedigree</a></p>
   </div>
 
   <div class="pair-x">×</div>
@@ -147,13 +147,13 @@ custom_content: |
   <li>Completely scissor bite</li>
   </ul>
   <p>Skilful-Dogs Jeghër × Skilful-Dogs Red Skin</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="View Nora's pedigree on SBTPedigree" aria-label="SBTPedigree – View the pedigree of Skilful-dogs Nora (opens in a new tab)">SBTPedigree</a></p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4482111" target="_blank" rel="noopener" title="Pedigree of Nora on SBTPedigree" aria-label="Pedigree of Nora on SBTPedigree (opens in a new tab)">Pedigree of Nora on SBTPedigree</a></p>
   </div>
   </div>
 
   <p style="margin-top:1rem;font-size:.9rem;color:#1f2d42;line-height:1.6">This pairing was planned to consolidate the traits of the Vangerbull line while preserving the excellent family temperament of Skilful-Dogs. Born 9 February 2026, puppies in <a href="/en/staffordshire-bull-terrier-colours/" title="Staffordshire Bull Terrier colours">brindle and red and white colours</a>. Not available.</p>
 
-  <p class="pedigree-link">Litter pedigree: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" title="View Red x Nora litter pedigree" aria-label="view on SBTPedigree – View the full pedigree of the 9 February 2026 litter on SBTPedigree (opens in a new tab)">view on SBTPedigree</a></p>
+  <p class="pedigree-link"><a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=3372904&DAM=4482111&generation=4&dogs_id=4569744" target="_blank" rel="noopener" title="Pedigree of the litter on SBTPedigree" aria-label="Pedigree of the litter on SBTPedigree (opens in a new tab)">Pedigree of the litter on SBTPedigree</a></p>
   <p class="pedigree-link"><a href="/en/diario-allevamento/red-nora-litter-february-2026/" title="Red × Nora litter in the diary">Red × Nora litter diary</a>: parents, tests, examinations and growth</p>
   </article>
 
@@ -175,7 +175,7 @@ custom_content: |
   <li>Top Dog Junior female 2023</li>
   </ul>
   <p>Skilful-dogs Nora × Pablo iuno sospita plata plomo</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="View Bilquis's pedigree on SBTPedigree" aria-label="SBTPedigree – View the pedigree of JCH. CH. Italiana Bilquis Goddess Diabhal (opens in a new tab)">SBTPedigree</a></p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4496127" target="_blank" rel="noopener" title="Pedigree of Bilquis on SBTPedigree" aria-label="Pedigree of Bilquis on SBTPedigree (opens in a new tab)">Pedigree of Bilquis on SBTPedigree</a></p>
   </div>
 
   <div class="pair-x">×</div>
@@ -188,11 +188,11 @@ custom_content: |
   <li>Completely scissor bite</li>
   </ul>
   <p>D' Spain Fuogo Negro Espartaco × Iunosospita Torvi</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4555572" target="_blank" rel="noopener" title="View Luis's pedigree on SBTPedigree" aria-label="SBTPedigree – View the pedigree of Il lupo perde il pelo ma non il vizio – Luis (opens in a new tab)">SBTPedigree</a></p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4555572" target="_blank" rel="noopener" title="Pedigree of Luis on SBTPedigree" aria-label="Pedigree of Luis on SBTPedigree (opens in a new tab)">Pedigree of Luis on SBTPedigree</a></p>
   </div>
   </div>
 
-  <p class="pedigree-link">Litter pedigree: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4555572&DAM=4496127&generation=4&dogs_id=4555573" target="_blank" rel="noopener" title="View Bilquis x Luis litter pedigree" aria-label="view on SBTPedigree – View the full pedigree of the 2 May 2025 litter on SBTPedigree (opens in a new tab)">view on SBTPedigree</a></p>
+  <p class="pedigree-link"><a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4555572&DAM=4496127&generation=4&dogs_id=4555573" target="_blank" rel="noopener" title="Pedigree of the litter on SBTPedigree" aria-label="Pedigree of the litter on SBTPedigree (opens in a new tab)">Pedigree of the litter on SBTPedigree</a></p>
   </article>
 
   <!-- Litter 3: Prospect × Bean - NOT AVAILABLE -->
@@ -211,7 +211,7 @@ custom_content: |
   <li>Completely scissor bite</li>
   </ul>
   <p>CH. Elitebulls Challenger × Elitebull Destiny</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4483601" target="_blank" rel="noopener" title="View Prospect's pedigree on SBTPedigree" aria-label="SBTPedigree – View the pedigree of CH. Elitebull Prospect (opens in a new tab)">SBTPedigree</a></p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4483601" target="_blank" rel="noopener" title="Pedigree of Prospect on SBTPedigree" aria-label="Pedigree of Prospect on SBTPedigree (opens in a new tab)">Pedigree of Prospect on SBTPedigree</a></p>
   </div>
 
   <div class="pair-x">×</div>
@@ -224,11 +224,11 @@ custom_content: |
   <li>Completely scissor bite</li>
   </ul>
   <p>Lackyle Trodai Tine × CH. Lackyle Ogbhean an Diabhal</p>
-  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4538599" target="_blank" rel="noopener" title="View Bean's pedigree on SBTPedigree" aria-label="SBTPedigree – View the pedigree of Lackyle Bean Croí Olc (opens in a new tab)">SBTPedigree</a></p>
+  <p><a class="sbt-link" href="https://sbtpedigree.com/dog_details?dogs_id=4538599" target="_blank" rel="noopener" title="Pedigree of Bean on SBTPedigree" aria-label="Pedigree of Bean on SBTPedigree (opens in a new tab)">Pedigree of Bean on SBTPedigree</a></p>
   </div>
   </div>
 
-  <p class="pedigree-link">Litter pedigree: <a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4483601&DAM=4538599&generation=4&dogs_id=4547824" target="_blank" rel="noopener" title="View Prospect x Bean litter pedigree" aria-label="view on SBTPedigree – View the full pedigree of the 1 February 2025 litter on SBTPedigree (opens in a new tab)">view on SBTPedigree</a></p>
+  <p class="pedigree-link"><a class="sbt-link" href="https://sbtpedigree.com/pedigree?SIRE=4483601&DAM=4538599&generation=4&dogs_id=4547824" target="_blank" rel="noopener" title="Pedigree of the litter on SBTPedigree" aria-label="Pedigree of the litter on SBTPedigree (opens in a new tab)">Pedigree of the litter on SBTPedigree</a></p>
   </article>
 
   </div>

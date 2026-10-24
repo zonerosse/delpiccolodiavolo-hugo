@@ -444,6 +444,12 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
   (l'equazione NRC può dare circa il 20% in più sotto i 6 mesi) fra le fonti.
 
 
+## Parole cliccabili (24/10/2026, Paolo: «niente link idioti»)
+- Regole in COME-SI-SCRIVE §10 «La parola cliccabile». `verifica.py` le controlla (codice `link_generico`, ERRORE):
+  nessun link può cominciare con Leggi/Vedi/Scopri/Clicca/Vai/Apri/Read/See/View/Mehr/Hier… o essere «qui», «questa pagina».
+- Link a SBTPedigree: «Pedigree di <cane> su SBTPedigree» (EN «Pedigree of …», DE «Stammbaum von …»), mai «Vedi pedigree».
+- Le parole dei «Tag» in fondo agli articoli sono `<span>`, non link (portavano tutte all'elenco del Blog).
+
 ## Più foto nelle pagine (24/10/2026, Paolo: «l'utente medio non legge», anteprima-30 approvata)
 - Regola: una foto almeno ogni 300 parole circa, una per sezione, sotto il titolo della sezione e prima del testo:
   `<figure class="n-foto1"><img src=… alt=… width height loading="lazy" decoding="async"></figure>` (stile in `notte.css` e `main.css`:

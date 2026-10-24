@@ -60,8 +60,8 @@ custom_content: |
   </div>
   </div>
 
-  <a href="https://maps.app.goo.gl/XDzxryqkbSSWNYVB8" target="_blank" rel="noopener" class="map-link" title="Route in Google Maps öffnen" aria-label="Google Maps öffnen Via Amerigo Chierici, 12, 44020 Ostellato (FE), Italien (wird in einem neuen Tab geöffnet)">
-  Google Maps öffnen
+  <a href="https://maps.app.goo.gl/XDzxryqkbSSWNYVB8" target="_blank" rel="noopener" class="map-link" title="Route in Google Maps öffnen" aria-label="Die Zucht auf Google Maps Via Amerigo Chierici, 12, 44020 Ostellato (FE), Italien (wird in einem neuen Tab geöffnet)">
+  Die Zucht auf Google Maps
   <span>Via Amerigo Chierici, 12, 44020 Ostellato (FE), Italien</span>
   </a>
   </div>
