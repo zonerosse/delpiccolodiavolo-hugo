@@ -434,8 +434,8 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
   gestionale). Stile: classi `pp-*` dentro `.pp-nuovo` + regole `.dc-*` in fondo a `notte.css`. **Le tre pagine di ogni calcolatore caricano prima
   `calcolatore-cane.js` e poi il proprio script, con lo stesso `?v=`: cambiarlo in tutte e sei dopo ogni modifica.**
 - Formule (FEDIAF luglio 2024 / NRC 2006): cucciolo 130 × kg^0,75 × 3,2 × (e^(−0,87 p) − 0,1), p = peso di oggi / peso da adulto, senza fattore
-  movimento; adulto 70 × kg^0,75 × 1,8/1,6 (8+ anni 1,4/1,3) × movimento; forma ±10%. Femmina intera da 12 mesi: «Momento» Nessuno / Accoppiata
-  (data della monta: fino al giorno 34 razione di prima, dal 35 132 × kg^0,75 + 26 × kg) / Allatta (data del parto e cuccioli: 145 × kg^0,75 +
+  movimento; adulto 70 × kg^0,75 × 1,8/1,6 (8+ anni 1,4/1,3) × movimento; forma ±10%. Femmina intera da 12 mesi: «Gravidanza o allattamento» (25/10/2026, prima «Momento»; si vede appena si sceglie Femmina non sterilizzata, anche senza età): Nessuno / Gravida
+  (Gravida: data della monta, fino al giorno 34 razione di prima, dal 35 132 × kg^0,75 + 26 × kg) / In allattamento (data del parto e cuccioli: 145 × kg^0,75 +
   kg × (24 n + 12 m) × L, L settimane 1-4 = 0,75/0,95/1,1/1,2 NRC, 5-8 = 0,9/0,65/0,4/0,2 stima nostra, dalla 9ª adulto). Tappe con le date in una
   tendina chiusa (`details.dc-tld`). Tabella «Come cambia crescendo» o «Settimana per settimana» in tutti e due i calcolatori (`rows()`).
 - Le date non ridisegnano il proprio campo (aggiornamento a pezzi, `part()`): sull'iPhone il calendario restava chiuso al primo tocco.

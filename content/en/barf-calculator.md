@@ -64,7 +64,7 @@ custom_content: |
   </details>
 
   <div id="barf"><noscript>The calculator needs JavaScript. Without it, you can do the sums by hand with the formulas below.</noscript></div>
-  <script src="/js/calcolatore-cane.js?v=20261025-2100" defer></script><script src="/js/calcolatore-barf.js?v=20261025-2100" defer></script>
+  <script src="/js/calcolatore-cane.js?v=20261025-2110" defer></script><script src="/js/calcolatore-barf.js?v=20261025-2110" defer></script>
 
   <div class="bf-info bf-dopo">
   <!--BLOCCO:2-->

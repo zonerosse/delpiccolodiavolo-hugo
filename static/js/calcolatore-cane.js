@@ -16,7 +16,7 @@ it:{b:["Il cane","Peso","Com'è, visto dall'alto","Movimento"],bcsS:"corregge de
  sizes:[[8,"Piccola · fino a 10 kg"],[18,"Media · 10–25 kg"],[34,"Grande · 25–45 kg"],[55,"Gigante · oltre 45 kg"]],
  bcs:[["Magro","costole, spina e ossa del bacino si vedono; vita molto stretta"],["Peso giusto","costole che si sentono con la mano piatta senza premere; da sopra si vede la vita"],["Sovrappeso","costole che non si sentono; niente vita, fianchi dritti o tondi"]],
  acts:[["Tranquillo","poche passeggiate"],["Normale","passeggiate ogni giorno"],["Molto attivo","corre e gioca tanto"],["Lavoro o sport","agility, caccia, utilità"]],
- mom:"Momento",rep:["Nessuno","Accoppiata","Allatta"],dM:"Data della monta (la prima)",dP:"Data del parto",np:"Cuccioli che allatta",fut:"La data è nel futuro: controlla.",
+ mom:"Gravidanza o allattamento",rep:["Nessuno","Gravida","In allattamento"],dM:"Data della monta (la prima)",dP:"Data del parto",np:"Cuccioli che allatta",fut:"La data è nel futuro: controlla.",
  mEta:"l'età",mPeso:"il peso",mPesoP:"il peso previsto da adulto",mMonta:"la data della monta",mParto:"la data del parto",
  h:"½",mo:" mesi",y1:" anno",yN:" anni",y15:"1 anno e mezzo",wk:" settimane",
  adult:"Adulto",senior:"Anziano (8+ anni)",pupL:"Cucciolo",
@@ -34,7 +34,7 @@ en:{b:["The dog","Weight","What it looks like from above","Activity"],bcsS:"adju
  sizes:[[8,"Small · up to 10 kg"],[18,"Medium · 10–25 kg"],[34,"Large · 25–45 kg"],[55,"Giant · over 45 kg"]],
  bcs:[["Thin","ribs, spine and hip bones show; very narrow waist"],["Right weight","ribs felt with a flat hand without pressing; a waist seen from above"],["Overweight","ribs cannot be felt; no waist, straight or round sides"]],
  acts:[["Calm","few walks"],["Normal","walks every day"],["Very active","runs and plays a lot"],["Working or sport","agility, hunting, working"]],
- mom:"Stage",rep:["None","Mated","Nursing"],dM:"Date of mating (the first)",dP:"Date of whelping",np:"Puppies she is nursing",fut:"The date is in the future: please check.",
+ mom:"Pregnancy or nursing",rep:["None","Pregnant","Nursing"],dM:"Date of mating (the first)",dP:"Date of whelping",np:"Puppies she is nursing",fut:"The date is in the future: please check.",
  mEta:"the age",mPeso:"the weight",mPesoP:"the expected adult weight",mMonta:"the date of mating",mParto:"the date of whelping",
  h:"½",mo:" months",y1:" year",yN:" years",y15:"1½ years",wk:" weeks",
  adult:"Adult",senior:"Senior (8+ years)",pupL:"Puppy",
@@ -52,7 +52,7 @@ de:{b:["Der Hund","Gewicht","Wie er von oben aussieht","Bewegung"],bcsS:"passt u
  sizes:[[8,"Klein · bis 10 kg"],[18,"Mittel · 10–25 kg"],[34,"Groß · 25–45 kg"],[55,"Riesig · über 45 kg"]],
  bcs:[["Dünn","Rippen, Wirbelsäule und Beckenknochen sichtbar; sehr schmale Taille"],["Richtiges Gewicht","Rippen mit flacher Hand ohne Druck fühlbar; von oben eine Taille"],["Übergewicht","Rippen nicht fühlbar; keine Taille, gerade oder runde Flanken"]],
  acts:[["Ruhig","wenig Spaziergänge"],["Normal","jeden Tag Spaziergänge"],["Sehr aktiv","rennt und spielt viel"],["Arbeit oder Sport","Agility, Jagd, Gebrauchshund"]],
- mom:"Phase",rep:["Keine","Gedeckt","Säugend"],dM:"Datum des Deckakts (des ersten)",dP:"Datum der Geburt",np:"Welpen, die sie säugt",fut:"Das Datum liegt in der Zukunft: bitte prüfen.",
+ mom:"Trächtigkeit oder Säugezeit",rep:["Nein","Trächtig","Säugend"],dM:"Datum des Deckakts (des ersten)",dP:"Datum der Geburt",np:"Welpen, die sie säugt",fut:"Das Datum liegt in der Zukunft: bitte prüfen.",
  mEta:"das Alter",mPeso:"das Gewicht",mPesoP:"das erwartete Erwachsenengewicht",mMonta:"das Datum des Deckakts",mParto:"das Datum der Geburt",
  h:"½",mo:" Monate",y1:" Jahr",yN:" Jahre",y15:"1½ Jahre",wk:" Wochen",
  adult:"Erwachsen",senior:"Senior (ab 8 Jahren)",pupL:"Welpe",
@@ -89,7 +89,7 @@ function make(root,O){O=O||{};
  function dt(x){return x.toLocaleDateString(L==="en"?"en-GB":L==="de"?"de-DE":"it-IT",{day:"numeric",month:"short"})}
  function ageM(){if(S.mode!=="date")return num(S.age)||null;var d=days(S.birth);return d==null||d<0?null:d/30.44}
  function ageTxt(m){if(m>=96&&S.mode!=="date")return T.old;if(m<4)return Math.round(m*4.345)+T.wk;if(m<24)return dec(Math.round(m*2)/2)+T.mo;var y=Math.floor(m/12);return y+(y===1?T.y1:T.yN)}
- function canRep(m){return S.sex==="f"&&!+S.ster&&m!=null&&m>=12}
+ function canRep(m){return S.sex==="f"&&!+S.ster&&(m==null||m>=12)}
  function rep(m){return canRep(m)?S.rep:"no"}
  function szKg(z){return S.sex==="f"?Math.round(z*.9*2)/2:z}
  function mLab(v){return(v%1?Math.floor(v)+T.h:v)+T.mo}
