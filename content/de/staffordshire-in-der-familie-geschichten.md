@@ -45,6 +45,7 @@ custom_content: |
 
   <!--BLOCCO:2-->
   <h2>Cattleya, die nach dem Ring im Sessel lebt</h2>
+  <figure class="n-foto1"><img src="/images/cattleya-campionessa-800w.webp" alt="Cattleya Del Piccolo Diavolo at Valconcaclan, eine von uns gezüchtete Staffordshire Bull Terrier Hündin" width="800" height="878" loading="lazy" decoding="async"></figure>
 
   <p><a href="https://sbtpedigree.com/dog_details?dogs_id=4477342" target="_blank" rel="noopener" aria-label="Ahnentafel von Cattleya auf SBTPedigree (wird in einem neuen Tab geöffnet)">Cattleya</a> lebt in San Clemente, in der Provinz Rimini, bei Ricarda Mazzola Wagner. Sie wurde auch im Ausland ausgestellt, und auf einer Rasseausstellung in Deutschland bekam sie das Lob von <strong>Debbie Desmond</strong> vom Zwinger Elitebull, die sie als die am besten gebaute Hündin der ganzen Veranstaltung bezeichnete. Sie hat zwei Würfe hinter sich, mit wirklich typischen Welpen.</p>
 

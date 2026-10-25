@@ -457,6 +457,7 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
 - Foto solo dei cani e cuccioli dell'allevamento, legate a quello che dice la sezione. Fonti: quelle già in `static/images` e quelle
   recuperate dalla cronologia git (archivio tolto dal sito), convertite in `static/images/foto/<nome-descrittivo>.webp` (max 900 px).
 - Foto messe il 24/10/2026 in quasi tutte le pagine (anteprime 36, 39, 40). Nell'archivio, `img-…` con il cane marrone su asfalto al sole con stivali viola è Tikus (Paolo): mai usarla.
+- Foto di Cattleya (`cattleya-campionessa*.webp`): l'handler con la giacca marrone non è Cristina (Paolo, 25/10/2026), si possono usare.
 - **Mai foto di Tikus, mai foto con Cristina (ex handler)**: nel dubbio niente foto di esposizione con handler, meglio solo il cane.
 - Righe con un link da solo: niente più. Al loro posto riquadri `.n-schede` / `.n-scheda` (etichetta oro, titolo, una riga, bottone)
   in fondo alla sezione; `.n-uno` per un riquadro solo (regole in `notte.css` e `main.css`).

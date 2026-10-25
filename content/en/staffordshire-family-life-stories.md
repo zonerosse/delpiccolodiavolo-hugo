@@ -45,6 +45,7 @@ custom_content: |
 
   <!--BLOCCO:2-->
   <h2>Cattleya, who retired to the armchair after the ring</h2>
+  <figure class="n-foto1"><img src="/images/cattleya-campionessa-800w.webp" alt="Cattleya Del Piccolo Diavolo at Valconcaclan, a Staffordshire Bull Terrier female bred by us" width="800" height="878" loading="lazy" decoding="async"></figure>
 
   <p><a href="https://sbtpedigree.com/dog_details?dogs_id=4477342" target="_blank" rel="noopener" aria-label="Cattleya's pedigree on SBTPedigree (opens in a new tab)">Cattleya</a> lives in San Clemente, in the province of Rimini, with Ricarda Mazzola Wagner. She was shown abroad as well, and at a breed show in Germany she earned the praise of <strong>Debbie Desmond</strong> of Elitebull kennels, who called her the best constructed bitch of the whole event. She has two litters behind her, with truly typical puppies.</p>
 
