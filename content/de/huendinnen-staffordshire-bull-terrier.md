@@ -210,7 +210,7 @@ custom_content: |
   </div>
   <div class="female-content">
   <div class="female-image">
-  <img src="/images/femmina-cattleya.webp" alt="Cattleya Del Piccolo Diavolo at Valconcaclan" width="350" height="467" loading="lazy" decoding="async">
+  <img src="/images/cattleya-campionessa-800w.webp" alt="Cattleya Del Piccolo Diavolo at Valconcaclan" width="800" height="878" loading="lazy" decoding="async">
   </div>
   <div class="female-info">
   <p><strong>Mikrochip:</strong> 380260044549631<br>
