@@ -1,7 +1,7 @@
 ---
 title: "BARF-Rechner: wie viel rohes Fleisch, Knochen und Innereien für den Hund"
 date: 2026-10-23
-lastmod: 2026-10-24
+lastmod: 2026-10-25
 titleSeo: "BARF-Rechner: Tagesmengen für den Hund"
 translationKey: "calcolatore-barf"
 tags:
@@ -64,7 +64,7 @@ custom_content: |
   </details>
 
   <div id="barf"><noscript>Der Rechner braucht JavaScript. Ohne lässt sich die Rechnung mit den Formeln unten von Hand machen.</noscript></div>
-  <script src="/js/calcolatore-cane.js?v=20261024-1830" defer></script><script src="/js/calcolatore-barf.js?v=20261024-1830" defer></script>
+  <script src="/js/calcolatore-cane.js?v=20261025-2100" defer></script><script src="/js/calcolatore-barf.js?v=20261025-2100" defer></script>
 
   <div class="bf-info bf-dopo">
   <!--BLOCCO:2-->
@@ -94,6 +94,7 @@ custom_content: |
   <li><strong>Welpe</strong> = 130 × Gewicht<sup>0,75</sup> × 3,2 × (e<sup>−0,87 × p</sup> − 0,1), mit p = heutiges Gewicht ÷ erwartetes Erwachsenengewicht. Das ist die Gleichung des NRC (2006), die auch die FEDIAF-Leitlinien verwenden, Ausgabe Juli 2024. <em>Warum</em>: der Welpe braucht Energie zum Wachsen, und je näher er dem Erwachsenengewicht kommt, desto weniger braucht er zusätzlich; deshalb zählt das Verhältnis der beiden Gewichte und nicht nur das Alter. Die Bewegung geht nicht in die Rechnung ein, weil die Gleichung sie schon enthält. Ohne das heutige Gewicht schätzt der Rechner es aus dem Alter; das Wachstum endet bei kleinen Rassen um 10 Monate, bei mittleren um 12, bei großen um 15 und bei Riesenrassen um 20 Monate. Eine Studie von 2019 an Welpen aus Familien (Klein und Kollegen, Universität München) hat gezeigt, dass diese Gleichung unter sechs Monaten etwa 20 % mehr als nötig ergeben kann: den Welpen jede Woche wiegen und die Ration anpassen.</li>
   <li><strong>Trächtigkeit</strong>, ab dem Datum des ersten Deckakts: bis Tag 34 bleibt die Ration wie vorher; ab Tag 35 = 132 × Gewicht<sup>0,75</sup> + 26 × Gewicht (NRC 2006). <em>Warum</em>: die Welpen wachsen vor allem in den letzten vier Wochen, und eine Hündin, die früher zunimmt, hat eine schwerere Geburt. Die Etappen, die der Rechner mit Datum zeigt: Ultraschall zwischen Tag 25 und 30, Röntgen um Tag 55, Wurfkiste bereit zwischen Tag 56 und 58, Geburt erwartet am Tag 63 (meist zwischen Tag 58 und 68).</li>
   <li><strong>Säugezeit</strong>, ab dem Datum der Geburt = 145 × Gewicht<sup>0,75</sup> + Gewicht × (24 × n + 12 × m) × L, mit n = Welpen bis 4 und m = Welpen vom fünften bis zum achten; L = 0,75, 0,95, 1,1 und 1,2 in der ersten bis vierten Woche (NRC 2006). Von der fünften bis zur achten Woche L = 0,9, 0,65, 0,4 und 0,2; ab der neunten Woche gilt wieder die Ration für Erwachsene. <em>Warum</em>: Milch kostet viele Kalorien und hängt davon ab, wie viele Welpen es gibt und wie viel sie trinken. Der Höhepunkt liegt zwischen der dritten und vierten Woche; danach fressen die Welpen Brei und die Mutter bildet weniger Milch. Für die Wochen nach der vierten geben die Leitlinien keine Formel: die Abnahme bis zur Entwöhnung ist unsere Schätzung.</li>
+  <li><strong>Warum die Zahlen in der Säugezeit so hoch sind</strong>: In keiner anderen Lebensphase braucht die Hündin so viel Energie, 2- bis 4-mal so viel wie eine erwachsene Hündin in Ruhe. Täglich bildet sie Milch in Höhe von etwa 2,7 % ihres Gewichts in der ersten Woche und über 8 % auf dem Höhepunkt, in der 3. und 4. Woche. Hündinnenmilch hat mehr als doppelt so viel Eiweiß und Fett wie Kuhmilch, und ein Welpe verdoppelt sein Gewicht in etwa 9 Tagen. Ist das Futter zu wenig energiereich, nimmt die Hündin ab und bildet weniger Milch: deshalb steht das Futter ab der zweiten Woche zur Verfügung, außer bei nur einem Welpen oder einer Hündin, die leicht zunimmt. Der Rechner empfiehlt etwa 50 g Fett pro 1000 kcal und schlägt auf Wunsch gekochten Reis oder Kartoffeln vor: in Trächtigkeit und Säugezeit empfehlen die Leitlinien mindestens 23 % verdauliche Kohlenhydrate in der Trockensubstanz, und beim BARF sind es fast null.</li>
   <li><strong>Gramm am Tag</strong> = Kalorien ÷ durchschnittliche Kalorien des Napfs, also die kcal jeder Zutat mal ihrem Anteil. <em>Warum</em>: der Hund frisst, um seine Kalorien zu decken; lässt man eine kalorienarme Zutat wie Gemüse oder Pansen weg, sinken deshalb die Gramm insgesamt: die Kalorien bleiben gleich, aber das Fleisch, das an ihre Stelle tritt, hat mehr davon.</li>
   <li><strong>Nährstoffe</strong>: die Summe aller Zutaten, pro 1000 kcal, verglichen mit den Mindest- und Höchstwerten der FEDIAF 2024 für das Alter; in der Trächtigkeit ab Tag 35 und in der Säugezeit gelten die Werte für das Wachstum bis 14 Wochen und die Fortpflanzung. <em>Warum</em>: ein Napf kann die Kalorien decken und trotzdem zu wenig Kalzium, Jod oder Vitamine haben.</li>
   </ul>

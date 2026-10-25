@@ -1,7 +1,7 @@
 ---
 title: "Calcolatore BARF: quanta carne cruda, ossa e frattaglie dare al cane"
 date: 2026-10-23
-lastmod: 2026-10-24
+lastmod: 2026-10-25
 titleSeo: "Calcolatore BARF: dosi giornaliere per il cane"
 translationKey: "calcolatore-barf"
 tags:
@@ -64,7 +64,7 @@ custom_content: |
   </details>
 
   <div id="barf"><noscript>Il calcolatore ha bisogno di JavaScript. Senza, si può fare il conto a mano con le formule qui sotto.</noscript></div>
-  <script src="/js/calcolatore-cane.js?v=20261024-1830" defer></script><script src="/js/calcolatore-barf.js?v=20261024-1830" defer></script>
+  <script src="/js/calcolatore-cane.js?v=20261025-2100" defer></script><script src="/js/calcolatore-barf.js?v=20261025-2100" defer></script>
 
   <div class="bf-info bf-dopo">
   <!--BLOCCO:2-->
@@ -94,6 +94,7 @@ custom_content: |
   <li><strong>Cucciolo</strong> = 130 × peso<sup>0,75</sup> × 3,2 × (e<sup>−0,87 × p</sup> − 0,1), con p = peso di oggi ÷ peso previsto da adulto. È l'equazione dell'NRC (2006) che usano anche le linee guida FEDIAF, edizione di luglio 2024. <em>Perché</em>: il cucciolo spende per crescere, e più si avvicina al peso da adulto meno gli serve in più; per questo conta il rapporto fra i due pesi e non solo l'età. Il movimento non entra nel conto, perché l'equazione lo comprende già. Senza il peso di oggi il calcolatore lo stima dall'età; la crescita finisce verso i 10 mesi nelle taglie piccole, i 12 nelle medie, i 15 nelle grandi e i 20 nelle giganti. Uno studio del 2019 su cuccioli di famiglia (Klein e colleghi, Università di Monaco) ha visto che sotto i sei mesi questa equazione può dare circa il 20% in più del necessario: pesa il cucciolo ogni settimana e regola la razione.</li>
   <li><strong>Gravidanza</strong>, dalla data della prima monta: fino al giorno 34 la razione resta quella di prima; dal giorno 35 = 132 × peso<sup>0,75</sup> + 26 × peso (NRC 2006). <em>Perché</em>: i cuccioli crescono soprattutto nelle ultime quattro settimane, e una cagna che ingrassa prima ha un parto più difficile. Le tappe che il calcolatore mostra con le date: ecografia fra il 25° e il 30° giorno, radiografia verso il 55°, cassa parto pronta fra il 56° e il 58°, parto atteso il 63° (di solito fra il 58° e il 68°).</li>
   <li><strong>Allattamento</strong>, dalla data del parto = 145 × peso<sup>0,75</sup> + peso × (24 × n + 12 × m) × L, con n = cuccioli fino a 4 e m = cuccioli dal quinto all'ottavo; L = 0,75, 0,95, 1,1 e 1,2 nelle settimane dalla prima alla quarta (NRC 2006). Dalla quinta all'ottava settimana L = 0,9, 0,65, 0,4 e 0,2; dalla nona torna la razione da adulta. <em>Perché</em>: il latte costa molte calorie e dipende da quanti cuccioli ci sono e da quanto bevono. Il picco è fra la terza e la quarta settimana; poi i cuccioli mangiano la pappa e la madre produce meno latte. Per le settimane dopo la quarta le linee guida non danno una formula: la discesa fino allo svezzamento è una nostra stima.</li>
+  <li><strong>Perché in allattamento i numeri sono così alti</strong>: è il momento della vita in cui la cagna consuma di più, da 2 a 4 volte un'adulta a riposo. Produce ogni giorno latte pari a circa il 2,7% del suo peso nella prima settimana e a oltre l'8% al picco, nella 3ª e 4ª settimana. Il latte di cagna ha più del doppio di proteine e grassi di quello di mucca, e il cucciolo raddoppia il peso in circa 9 giorni. Se il cibo è poco energetico la cagna dimagrisce e fa meno latte: per questo, dalla seconda settimana, il cibo resta a disposizione, tranne con un solo cucciolo o se la cagna tende a ingrassare. Il calcolatore consiglia grassi intorno a 50 g ogni 1000 kcal e propone, a scelta, riso o patate cotti: in gravidanza e allattamento le linee guida consigliano almeno il 23% di carboidrati digeribili sulla sostanza secca, e nel BARF sono quasi zero.</li>
   <li><strong>Grammi al giorno</strong> = calorie ÷ calorie medie della ciotola, cioè la somma delle kcal di ogni alimento per la sua quota. <em>Perché</em>: il cane mangia per coprire le calorie; per questo, togliendo un alimento povero di calorie come le verdure o la trippa, i grammi totali scendono: le calorie restano le stesse, ma la carne che prende il loro posto ne ha di più.</li>
   <li><strong>Nutrienti</strong>: la somma di ogni alimento, ogni 1000 kcal, confrontata con i minimi e i massimi FEDIAF 2024 dell'età; in gravidanza dal giorno 35 e in allattamento si usano i valori della crescita fino a 14 settimane e della riproduzione. <em>Perché</em>: una ciotola può coprire le calorie e restare corta di calcio, iodio o vitamine.</li>
   </ul>

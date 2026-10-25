@@ -1,7 +1,7 @@
 ---
 title: "BARF calculator: how much raw meat, bone and offal to feed a dog"
 date: 2026-10-23
-lastmod: 2026-10-24
+lastmod: 2026-10-25
 titleSeo: "BARF calculator: daily raw feeding amounts for dogs"
 translationKey: "calcolatore-barf"
 tags:
@@ -64,7 +64,7 @@ custom_content: |
   </details>
 
   <div id="barf"><noscript>The calculator needs JavaScript. Without it, you can do the sums by hand with the formulas below.</noscript></div>
-  <script src="/js/calcolatore-cane.js?v=20261024-1830" defer></script><script src="/js/calcolatore-barf.js?v=20261024-1830" defer></script>
+  <script src="/js/calcolatore-cane.js?v=20261025-2100" defer></script><script src="/js/calcolatore-barf.js?v=20261025-2100" defer></script>
 
   <div class="bf-info bf-dopo">
   <!--BLOCCO:2-->
@@ -94,6 +94,7 @@ custom_content: |
   <li><strong>Puppy</strong> = 130 × weight<sup>0.75</sup> × 3.2 × (e<sup>−0.87 × p</sup> − 0.1), with p = today's weight ÷ expected adult weight. It is the NRC (2006) equation, also used by the FEDIAF guidelines, July 2024 edition. <em>Why</em>: a puppy spends energy on growing, and the closer it gets to its adult weight the less extra it needs; that is why the ratio between the two weights counts, not only the age. Activity is not part of the sum, because the equation already includes it. Without today's weight the calculator estimates it from the age; growth ends at about 10 months in small breeds, 12 in medium, 15 in large and 20 in giant breeds. A 2019 study of family puppies (Klein and colleagues, University of Munich) found that under six months this equation can give about 20% more than needed: weigh the puppy every week and adjust the ration.</li>
   <li><strong>Pregnancy</strong>, from the date of the first mating: up to day 34 the ration stays as before; from day 35 = 132 × weight<sup>0.75</sup> + 26 × weight (NRC 2006). <em>Why</em>: the puppies grow mostly in the last four weeks, and a bitch that puts on weight earlier has a harder whelping. The milestones the calculator shows with their dates: ultrasound between day 25 and 30, X-ray around day 55, whelping box ready between day 56 and 58, whelping expected on day 63 (usually between day 58 and 68).</li>
   <li><strong>Nursing</strong>, from the date of whelping = 145 × weight<sup>0.75</sup> + weight × (24 × n + 12 × m) × L, with n = puppies up to 4 and m = puppies from the fifth to the eighth; L = 0.75, 0.95, 1.1 and 1.2 in weeks one to four (NRC 2006). From week five to eight L = 0.9, 0.65, 0.4 and 0.2; from week nine the adult ration returns. <em>Why</em>: milk costs a lot of calories and depends on how many puppies there are and how much they drink. The peak is between the third and the fourth week; then the puppies eat solid food and the mother makes less milk. For the weeks after the fourth the guidelines give no formula: the decrease until weaning is our own estimate.</li>
+  <li><strong>Why the figures are so high while nursing</strong>: this is when a bitch needs the most energy in her life, 2 to 4 times a resting adult. Every day she produces milk equal to about 2.7% of her weight in the first week and over 8% at the peak, in weeks 3 and 4. Bitch's milk has more than twice the protein and fat of cow's milk, and a puppy doubles its weight in about 9 days. If the food is not energy-dense enough she loses weight and makes less milk: that is why, from the second week, food is left available, except with a single puppy or a bitch that tends to put on weight. The calculator advises fat around 50 g per 1000 kcal and offers, if you wish, cooked rice or potatoes: in pregnancy and nursing the guidelines advise at least 23% digestible carbohydrates on dry matter, and in BARF they are almost zero.</li>
   <li><strong>Grams a day</strong> = calories ÷ average calories of the bowl, that is the kcal of each food times its share. <em>Why</em>: a dog eats to cover its calories; so when a low-calorie food such as vegetables or tripe is left out, the total grams go down: the calories stay the same, but the meat taking its place has more of them.</li>
   <li><strong>Nutrients</strong>: the sum of each food, per 1000 kcal, compared with the FEDIAF 2024 minimums and maximums for the age; in pregnancy from day 35 and in nursing the values for growth up to 14 weeks and reproduction are used. <em>Why</em>: a bowl can cover the calories and still be short of calcium, iodine or vitamins.</li>
   </ul>

@@ -176,6 +176,26 @@ function build(){
  draw()}
 var CANE=null;
 function $(id){return document.getElementById(id)}
+/* Gravidanza avanzata e allattamento (25/10/2026, Paolo, anteprima-42): cibo a disposizione, crocchette abbastanza energetiche,
+   grassi consigliati in allattamento, promemoria omega-3 (EPA+DHA almeno 0,13 g ogni 1000 kcal, FEDIAF; olio di salmone 31% EPA+DHA) */
+var RX={it:{h:"Gravidanza e allattamento",lib:"Dalla 2ª settimana lascia le crocchette sempre a disposizione: i grammi sono il minimo, non il massimo. Fa eccezione la cagna con un solo cucciolo o che tende a ingrassare: lì restano i grammi.",
+  den:"Troppo poco energetiche per questo momento: servono almeno 400 kcal ogni 100 g. Meglio crocchette da cucciolo o per la riproduzione.",
+  fat:function(x){return "Grassi in allattamento: consigliato circa il 20% della sostanza secca, fa salire i grassi nel latte."+(x!=null?" Queste crocchette ne hanno il "+x+"%.":"")},
+  o3:function(g){return "Omega-3: se il sacco non indica EPA e DHA, aggiungi circa "+g+" g di olio di salmone al giorno. Servono alla retina e al cervello dei cuccioli."}},
+ en:{h:"Pregnancy and nursing",lib:"From week 2 leave the kibble available at all times: the grams are the minimum, not the maximum. The exception is a bitch with a single puppy or one that tends to put on weight: then stick to the grams.",
+  den:"Not energy-dense enough for this stage: at least 400 kcal per 100 g are needed. Puppy or reproduction kibble is better.",
+  fat:function(x){return "Fat while nursing: about 20% of dry matter is advised, it raises the fat in the milk."+(x!=null?" This kibble has "+x+"%.":"")},
+  o3:function(g){return "Omega-3: if the bag does not state EPA and DHA, add about "+g+" g of salmon oil a day. They matter for the puppies' retina and brain."}},
+ de:{h:"Trächtigkeit und Säugezeit",lib:"Ab der 2. Woche das Trockenfutter immer zur Verfügung stellen: die Gramm sind das Minimum, nicht das Maximum. Ausnahme ist eine Hündin mit nur einem Welpen oder eine, die leicht zunimmt: dann bei den Gramm bleiben.",
+  den:"Für diese Phase zu wenig energiereich: nötig sind mindestens 400 kcal pro 100 g. Besser Welpen- oder Zuchtfutter.",
+  fat:function(x){return "Fett in der Säugezeit: empfohlen sind etwa 20 % der Trockensubstanz, das erhöht das Fett in der Milch."+(x!=null?" Dieses Futter hat "+x+" %.":"")},
+  o3:function(g){return "Omega-3: steht EPA und DHA nicht auf der Packung, etwa "+g+" g Lachsöl am Tag zugeben. Sie sind wichtig für Netzhaut und Gehirn der Welpen."}}}[L]||{};
+function riproHtml(f,N){var r=N.rep;if(r!=="gr"&&r!=="lat")return"";var o=[],d=function(x){return L==="en"?String(x):String(x).replace(".",",")};
+ if(r==="lat")o.push('<span>'+RX.lib+'</span>');
+ if(f.kcal<400)o.push('<span class="pp-low">'+RX.den+'</span>');
+ if(r==="lat"){var fp=f.c&&f.c[1]!=null?f.c[1]/(1-((f.c[4]!=null?f.c[4]:10)/100))*1:null;o.push('<span'+(fp!=null&&fp<18?' class="pp-low"':'')+'>'+RX.fat(fp!=null?d(Math.round(fp*10)/10):null)+'</span>')}
+ o.push('<span>'+RX.o3(d(Math.max(.5,Math.round(.13*1.05*N.kc/1000/.3125*10)/10)))+'</span>');
+ return '<div class="pp-nut pp-ripro"><b>'+RX.h+'</b>'+o.join("")+'</div>'}
 function draw(){var N=CANE.need(),f=food(S.food),CT=CANE.T,sg=N.miss.length?2:N.sug,ml=+S.meals||sg;
  $("pp-src").textContent=f?(TX.src[f.src]||""):"";var cm=$("pp-cmp");cm.hidden=!f;cm.innerHTML=f?cmpHtml(f.c,f.kcal):"";
  $("pp-meals").innerHTML=[1,2,3,4,5].map(function(n){return '<button type="button" class="pp-c'+(n===ml?' on':'')+'" data-k="meals" data-v="'+n+'">'+n+'</button>'}).join("");
@@ -187,7 +207,7 @@ function draw(){var N=CANE.need(),f=food(S.food),CT=CANE.T,sg=N.miss.length?2:N.
  $("pp-rv").innerHTML='<div class="pp-big">'+G5+' g<small>'+TX.perday.replace(/^ g/,"")+'</small></div><div class="pp-ps">'+ml+(ml===1?TX.meal1:TX.mealN)+TX.about+Math.round(g/ml)+' g</div>'+
   '<div class="pp-riep"><span>'+esc(N.lab)+'</span><span>'+dec(N.W.toFixed(1))+' kg'+(N.est?NX.est:'')+'</span>'+(rf?'':'<span>'+TX.bcs[N.bcs+1][0]+'</span><span>'+(ai>=0?NX.acts[ai][0]:"")+'</span>')+'<span>'+esc(f.brand+" "+f.name)+'</span></div>'+
   '<p class="pp-vuoto">'+TX.kc+Math.round(N.kc/10)*10+' kcal · '+N.note+'</p>';
- etApply(f);etCheck(f,draw);$("pp-pr").innerHTML=protHtml(f,g,N);bar.innerHTML='<div><b>'+G5+' g</b>'+TX.perday.replace(/^ g/,"")+'</div><span>'+ml+(ml===1?TX.meal1:TX.mealN)+TX.about+Math.round(g/ml)+' g</span>';
+ etApply(f);etCheck(f,draw);$("pp-pr").innerHTML=protHtml(f,g,N)+riproHtml(f,N);bar.innerHTML='<div><b>'+G5+' g</b>'+TX.perday.replace(/^ g/,"")+'</div><span>'+ml+(ml===1?TX.meal1:TX.mealN)+TX.about+Math.round(g/ml)+' g</span>';
  var RR=CANE.rows();$("pp-tbw").hidden=!RR;if(!RR)return;var wk=RR.h==="w";
  $("pp-tbh").textContent=wk?NX.growW:NX.grow;
  $("pp-th").innerHTML='<tr><th>'+(wk?CT.wkT:TX.th[0])+'</th><th>'+(wk?NX.from:TX.th[1])+'</th><th class="n">'+TX.th[2]+'</th><th class="n">'+TX.th[3]+'</th></tr>';
