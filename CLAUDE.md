@@ -460,3 +460,10 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
 - **Mai foto di Tikus, mai foto con Cristina (ex handler)**: nel dubbio niente foto di esposizione con handler, meglio solo il cane.
 - Righe con un link da solo: niente più. Al loro posto riquadri `.n-schede` / `.n-scheda` (etichetta oro, titolo, una riga, bottone)
   in fondo alla sezione; `.n-uno` per un riquadro solo (regole in `notte.css` e `main.css`).
+
+## Foto mai ingrandite (25/10/2026, Paolo: anteprima-41 approvata)
+- Molte foto dei cani esistono solo piccole (225–450 px): Paolo non ne ha di più grandi. Regola: nessuna foto viene mostrata più larga
+  della sua misura vera, e nelle schede dei cani si vede intera. Regole in fondo a `main.css` e `notte.css` («Foto mai ingrandite»):
+  `figure.n-foto1`, `.female-image`, `.male-image`, `.image-center`, `.article-image`, `.story-block`, `.dog` con `width:auto;max-width:100%`
+  e `object-fit:contain`; galleria `.gallery-item` intera su fondo scuro. I cani della Home (`.n-cane`) restano come prima (scelta di Paolo).
+- Controllo: build in `/tmp`, poi misurare con Playwright larghezza mostrata contro `naturalWidth` di ogni `<img>` (PC 1280 e telefono 390).
