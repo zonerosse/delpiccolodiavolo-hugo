@@ -1,0 +1,20 @@
+{{- /* Una regola CSS: {css, sempre, sel: [{g: gettoni da trovare nella pagina} per ogni selettore]} */ -}}
+{{- $r := .r -}}{{- $G := .G -}}
+{{- $sel := index (split $r "{") 0 -}}
+{{- $lista := slice -}}{{- $sempre := false -}}
+{{- if findRE `:(is|where|has)\(` $sel 1 -}}
+  {{- $sempre = true -}}
+{{- else -}}
+  {{- $s := replaceRE `:not\([^()]*\)` "" $sel | replaceRE `\[[^\]]*\]` "" | replaceRE `\([^()]*\)` "()" -}}
+  {{- range split $s "," -}}
+    {{- $serve := slice -}}
+    {{- range findRE `[.#][A-Za-z_][\w-]*` . -}}
+      {{- $g := substr . 1 -}}
+      {{- if or (hasPrefix $g "pp-") (hasPrefix $g "bf-") (hasPrefix $g "dc-") }}{{ $serve = $serve | append "CALCOLATORE" }}
+      {{- else if not (isset $G $g) }}{{ $serve = $serve | append $g }}{{ end -}}
+    {{- end -}}
+    {{- if not $serve }}{{ $sempre = true }}{{ end -}}
+    {{- $lista = $lista | append (dict "g" ($serve | uniq)) -}}
+  {{- end -}}
+{{- end -}}
+{{- return (dict "css" $r "sempre" $sempre "sel" $lista) -}}

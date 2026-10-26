@@ -1,0 +1,11 @@
+{{- /* La regola serve alla pagina? Sì se è «sempre» o se un selettore ha tutti i suoi gettoni nella pagina. */ -}}
+{{- $r := .r -}}{{- $P := .P -}}
+{{- $ok := $r.sempre -}}
+{{- if not $ok -}}
+  {{- range $r.sel -}}
+    {{- $tutti := true -}}
+    {{- range .g }}{{ if not (isset $P .) }}{{ $tutti = false }}{{ break }}{{ end }}{{ end -}}
+    {{- if $tutti }}{{ $ok = true }}{{ break }}{{ end -}}
+  {{- end -}}
+{{- end -}}
+{{- return $ok -}}

@@ -1,0 +1,12 @@
+{{- /* Testo dei file di una cartella del progetto, sottocartelle comprese (usato da css/gettoni-sito.html).
+     Dai layout si leggono solo i .html, senza i partial che compaiono solo con un segnaposto (css/facoltativi.html):
+     quelli si aggiungono alle sole pagine che hanno il segnaposto (css/gettoni-pagina.html). */ -}}
+{{- $t := "" -}}
+{{- $salta := slice -}}{{- range partial "css/facoltativi.html" }}{{ $salta = $salta | append . }}{{ end -}}
+{{- range os.ReadDir . -}}
+  {{- $p := path.Join $ .Name -}}
+  {{- if .IsDir }}{{ $t = printf "%s %s" $t (partial "css/leggi-cartella.html" $p) }}
+  {{- else if and (hasPrefix $p "layouts") (or (not (strings.HasSuffix $p ".html")) (in $salta $p)) }}
+  {{- else }}{{ $t = printf "%s %s" $t (os.ReadFile $p) }}{{ end -}}
+{{- end -}}
+{{- return $t -}}

@@ -1,0 +1,12 @@
+{{- /* Parole della pagina: il suo testo (custom_content e corpo) e gli script /js/… che carica. Mappa {parola: 1}. */ -}}
+{{- $t := printf "%s %s" (string (.Params.custom_content | default "")) .RawContent -}}
+{{- range findRE `/js/[\w.-]+\.js` $t | uniq -}}
+  {{- with os.ReadFile (path.Join "static" .) }}{{ $t = printf "%s %s" $t . }}{{ end -}}
+{{- end -}}
+{{- range $segno, $file := partial "css/facoltativi.html" -}}
+  {{- if in $t $segno }}{{ $t = printf "%s %s" $t (os.ReadFile $file) }}{{ end -}}
+{{- end -}}
+{{- if in $t "<!--ULTIMA-CUCCIOLATA-->" }}{{ $t = printf "%s %s" $t (os.ReadFile "layouts/partials/ultima-cucciolata-doppia.html") }}{{ end -}}
+{{- if in $t "/js/calcolatore" }}{{ $t = printf "%s CALCOLATORE" $t }}{{ end -}}
+{{- $g := findRE `[A-Za-z_][\w-]*` $t | uniq -}}
+{{- return (transform.Unmarshal (printf `{"%s":1}` (delimit $g `":1,"`))) -}}

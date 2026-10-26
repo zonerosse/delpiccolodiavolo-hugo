@@ -11,4 +11,23 @@
 {{- if .IsHome }}{{ with resources.Get "css/home.css" }}{{ $parti = $parti | append . }}{{ end }}{{ $nome = "css/sito-home.css" }}{{ end -}}
 {{- if $notte }}{{ with resources.Get "css/notte.css" }}{{ $parti = $parti | append . }}{{ end }}{{ if not .IsHome }}{{ $nome = "css/sito-notte.css" }}{{ end }}{{ end -}}
 {{- $css := $parti | resources.Concat $nome | minify -}}
-<style>{{ $css.Content | safeCSS }}</style>
+{{- /* Stile leggero (Paolo, 26/10/2026, scelta B): ogni pagina riceve solo le regole che le servono. Una regola resta se,
+     per almeno un suo selettore, tutte le classi e gli id compaiono nei layout/dati del sito o nel testo della pagina
+     (vedi partials/css/). Se il CSS non si lascia dividere, la pagina riceve il foglio intero. */ -}}
+{{- $testo := $css.Content -}}
+{{- $R := partialCached "css/regole.html" $css $nome -}}
+{{- if $R.ok -}}
+  {{- $P := partial "css/gettoni-pagina.html" . -}}
+  {{- $out := slice -}}
+  {{- range $R.voci -}}
+    {{- if .media -}}
+      {{- $dentro := slice -}}
+      {{- range .regole }}{{ if partial "css/serve.html" (dict "r" . "P" $P) }}{{ $dentro = $dentro | append .css }}{{ end }}{{ end -}}
+      {{- if $dentro }}{{ $out = $out | append (printf "%s{%s}" .media (delimit $dentro "")) }}{{ end -}}
+    {{- else if partial "css/serve.html" (dict "r" . "P" $P) }}{{ $out = $out | append .css }}{{ end -}}
+  {{- end -}}
+  {{- $testo = delimit $out "" -}}
+{{- else -}}
+  {{- warnf "css.html: il CSS di %s non si lascia dividere in regole, la pagina riceve il foglio intero" $nome -}}
+{{- end -}}
+<style>{{ $testo | safeCSS }}</style>
