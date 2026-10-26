@@ -70,8 +70,7 @@ custom_content: |
   <!--BLOCCO:3-->
   <section class="section">
   <div class="section-inner">
-  <span class="section-label">Our puppies</span>
-  <h2 class="section-title">Born and raised here, in Ostellato</h2>
+  <h2 class="section-title"><span class="section-label">Our puppies</span>Born and raised here, in Ostellato</h2>
   <div class="n-foto3">
   <figure><img alt="Bilquis Goddess Diabhal with her newborn Staffordshire Bull Terrier puppies" decoding="async" height="480" loading="lazy" src="/images/cuccioli-bilquis-nati-1.webp" width="435"/><figcaption>
   <span class="n-quando">The first month</span>
@@ -94,7 +93,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">In plain terms</span>
-  <h2 class="section-title">What we do not do</h2>
+  <h2 class="section-title">What we do not do at our Staffy kennel</h2>
   <p>Sometimes a kennel is easier to understand from what it does not do.</p>
   <p>The Del Piccolo Diavolo kennel is in Ostellato, in the province of Ferrara, Italy. Here <a href="/en/puppies-staffordshire-bull-terrier/" title="Staffordshire Bull Terrier puppies">Staffordshire Bull Terrier puppies</a> are born only a few times, leave with the ENCI pedigree after the 60 days required by law, and are collected only from here, where you see <a href="/en/parents-on-site-what-it-means/" title='"Parents on site": what it really means'>the mother on site</a>. These are the four things we do not do.</p>
 
@@ -106,8 +105,7 @@ custom_content: |
   <!--BLOCCO:5-->
   <section class="section section-alt">
   <div class="section-inner">
-  <span class="section-label">How we work</span>
-  <h2 class="section-title">One litter a year, sometimes none</h2>
+  <h2 class="section-title"><span class="section-label">How we work</span>One litter a year, sometimes none</h2>
   <p>Del Piccolo Diavolo is a Staffordshire Bull Terrier kennel, the Staffy to its enthusiasts, in <strong>Ostellato, in the province of Ferrara, Italy</strong>, active since <strong>2013</strong>. Paolo Boldrini has followed the breed since 2005. He spent eight years studying it before breeding a litter.</p>
   <div class="n-percorso">
   <div class="n-passo"><h3>How many litters, which tests</h3><div><p>We have <strong>one litter a year, occasionally two, sometimes none</strong>, never on request. All breeding dogs are tested for <strong>L2-HGA and HC (HSF4 gene)</strong>, or clear by parentage with their parents' reports. Our dogs are also clear of <strong>degenerative myelopathy (SOD1 gene)</strong>. The reports are published on the site, with the dog's name and microchip number.</p></div></div>
@@ -123,7 +121,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Verifiable</span>
-  <h2 class="section-title">How to check what we write</h2>
+  <h2 class="section-title">Genetic tests, pedigree and microchip: how to check them</h2>
   <p>Every kennel writes that it selects for health. It is a sentence that costs nothing, and indeed everyone writes it. The difference lies in what can be checked without having to believe anyone.</p>
   <div class="n-2c" style="margin-top:2rem">
   <p>What a Staffordshire Bull Terrier kennel says can be checked in four ways, all from the outside and without asking the breeder anything. The <strong>genetic test reports</strong> only count if they show the dog's microchip. The <strong>pedigrees</strong> are on SBTPedigree, the breed's international archive, with grandparents, great-grandparents and littermates (<a href="/en/how-to-read-a-pedigree/" title="How to read a pedigree">how to read a pedigree</a> explains what to look for). The <strong>number of litters a bitch has had</strong> is checked in the ENCI studbook, again through the microchip. The <strong>show titles</strong> are in the public catalogues, with the judge's name. Del Piccolo Diavolo publishes all four, microchip numbers included.</p>
@@ -177,7 +175,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Show results</span>
-  <h2 class="section-title">What the judges say about the dogs we breed</h2>
+  <h2 class="section-title">What judges say about our Staffordshire Bull Terriers at shows</h2>
   <p style="max-width:760px">These are the results of our Staffies in Italian and international rings. We do not award them: the judges do, and they are written in the public catalogues.</p>
   <div class="n-cani">
   <div class="n-cane"><img alt="Bilquis Goddess Diabhal, Staffordshire Bull Terrier from the Del Piccolo Diavolo kennel" decoding="async" height="396" loading="lazy" src="/images/femmina-bilquis.webp" width="301"/><div>
@@ -215,7 +213,7 @@ custom_content: |
   <img alt="Bilquis Goddess Diabhal, Italian Champion, brood bitch of Del Piccolo Diavolo, Staffordshire Bull Terrier breeder" decoding="async" height="396" loading="lazy" src="/images/femmina-bilquis.webp" width="301"/>
   <div>
   <small>In the press · 6 January 2026</small>
-  <h2>“From Ferrara to conquer the world: Bilquis, the 3-year-old bitch collecting prizes”</h2>
+  <p class="n-press-t">“From Ferrara to conquer the world: Bilquis, the 3-year-old bitch collecting prizes”</p>
   <p><strong>FerraraToday</strong> (in Italian) · <a aria-label="FerraraToday article on Bilquis (opens in a new tab)" href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" rel="noopener" target="_blank" title="FerraraToday article on Bilquis">FerraraToday article on Bilquis →</a></p>
   </div>
   </div>

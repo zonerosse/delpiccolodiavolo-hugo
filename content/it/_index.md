@@ -69,8 +69,7 @@ custom_content: |
   <!--BLOCCO:3-->
   <section class="section">
   <div class="section-inner">
-  <span class="section-label">I nostri cuccioli</span>
-  <h2 class="section-title">Nati e cresciuti qui, a Ostellato</h2>
+  <h2 class="section-title"><span class="section-label">I nostri cuccioli</span>Nati e cresciuti qui, a Ostellato</h2>
   <div class="n-foto3">
   <figure><img alt="Bilquis Goddess Diabhal con i suoi cuccioli di Staffordshire Bull Terrier appena nati" decoding="async" height="480" loading="lazy" src="/images/cuccioli-bilquis-nati-1.webp" width="435"/><figcaption>
   <span class="n-quando">Il primo mese</span>
@@ -93,7 +92,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">In chiaro</span>
-  <h2 class="section-title">Cosa non facciamo</h2>
+  <h2 class="section-title">Cosa non facciamo nel nostro allevamento di Staffy</h2>
   <p>A volte si capisce meglio un allevamento da quello che non fa.</p>
   <p>L'allevamento Del Piccolo Diavolo è a Ostellato, in provincia di Ferrara. Qui i <a href="/cuccioli-staffordshire-bull-terrier/" title="Cuccioli Staffordshire Bull Terrier">cuccioli di Staffordshire Bull Terrier</a> nascono poche volte, escono con il pedigree ENCI dopo i 60 giorni di legge e partono solo da qui. Queste sono le quattro cose che non facciamo.</p>
 
@@ -105,8 +104,7 @@ custom_content: |
   <!--BLOCCO:5-->
   <section class="section section-alt">
   <div class="section-inner">
-  <span class="section-label">Come lavoriamo</span>
-  <h2 class="section-title">Una cucciolata l’anno, a volte nessuna</h2>
+  <h2 class="section-title"><span class="section-label">Come lavoriamo</span>Una cucciolata l’anno, a volte nessuna</h2>
   <p>Del Piccolo Diavolo è un allevamento di Staffordshire Bull Terrier, lo Staffy per gli appassionati, a <strong>Ostellato, in provincia di Ferrara</strong>, attivo dal <strong>2013</strong>. Paolo Boldrini segue la razza dal 2005. Prima di far nascere una cucciolata ha passato otto anni a studiarla.</p>
   <div class="n-percorso">
   <div class="n-passo"><h3>Quante cucciolate, quali test</h3><div><p>Facciamo <strong>una cucciolata l'anno, occasionalmente due, a volte nessuna</strong>, mai su richiesta. Tutti i riproduttori sono testati per <strong>L2-HGA e HC (gene HSF4)</strong>, o esenti per via parentale con i referti dei genitori. I nostri cani sono esenti anche dalla <strong>mielopatia degenerativa (gene SOD1)</strong>. I referti sono pubblicati sul sito, con il nome e il microchip del cane.</p></div></div>
@@ -122,7 +120,7 @@ custom_content: |
   <section class="section">
   <div class="section-inner">
   <span class="section-label">Verificabile</span>
-  <h2 class="section-title">Come si controlla quello che scriviamo</h2>
+  <h2 class="section-title">Test genetici, pedigree e microchip: come controllarli</h2>
   <p>Ogni allevamento scrive di selezionare per la salute. È una frase che non costa niente, e infatti la scrivono tutti. La differenza sta in cosa si può controllare senza dover credere a nessuno.</p>
   <div class="n-2c" style="margin-top:2rem">
   <p>Quello che dice un allevamento di Staffordshire Bull Terrier si può controllare in quattro modi, tutti da fuori e senza chiedere niente all'allevatore. I <strong>referti dei test genetici</strong> valgono solo se c'è scritto il microchip del cane. Le <strong>genealogie</strong> si vedono su SBTPedigree, l'archivio internazionale della razza, con nonni, bisnonni e fratelli di cucciolata (cosa guardare lo spiega <a href="/come-si-legge-un-pedigree/" title="Come si legge un pedigree">come si legge un pedigree</a>). Il <strong>numero di cucciolate di una femmina</strong> si controlla sul libro genealogico ENCI, sempre con il microchip. I <strong>titoli in esposizione</strong> stanno nei cataloghi pubblici, con il nome del giudice. Del Piccolo Diavolo pubblica tutti e quattro questi dati, microchip compresi.</p>
@@ -176,7 +174,7 @@ custom_content: |
   <section class="section section-alt">
   <div class="section-inner">
   <span class="section-label">Risultati in esposizione</span>
-  <h2 class="section-title">Cosa dicono i giudici dei cani che alleviamo</h2>
+  <h2 class="section-title">Cosa dicono i giudici dei nostri Staffordshire Bull Terrier in esposizione</h2>
   <p style="max-width:760px">Questi sono i risultati dei nostri Staffy sui ring italiani e internazionali. Non li diamo noi: li danno i giudici, e sono scritti nei cataloghi pubblici.</p>
   <div class="n-cani">
   <div class="n-cane"><img alt="Bilquis Goddess Diabhal, Staffordshire Bull Terrier dell'allevamento Del Piccolo Diavolo" decoding="async" height="396" loading="lazy" src="/images/femmina-bilquis.webp" width="301"/><div>
@@ -214,7 +212,7 @@ custom_content: |
   <img alt="Bilquis Goddess Diabhal, Campionessa Italiana, fattrice dell'allevamento Staffordshire Bull Terrier Del Piccolo Diavolo" decoding="async" height="396" loading="lazy" src="/images/femmina-bilquis.webp" width="301"/>
   <div>
   <small>Ne hanno parlato · 6 gennaio 2026</small>
-  <h2>“Da Ferrara alla conquista del mondo: Bilquis, la cagnolina di 3 anni che fa incetta di premi”</h2>
+  <p class="n-press-t">“Da Ferrara alla conquista del mondo: Bilquis, la cagnolina di 3 anni che fa incetta di premi”</p>
   <p><strong>FerraraToday</strong> · <a aria-label="Articolo di FerraraToday su Bilquis (si apre in una nuova scheda)" href="https://www.ferraratoday.it/social/cane-Bilquis-Goddess-Diabhal-ostellato-piccolo-diavolo-paolo-boldrini-mondiale.html" rel="noopener" target="_blank" title="Articolo di FerraraToday su Bilquis">articolo di FerraraToday su Bilquis →</a></p>
   </div>
   </div>
