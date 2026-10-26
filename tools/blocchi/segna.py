@@ -97,9 +97,10 @@ def blocchi(s, markdown):
     sezioni = [(m.start(), m.end()) for m in re.finditer(r"<section\b.*?</section>", s, re.S)]
     in_sezione = lambda p: any(a <= p < b for a, b in sezioni)
     unita = []
+    # la sezione «Ne hanno parlato» della Home ha il titolo dell'articolo in <p class="n-press-t"> (non piu' h2, 26/10/2026)
     for a, b in sezioni:
         t = s[a:b]
-        if re.search(r"<h[12]\b|" + SEGNAPOSTO, t) or (markdown and re.search(r"^##\s", t, re.M)):
+        if re.search(r"<h[12]\b|class=\"n-press-t\"|" + SEGNAPOSTO, t) or (markdown and re.search(r"^##\s", t, re.M)):
             unita.append((a, b, "h1" if "<h1" in t else "sec"))
     for m in re.finditer(r"^[ \t]*" + SEGNAPOSTO + r"[ \t]*$", s, re.M):
         if not in_sezione(m.start()):
