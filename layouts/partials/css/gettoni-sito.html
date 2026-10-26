@@ -1,0 +1,8 @@
+{{- /* Parole (gettoni) di tutto ciò che può comparire su ogni pagina: layout, partial, dati, traduzioni, hugo.toml.
+     Una regola CSS che usa solo classi presenti qui resta su tutte le pagine. Torna una mappa {parola: 1}. (26/10/2026) */ -}}
+{{- $testo := partial "css/leggi-cartella.html" "layouts" -}}
+{{- $testo = printf "%s %s %s" $testo (partial "css/leggi-cartella.html" "data") (partial "css/leggi-cartella.html" "i18n") -}}
+{{- with os.ReadFile "hugo.toml" }}{{ $testo = printf "%s %s" $testo . }}{{ end -}}
+{{- $g := findRE `[A-Za-z_][\w-]*` $testo | uniq -}}
+{{- $json := printf `{"%s":1}` (delimit $g `":1,"`) -}}
+{{- return (transform.Unmarshal $json) -}}

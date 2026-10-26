@@ -1,0 +1,24 @@
+{{- /* Divide il CSS minificato di un pacchetto in regole, una volta sola per pacchetto (partialCached).
+     Per ogni regola tiene, selettore per selettore, le classi e gli id che NON compaiono nei layout: la pagina deve
+     contenerli tutti perché la regola serva. Regole con :is/:where/:has, @font-face, @keyframes ecc.: sempre tenute.
+     Classi dei calcolatori (pp-, bf-, dc-), che gli script compongono a pezzi: valgono come «CALCOLATORE». (26/10/2026) */ -}}
+{{- $testo := .Content -}}
+{{- $G := partialCached "css/gettoni-sito.html" "sito" -}}
+{{- $pezzi := findRE `@media[^{]*\{(?:[^{}]*\{[^{}]*\})*[^{}]*\}|@[^{};]*\{(?:[^{}]*\{[^{}]*\})*[^{}]*\}|@[^{};]*;|[^{}@][^{}]*\{[^{}]*\}` $testo -}}
+{{- $ok := eq (delimit $pezzi "") $testo -}}
+{{- $voci := slice -}}
+{{- $regola := dict -}}
+{{- range $pezzi -}}
+  {{- if hasPrefix . "@media" -}}
+    {{- $testa := index (findRE `^@media[^{]*` . 1) 0 -}}
+    {{- $corpo := substr . (add (len $testa) 1) (sub (len .) (add (len $testa) 2)) -}}
+    {{- $dentro := slice -}}
+    {{- range findRE `[^{}]+\{[^{}]*\}` $corpo }}{{ $dentro = $dentro | append (partial "css/regola.html" (dict "r" . "G" $G)) }}{{ end -}}
+    {{- $voci = $voci | append (dict "media" $testa "regole" $dentro) -}}
+  {{- else if hasPrefix . "@" -}}
+    {{- $voci = $voci | append (dict "css" . "sempre" true) -}}
+  {{- else -}}
+    {{- $voci = $voci | append (partial "css/regola.html" (dict "r" . "G" $G)) -}}
+  {{- end -}}
+{{- end -}}
+{{- return (dict "ok" $ok "voci" $voci) -}}
