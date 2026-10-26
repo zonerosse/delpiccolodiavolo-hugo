@@ -257,6 +257,8 @@
   {{ if and .Params.articolo (not .IsHome) }}{{ $voci = $voci | append (dict "nome" "Blog" "url" ("blog/" | absLangURL)) }}{{ end }}
   {{ if and .Title (not .IsHome) }}{{ $voci = $voci | append (dict "nome" .Title "url" $currentURL) }}{{ end }}
 {{ end }}
+{{/* Con una sola voce (la Home) il percorso non serve: Google lo mostra solo da due livelli (Paolo, 26/10/2026) */}}
+{{ if gt (len $voci) 1 }}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -272,6 +274,7 @@
   ]
 }
 </script>
+{{ end }}
 
 {{/* FAQPage della home: ora lo genera lo schema automatico piu' sotto, leggendo le
      domande visibili nella pagina, cosi' dati strutturati e testo coincidono. */}}
