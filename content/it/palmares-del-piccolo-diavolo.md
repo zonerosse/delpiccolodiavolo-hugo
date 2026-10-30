@@ -2,7 +2,7 @@
 title: "Palmares Staffordshire Bull Terrier"
 titleSeo: "Palmares: campioni italiani e internazionali dal 2013"
 date: 2026-01-04
-lastmod: 2026-10-24
+lastmod: 2026-10-30
 tipoPagina: "CollectionPage"
 notte: true
 translationKey: "palmares"
@@ -35,6 +35,11 @@ custom_content: |
   <img src="/images/queen-of-california.webp" alt="Queen of California Aka Desy - Giovane Campionessa Italiana Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="200" style="border-radius:12px" srcset="/images/queen-of-california-400w.webp 400w, /images/queen-of-california-800w.webp 800w, /images/queen-of-california.webp 1400w" sizes="(max-width: 300px) 100vw, 300px">
   </div>
   <div>
+  <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
+  <h3>CACIB e due CAC in Slovenia, a Vrtojba</h3>
+  <p><strong>24 e 25 ottobre 2026: esposizioni di Vrtojba (Slovenia), Kinološka zveza Slovenije</strong></p>
+  <p>Classe Intermedia, tre esposizioni in due giorni. Sabato, all'Internazionale: 1° Eccellente, CAC e CACIB, giudice Sunčica Lazić. Sabato pomeriggio, alla Nazionale: 2° Eccellente, Riserva di CAC. Domenica, all'Internazionale: 1° Eccellente e CAC.</p>
+  </div>
   <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
   <h3>CACIB all'Esposizione Internazionale di Treviso</h3>
   <p><strong>17 ottobre 2026: Esposizione Internazionale di Treviso, a Santa Lucia di Piave (TV)</strong></p>
