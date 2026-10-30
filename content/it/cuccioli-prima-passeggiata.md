@@ -89,7 +89,6 @@ custom_content: |
 
   <!--BLOCCO:8-->
   <h2>Guinzaglio morbido dal primo giorno</h2>
-  <figure class="n-foto1"><img src="/images/foto/staffordshire-bull-terrier-con-pettorina-di-sera.webp" alt="Giovane Staffordshire Bull Terrier con la pettorina, durante la passeggiata della sera" width="410" height="480" loading="lazy" decoding="async"></figure>
   <p>Questa razza è forte, e un cucciolo che impara che tirare funziona diventa un adulto che ti trascina per la strada. La regola è semplice e dura: <strong>quando il guinzaglio è teso, ci si ferma</strong>. Quando si allenta, si riparte. Non serve altro, e nessuna attrezzatura sostituisce la costanza.</p>
   <p>Si premia la posizione che si vuole invece di correggere quella che non si vuole. Un premio consegnato all'altezza del ginocchio sinistro, ripetutamente, insegna a un cucciolo dove succedono le cose buone molto più in fretta di qualsiasi strattone.</p>
   <!--/BLOCCO:8-->

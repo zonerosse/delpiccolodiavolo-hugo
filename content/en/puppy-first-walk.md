@@ -91,7 +91,6 @@ custom_content: |
 
   <!--BLOCCO:8-->
   <h2>Loose lead walking from the first day</h2>
-  <figure class="n-foto1"><img src="/images/foto/staffordshire-bull-terrier-con-pettorina-di-sera.webp" alt="A young Staffordshire Bull Terrier in its harness on the evening walk" width="410" height="480" loading="lazy" decoding="async"></figure>
   <p>This breed is strong, and a puppy that learns pulling works becomes an adult that drags you down the street. The rule is simple and hard: <strong>when the lead is tight, you stop</strong>. When it slackens, you move on. Nothing else is required, and no equipment substitutes for consistency.</p>
   <p>Reward the position you want rather than correcting the one you do not. A treat delivered at your left knee, repeatedly, teaches a puppy where the good things happen far faster than any amount of pulling back.</p>
   <!--/BLOCCO:8-->

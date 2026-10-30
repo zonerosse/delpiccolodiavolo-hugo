@@ -138,7 +138,6 @@ custom_content: |
 
   <!--BLOCCO:7-->
   <h2>How much commitment it really takes</h2>
-  <figure class="n-foto1"><img src="/images/foto/giovane-staffordshire-bull-terrier-con-pettorina.webp" alt="A young Staffordshire Bull Terrier in its harness, ready for the evening walk" width="410" height="480" loading="lazy" decoding="async"></figure>
   <p>Let's set out what it takes, so there are no surprises:</p>
   <ul>
   <li><strong>Exercise:</strong> walks and play every day, more when young; how much is up to the dog</li>

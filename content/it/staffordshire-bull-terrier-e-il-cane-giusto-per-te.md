@@ -136,7 +136,6 @@ custom_content: |
 
   <!--BLOCCO:7-->
   <h2>Quanto impegno richiede, in concreto</h2>
-  <figure class="n-foto1"><img src="/images/foto/giovane-staffordshire-bull-terrier-con-pettorina.webp" alt="Giovane Staffordshire Bull Terrier con la pettorina, pronto per la passeggiata della sera" width="410" height="480" loading="lazy" decoding="async"></figure>
   <p>Mettiamo in fila quello che serve, così non ci sono sorprese:</p>
   <ul>
   <li><strong>Movimento:</strong> passeggiate e gioco ogni giorno, di più da giovane; quanto, lo decide il cane</li>

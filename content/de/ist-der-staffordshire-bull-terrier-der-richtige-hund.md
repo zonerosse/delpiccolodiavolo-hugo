@@ -138,7 +138,6 @@ custom_content: |
 
   <!--BLOCCO:7-->
   <h2>Wie viel Aufwand es konkret erfordert</h2>
-  <figure class="n-foto1"><img src="/images/foto/giovane-staffordshire-bull-terrier-con-pettorina.webp" alt="Ein junger Staffordshire Bull Terrier mit Brustgeschirr, bereit für den Abendspaziergang" width="410" height="480" loading="lazy" decoding="async"></figure>
   <p>Schreiben wir auf, was es braucht, damit es keine Überraschungen gibt:</p>
   <ul>
   <li><strong>Bewegung:</strong> Spaziergänge und Spiel jeden Tag, mehr in jungen Jahren; wie viel, entscheidet der Hund</li>

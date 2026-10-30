@@ -84,7 +84,6 @@ custom_content: |
 
   <!--BLOCCO:8-->
   <h2>Leinenführigkeit ab dem ersten Tag</h2>
-  <figure class="n-foto1"><img src="/images/foto/staffordshire-bull-terrier-con-pettorina-di-sera.webp" alt="Ein junger Staffordshire Bull Terrier mit Brustgeschirr beim Abendspaziergang" width="410" height="480" loading="lazy" decoding="async"></figure>
   <p>Diese Rasse ist kräftig, und ein Welpe, der lernt, dass Ziehen funktioniert, wird zum erwachsenen Hund, der Sie durch die Straße schleift. Die Regel ist einfach und unbequem: <strong>ist die Leine straff, bleiben Sie stehen</strong>. Wird sie locker, gehen Sie weiter. Mehr braucht es nicht, und kein Hilfsmittel ersetzt Konsequenz.</p>
   <p>Belohnen Sie die gewünschte Position, statt die unerwünschte zu korrigieren. Ein Leckerchen, immer wieder auf Höhe Ihres linken Knies gegeben, lehrt einen Welpen schneller, wo das Gute passiert, als jedes Zurückziehen.</p>
   <!--/BLOCCO:8-->
