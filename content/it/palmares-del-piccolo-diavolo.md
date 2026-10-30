@@ -35,15 +35,34 @@ custom_content: |
   <img src="/images/queen-of-california.webp" alt="Queen of California Aka Desy - Giovane Campionessa Italiana Staffordshire Bull Terrier" loading="lazy" decoding="async" width="300" height="200" style="border-radius:12px" srcset="/images/queen-of-california-400w.webp 400w, /images/queen-of-california-800w.webp 800w, /images/queen-of-california.webp 1400w" sizes="(max-width: 300px) 100vw, 300px">
   </div>
   <div>
-  <div class="evs">
-  <div class="ev"><div class="ev-d"><b>24-25</b><span>ott 2026</span></div><div class="ev-c"><div class="ev-l">Vrtojba · Slovenia 🇸🇮</div><h3>Tre esposizioni in due giorni</h3><div class="pls"><span class="pl pl-top"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M8 21h8M12 17v4M7 4h10v5a5 5 0 0 1-10 0z"/><path d="M17 5h3v2a3 3 0 0 1-3 3M7 5H4v2a3 3 0 0 0 3 3"/></svg>CACIB</span><span class="pl">CAC</span><span class="pl">CAC</span><span class="pl">R.CAC</span></div><p>Classe Intermedia. Sabato, all'Internazionale: 1° Eccellente, CAC e CACIB, giudice Sunčica Lazić. Sabato pomeriggio, alla Nazionale: 2° Eccellente, Riserva di CAC. Domenica, all'Internazionale: 1° Eccellente e CAC.</p></div></div>
-  <div class="ev"><div class="ev-d"><b>17</b><span>ott 2026</span></div><div class="ev-c"><div class="ev-l">Santa Lucia di Piave (TV) · Italia 🇮🇹</div><h3>Esposizione Internazionale di Treviso</h3><div class="pls"><span class="pl pl-top"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M8 21h8M12 17v4M7 4h10v5a5 5 0 0 1-10 0z"/><path d="M17 5h3v2a3 3 0 0 1-3 3M7 5H4v2a3 3 0 0 0 3 3"/></svg>CACIB</span><span class="pl">CAC</span><span class="pl">BOS</span></div><p>Classe Intermedia: 1° Eccellente, CAC, CACIB e BOS, cioè miglior soggetto del sesso opposto al miglior di razza. Giudice: Guido Schaffer (Germania).</p></div></div>
-  <div class="ev"><div class="ev-d"><b>17</b><span>mag 2026</span></div><div class="ev-c"><div class="ev-l">Albarella (RO) · Italia 🇮🇹</div><h3>Giovane Campionessa Italiana ENCI</h3><div class="pls"><span class="pl">JCAC</span><span class="pl">JBOB</span><span class="pl"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M8 21h8M12 17v4M7 4h10v5a5 5 0 0 1-10 0z"/><path d="M17 5h3v2a3 3 0 0 1-3 3M7 5H4v2a3 3 0 0 0 3 3"/></svg>BOB</span></div><p>Classe Giovani: 1° Eccellente. Premiata dal Gruppo Cinofilo Polesano come <strong>miglior Staffordshire Bull Terrier</strong>. Con questo risultato conquista il titolo di Giovane Campionessa Italiana.</p></div></div>
+  <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
+  <h3>CACIB e due CAC in Slovenia, a Vrtojba</h3>
+  <p><strong>24 e 25 ottobre 2026: esposizioni di Vrtojba (Slovenia), Kinološka zveza Slovenije</strong></p>
+  <p>Classe Intermedia, tre esposizioni in due giorni. Sabato, all'Internazionale: 1° Eccellente, CAC e CACIB, giudice Sunčica Lazić. Sabato pomeriggio, alla Nazionale: 2° Eccellente, Riserva di CAC. Domenica, all'Internazionale: 1° Eccellente e CAC.</p>
   </div>
-  <p class="ev-nota">Figlia di CH. Elitebull Prospect × Lackyle Bean Croí Olc, la cucciolata del 01/02/2025. Proprietario: Stefano Tevini. Handler: Vittoria Passerini, al suo 10° anniversario di esposizioni, iniziata proprio ad Albarella nel 2016 in Junior Handler a 7 anni.</p>
+  <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
+  <h3>CACIB all'Esposizione Internazionale di Treviso</h3>
+  <p><strong>17 ottobre 2026: Esposizione Internazionale di Treviso, a Santa Lucia di Piave (TV)</strong></p>
+  <p>Classe Intermedia: 1° Eccellente, CAC, CACIB e BOS, cioè miglior soggetto del sesso opposto al miglior di razza. Giudice: Guido Schaffer (Germania).</p>
+  </div>
+  <div class="content-block" style="border-left:4px solid #c9a227;padding-left:1.5rem;margin-bottom:1rem">
+  <h3>Giovane Campionessa Italiana ENCI 2026</h3>
+  <p><strong>17 maggio 2026 — Esposizione Nazionale di Albarella (RO)</strong></p>
+  <p>Classe Giovani: 1° Eccellente, JCAC, JBOB, BOB. Premiata dal Gruppo Cinofilo Polesano come <strong>miglior Staffordshire Bull Terrier</strong>. Con questo risultato conquista il titolo di Giovane Campionessa Italiana.</p>
+  <p>Figlia di CH. Elitebull Prospect × Lackyle Bean Croí Olc — la cucciolata del 01/02/2025. Proprietario: Stefano Tevini. Handler: Vittoria Passerini, al suo 10° anniversario di esposizioni, iniziata proprio ad Albarella nel 2016 in Junior Handler a 7 anni.</p>
+  </div>
   </div>
   </div>
 
+  <div class="risultati-grid" style="display:grid;gap:0.75rem;margin-top:1.5rem">
+
+  <div class="risultato" style="display:flex;flex-wrap:wrap;gap:.5rem;padding:1rem;background:#c9a227;border-radius:8px;align-items:center;color:#3a2f1a">
+  <span style="background:#fff;color:#7d620e;padding:0.25rem 0.5rem;border-radius:4px;font-size:0.75rem;font-weight:700">JCH IT</span>
+  <span><strong>Esposizione Nazionale — Albarella (RO)</strong> - 17 mag 2026</span>
+  <span style="font-weight:600">JCAC + JBOB + BOB</span>
+  </div>
+
+  </div>
 
   <p style="margin-top:1.5rem;font-style:italic;color:#4a5768">Giovane Campionessa Italiana. Miglior Staffy — Gruppo Cinofilo Polesano. Handler: Vittoria Passerini. Proprietario: Stefano Tevini.</p>
 
