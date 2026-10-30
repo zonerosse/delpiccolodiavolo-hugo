@@ -712,3 +712,22 @@ figure.n-foto1 img{display:block;width:100%;height:auto;max-height:440px;object-
 .gallery-item img{object-fit:contain;background:#1f2d42}
 .notte-pagina .section-title>.section-label{font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;line-height:1.6;font-weight:700}
 .notte-pagina .n-press .n-press-t{font-family:Georgia,"Times New Roman",serif;font-size:1.25rem!important;font-weight:400;line-height:1.4!important;color:var(--n-cr);margin:.4rem 0}
+/* Palmarès 30/10/2026 (Paolo, anteprime 48-51): targa calda con la coccarda, titoli del cane, schede delle esposizioni */
+.notte-pagina .section-label.titolo-cane{display:inline-flex!important;align-items:center;gap:1rem;margin:0 0 1rem!important;padding:.7rem 1.6rem .7rem .8rem;border-radius:999px;border:1.5px solid rgba(240,204,134,.55);background:radial-gradient(120% 160% at 0% 50%,rgba(240,204,134,.22),rgba(201,138,60,.10) 45%,rgba(37,53,76,0) 80%);box-shadow:0 6px 24px rgba(0,0,0,.25);font-family:Georgia,"Times New Roman",serif!important;font-style:italic;text-transform:none!important;letter-spacing:.01em!important;font-weight:700!important;font-size:clamp(1.15rem,2.6vw,1.5rem)!important;color:#f6dca6!important}
+.titolo-cane .coccarda{width:42px;height:54px;flex:none;margin:-.5rem 0;filter:drop-shadow(0 2px 6px rgba(0,0,0,.35))}
+.titoli-cane{display:flex;flex-wrap:wrap;gap:.55rem;margin:-1rem 0 2rem}
+.titoli-cane span{display:inline-flex;align-items:center;gap:.45rem;padding:.4rem .85rem .4rem .55rem;border-radius:999px;border:1px solid rgba(240,204,134,.45);background:rgba(240,204,134,.07);color:#f6dca6;font-weight:600;font-size:.95rem}
+.evs{display:grid;gap:1.2rem}
+.ev{display:grid;grid-template-columns:7.5rem 1fr;gap:1.4rem;background:var(--n-card);border:1px solid var(--n-ln);border-radius:16px;padding:1.4rem;position:relative;overflow:hidden}
+.ev:before{content:"";position:absolute;left:0;top:0;bottom:0;width:4px;background:var(--n-go)}
+.ev-d{border-right:1px solid var(--n-ln);padding-right:1rem;text-align:center;display:flex;flex-direction:column;justify-content:center}
+.ev-d b{font-family:Georgia,serif;font-size:2.2rem;line-height:1;color:var(--n-go)}
+.ev-d span{text-transform:uppercase;letter-spacing:.12em;font-size:.8rem;color:var(--n-cr);margin-top:.4rem}
+.ev-l{font-size:.8rem;letter-spacing:.1em;text-transform:uppercase;color:var(--n-mu)}
+.notte-pagina .ev h3{font-family:Georgia,serif;font-size:1.45rem!important;color:#fff!important;margin:.25rem 0 .8rem!important}
+.pls{display:flex;flex-wrap:wrap;gap:.5rem;margin-bottom:.8rem}
+.pl{display:inline-flex;align-items:center;gap:.35rem;border:1.5px solid var(--n-go)!important;color:var(--n-go);border-radius:8px;padding:.35rem .75rem;font-weight:800;letter-spacing:.06em;font-size:1rem}
+.pl-top{border:2.5px solid var(--n-go)!important;font-size:1.15rem;padding:.45rem .9rem;color:#fff;box-shadow:0 0 0 3px rgba(240,204,134,.18)}
+.notte-pagina .ev p{margin:0!important;font-size:1rem!important;color:var(--n-mu)}
+.notte-pagina .ev-nota{margin-top:1rem!important;font-size:.95rem!important;color:var(--n-mu);font-style:italic}
+@media(max-width:600px){.ev{grid-template-columns:1fr;gap:.8rem}.ev-d{border-right:0;border-bottom:1px solid var(--n-ln);padding:0 0 .7rem;flex-direction:row;align-items:baseline;gap:.7rem;justify-content:flex-start}.ev-d b{font-size:1.9rem}}

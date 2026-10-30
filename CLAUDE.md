@@ -353,6 +353,10 @@ The features bar keeps scrolling by Paolo's choice (13/10/2026).
   - Foto in testata sempre intera, mai tagliata (scelta A): `object-fit:contain` su fondo scuro; al telefono alta il 62% dello
     schermo. La foto di Bilquis in testata è `bilquis-campionessa-hero.avif` (800×976), non più `femmina-bilquis-hero.avif` (301×396, sgranata).
 
+## Palmarès: targa del titolo, titoli e schede (30/10/2026, Paolo: anteprime 48-51, «Targa calda»)
+- Sopra il nome di ogni cane `<span class="section-label titolo-cane">` con la coccarda a colori (svg `.coccarda`) e il titolo principale; sotto il nome `<div class="titoli-cane">` con tutti i titoli, ognuno con una coccarda piccola. Niente alloro (Paolo: «sanno da morto»), niente righe sopra e sotto né maiuscolo spaziato («sembra un'epigrafe»).
+- Le esposizioni di Queen sono schede `.evs > .ev` (data grande a sinistra, luogo con bandiera, titolo, targhette `.pl` dei titoli vinti, `.pl-top` per il CACIB con la coppa, testo). Nuovi risultati: una scheda nuova in cima, nelle tre lingue. Stile in fondo a `notte.css`.
+
 ## Calcolatore delle crocchette (18/10/2026, Paolo)
 - Pagine `calcolatore-crocchette-cane` / `dog-food-calculator` / `futterrechner-hund` (translationKey `calcolatore-crocchette`).
   Il calcolatore è `static/js/calcolatore-crocchette.js` (testi IT/EN/DE dentro lo script), stile `.pp*` in fondo a `main.css`.
